@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Add Reservation</title>
+</head>
+
+<body>
+  <div class="wrapper">
+    <form action="">
+      <h1>Add Reservation</h1>
+      <div class="input-box">
+        <input type="text" placeholder="Name" name="name" required [(ngModel)]="name">
+      </div>
+      <div class="input-box">
+        <input type="number" placeholder="Age" name="age" required [(ngModel)]="age">
+      </div>
+      <div class="input-box">
+        <input type="text" placeholder="Address" name="address" required [(ngModel)]="address">
+      </div>
+      <div class="input-box">
+        <input type="tel" placeholder="Phone Number" name="phoneNumber" required [(ngModel)]="phone">
+      </div>
+      <div class="input-box">
+        <input type="number" placeholder="No of Guest" name="noOfGuest" required [(ngModel)]="noofguest">
+      </div>
+      <div class="input-box">
+        <input type="text" placeholder="Status" name="status" required [(ngModel)]="status">
+      </div>
+      <div class="input-box">
+        <input type="date" placeholder="Check-In Date" name="check-in" required [(ngModel)]="checkin">
+      </div>
+      <div class="input-box">
+        <input type="date" placeholder="Check-Out Date" name="check-out" required [(ngModel)]="checkout">
+      </div>
+      <div class="input-box">
+        <label class="type">Room Type</label>
+        <select name="roomtype" id="roomtype" [(ngModel)]="roomtype">
+            <option value="Single Bed">Single Bed</option>
+            <option value="Double Bed">Double Bed</option>
+            <option value="Family Room">Family Room</option>
+            <option value="Executive Bed">Executive Bed</option>
+            <option value="Junior Suite">Junior Suite</option>
+            <option value="Presidential Suite">Presidential Suite</option>
+            <option value="Deluxe Room">Deluxe Room</option>
+        </select>
+      </div>
+      <button type="submit" class="btn" (click)="addReservation()">Add Booking</button>
+      <h2>{{msg}}</h2>
+    </form>
+  </div>
+  <!-- <footer class="footer">
+    <div class="container">
+        <div class="social-media">
+            <i class="fa-brands fa-facebook fa-4x"></i>
+            <i class="fa-brands fa-instagram fa-4x"></i>
+            <i class="fa-brands fa-twitter fa-4x"></i>
+        </div>
+        <p>Footer Section &copy; 2024, All Rights Reserved</p>
+    </div>
+</footer> -->
+</body>
+
+</html>

@@ -1,0 +1,294 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap');
+::ng-deep *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.7;
+}
+li{
+    list-style: none;
+}
+a{
+    font-size: 1.6rem;
+    text-decoration: none;
+}
+p, li{
+    font-size: 1.0rem;
+    letter-spacing: 0.15em;
+    margin-bottom: 0.5em;
+}
+h1, h2, h3{
+    font-weight: 500;
+    letter-spacing: 0.10em;
+    margin-bottom: 0.5em;
+}
+.temp:hover{
+    cursor: pointer;
+}
+.div2{
+    background: #e63946;
+}
+/* ---------------------------------INPUT--------------------------- */
+.input-box {
+    position: relative;
+    width: 100%;
+    height: 50px;
+    margin: 30px 0;
+}
+
+.input-box input {
+    width: 25%;
+    height: 100%;
+    background: #2C7865;
+    border: none;
+    outline: none;
+    border: 2px solid rgba(255, 255, 255, .2);
+    border-radius: 40px;
+    font-size: 16px;
+    color: #fff;
+    padding: 20px 45px 20px 20px;
+}
+
+.input-box input::placeholder {
+    color: #fff;
+}
+/* ---------------------------------INPUT--------------------------- */
+/* ---------------------------------UTILITY CLASSES--------------------------- */
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 70%;
+}
+.large-heading{
+    font-size: 3.5rem;
+}
+.medium-heading{
+    font-size: 2.2rem;
+}
+.small-heading{
+    font-size: 1.2rem;
+}
+.text-red{
+    color: #e63946;
+}
+.text-light{
+    color: #f4f4f4;
+}
+.text-black{
+    color: #333333;
+}
+.text-grey{
+    color: #555555;
+}
+.btn{
+    display: inline-block;
+    padding: 0.2em 1.5em;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin: 0.5em 0;
+    color: #e63946;
+}
+.btn-primary{
+    background-color: #ffffff;
+    border-radius: 10em;
+}
+.btn-primary:hover{
+    background-color: #dddddd;
+}
+.btn-secondary{
+    color: #e63946;
+    border: 2px solid #e63946;
+    border-radius: 1.5em;
+    background: #ffffff;
+}
+.btn-secondary:hover{
+    background-color: #fcf3f2;
+}
+/* ---------------------------------UTILITY CLASSES--------------------------- */
+.header{
+    position: relative;
+    height: 95vh;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(./pexels-eberhard-grossgasteiger-1624438.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.navbar{
+    /* border: 2px solid white; */
+    padding: 1rem;
+}
+.header .navbar .logo{
+    float: left;
+}
+.header .navbar .nav-items{
+    float: right;
+    margin-top: 0.2rem;
+}
+.header .navbar .items{
+    display: inline-block;
+    padding: 0.1rem;
+    text-transform: uppercase;
+}
+.navbar a:link, .navbar a:visited{
+    color: #f4f4f4;
+}
+.navbar a{
+    padding: 0.3rem;
+}
+.navbar a:hover{
+    border-bottom: 1px solid #ffffff;
+}
+.navbar::after{
+    content: " ";
+    display: block;
+    clear: both;
+}
+.temp:hover{
+    cursor: pointer;
+}
+.navbar .logo,.navbar a{
+    color: white;
+}
+.header-content{
+    position: absolute;
+    /* border: 2px solid #ffffff; */
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2));
+}
+.header-content h1{
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.header-content p{
+    text-transform: uppercase;
+}
+/* -------------------------SHOWCASE STYLING--------------------------------- */
+.showcase{
+    background: #dddddd;
+    padding: 10rem 0;
+}
+.row{
+    /* border: 2px solid red; */
+    background: #ffffff;
+    /* background: url(./header-image.JPG); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 820px;
+    width: 100%;
+    box-shadow: 0px 0px 20px 0px #333333;
+}
+.row1{
+    margin-bottom: 10rem;
+}
+.head-mid{
+    text-align: center;
+}
+/* .row1 .img-box, .row2 .text-box{
+    float: left;
+    width: 50%;
+}
+.row2 .img-box, .row1 .text-box{
+    float: right;
+    width: 50%;
+} */
+.row3 .img-box, .row3 .text-box{
+    float: left;
+    width: 50%;
+}
+.row4 .img-box, .row4 .text-box{
+    float: right;
+    width: 50%;
+}
+.row5 .img-box, .row5 .text-box{
+    float: LEFT;
+    width: 50%;
+}
+.row6 .img-box, .row6 .text-box{
+    float: LEFT;
+    width: 50%;
+}
+.row7 .img-box, .row7 .text-box{
+    float: LEFT;
+    width: 50%;
+}
+.row3{
+    margin-top: 10rem;
+}
+.row4{
+    margin-top: 10rem;
+}
+.row5{
+    margin-top: 10rem;
+}
+.row6{
+    margin-top: 10rem;
+}
+.row7{
+    margin-top: 10rem;
+}
+.row .img-box{
+    height: 100%;
+    /* border: 5px solid green; */
+}
+.row .text-box{
+    padding: 1.5rem;
+    /* border: 5px solid brown; */
+}
+.row .img-box img{
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.row::after{
+    content: " ";
+    clear: both;
+    display: block;
+}
+/* -------------------------SHOWCASE STYLING--------------------------------- */
+/* -------------------------FOOTER STYLING--------------------------------- */
+.footer{
+    background-color: #263238;
+    color: #ffffff;
+    text-align: center;
+    padding: 2rem;
+}
+i{
+    margin: 2rem;
+}
+/* -------------------------FOOTER STYLING--------------------------------- */
+
+/* -------------------------TABLE STYLING--------------------------------- */
+.tbl {
+    /* font-family: Arial, Helvetica, sans-serif; */
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 0.8rem;
+  }
+  
+  .tbl td, .tbl th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .tbl tr:nth-child(even){background-color: #f2f2f2;}
+  
+  .tbl tr:hover {background-color: #ddd;}
+  
+  .tbl th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+  }
+/* -------------------------TABLE STYLING--------------------------------- */

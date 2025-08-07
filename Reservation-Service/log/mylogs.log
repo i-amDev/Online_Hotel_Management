@@ -1,0 +1,978 @@
+[INFO ] 05-04-2024 03:38:12.337 pm [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 05-04-2024 03:42:33.554 pm [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 05-04-2024 03:44:10.594 pm [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - Bill for id 103 and for room Type of Double Bed for 4 rooms is 16000.0
+[INFO ] 05-04-2024 04:07:02.861 pm [http-nio-8081-exec-8] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 05-04-2024 04:07:08.494 pm [http-nio-8081-exec-9] com.reservation.service.Reservation_ServiceImpl - Bill for id 103 and for room Type of Double Bed for 4 rooms is 16000.0
+[INFO ] 05-04-2024 04:07:27.388 pm [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 104
+[INFO ] 05-04-2024 04:07:37.668 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - Reservation with id 108 deleted successfully!
+[INFO ] 05-04-2024 08:44:28.246 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 05-04-2024 08:47:46.142 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 05-04-2024 08:49:00.713 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 05-04-2024 08:51:51.135 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 05-04-2024 08:52:02.908 pm [http-nio-8081-exec-8] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 05-04-2024 08:55:50.880 pm [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 05-04-2024 10:16:53.661 pm [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 05-04-2024 10:17:24.754 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 05-04-2024 10:24:42.423 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 05-04-2024 10:24:51.096 pm [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - Bill for id 103 and for room Type of Double Bed for 4 rooms is 16000.0
+[INFO ] 06-04-2024 07:47:26.386 am [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 06-04-2024 07:47:44.593 am [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 104
+[ERROR] 06-04-2024 07:47:48.293 am [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - No data is present for the id 111
+[INFO ] 06-04-2024 10:11:43.524 am [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 06-04-2024 10:16:21.418 am [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 06-04-2024 10:17:06.899 am [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 105
+[INFO ] 06-04-2024 10:17:32.212 am [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - Bill for id 103 and for room Type of Single Bed for 3 rooms is 9000.0
+[INFO ] 06-04-2024 11:04:26.702 am [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 06-04-2024 11:05:03.276 am [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - Bill for id 103 and for room Type of Double Bed for 4 rooms is 16000.0
+[INFO ] 06-04-2024 11:05:28.383 am [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 105
+[INFO ] 06-04-2024 11:06:07.813 am [http-nio-8081-exec-8] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 06-04-2024 11:09:56.207 am [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[ERROR] 06-04-2024 11:11:47.249 am [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - No data is present for the id 110
+[INFO ] 06-04-2024 04:54:55.419 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 06-04-2024 04:54:55.546 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 06-04-2024 04:54:55.623 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 06-04-2024 04:54:55.644 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 06-04-2024 04:54:55.676 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 06-04-2024 04:54:55.686 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 06-04-2024 04:54:55.737 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 06-04-2024 04:54:55.744 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 06-04-2024 04:54:55.780 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 06-04-2024 04:54:55.794 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 06-04-2024 04:54:56.252 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 102 and for room Type of Single Bed for 2 rooms is 6000.0
+[INFO ] 06-04-2024 04:54:56.285 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 102 and for room Type of Single Bed for 2 rooms is 6000.0
+[INFO ] 06-04-2024 04:54:56.323 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 06-04-2024 04:54:56.342 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 06-04-2024 04:54:56.365 pm [main] com.reservation.service.Reservation_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 05:04:57.257 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 06-04-2024 05:04:57.424 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 06-04-2024 05:04:57.510 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 06-04-2024 05:04:57.532 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 06-04-2024 05:04:57.570 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 06-04-2024 05:04:57.582 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 06-04-2024 05:04:57.641 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 06-04-2024 05:04:57.648 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 06-04-2024 05:04:57.688 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 06-04-2024 05:04:57.705 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 06-04-2024 05:04:58.160 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 102 and for room Type of Single Bed for 2 rooms is 6000.0
+[INFO ] 06-04-2024 05:04:58.195 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 102 and for room Type of Single Bed for 2 rooms is 6000.0
+[INFO ] 06-04-2024 05:04:58.234 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 06-04-2024 05:04:58.254 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 06-04-2024 05:04:58.278 pm [main] com.reservation.service.Reservation_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 05:08:26.420 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 06-04-2024 05:08:26.511 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 06-04-2024 05:08:26.572 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 06-04-2024 05:08:26.589 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 06-04-2024 05:08:26.618 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 06-04-2024 05:08:26.627 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 06-04-2024 05:08:26.670 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 06-04-2024 05:08:26.677 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 06-04-2024 05:08:26.710 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 06-04-2024 05:08:26.723 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 06-04-2024 05:08:27.109 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 102 and for room Type of Single Bed for 2 rooms is 6000.0
+[INFO ] 06-04-2024 05:08:27.140 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 102 and for room Type of Single Bed for 2 rooms is 6000.0
+[INFO ] 06-04-2024 05:08:27.178 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 06-04-2024 05:08:27.197 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 06-04-2024 05:08:27.234 pm [main] com.reservation.service.Reservation_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 05:11:19.324 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 06-04-2024 05:11:19.429 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 06-04-2024 05:11:19.528 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 06-04-2024 05:11:19.551 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 06-04-2024 05:11:19.601 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 06-04-2024 05:11:19.616 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 06-04-2024 05:11:19.687 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 06-04-2024 05:11:19.696 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 06-04-2024 05:11:19.743 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 06-04-2024 05:11:19.762 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 06-04-2024 05:11:20.182 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 102 and for room Type of Single Bed for 2 rooms is 6000.0
+[INFO ] 06-04-2024 05:11:20.212 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 102 and for room Type of Single Bed for 2 rooms is 6000.0
+[INFO ] 06-04-2024 05:11:20.246 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 06-04-2024 05:11:20.292 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 06-04-2024 05:11:20.317 pm [main] com.reservation.service.Reservation_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 05:13:11.830 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 06-04-2024 05:13:11.954 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 06-04-2024 05:13:12.022 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 06-04-2024 05:13:12.038 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 06-04-2024 05:13:12.069 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 06-04-2024 05:13:12.076 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 06-04-2024 05:13:12.129 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 06-04-2024 05:13:12.135 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 06-04-2024 05:13:12.176 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 06-04-2024 05:13:12.193 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 06-04-2024 05:13:12.629 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 102 and for room Type of Single Bed for 2 rooms is 6000.0
+[INFO ] 06-04-2024 05:13:12.666 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 102 and for room Type of Single Bed for 2 rooms is 6000.0
+[INFO ] 06-04-2024 05:13:12.708 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 06-04-2024 05:13:12.728 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 06-04-2024 05:13:12.750 pm [main] com.reservation.service.Reservation_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 05:23:30.457 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 06-04-2024 05:23:30.583 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 06-04-2024 05:23:30.650 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 06-04-2024 05:23:30.670 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 06-04-2024 05:23:30.700 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 06-04-2024 05:23:30.706 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 06-04-2024 05:23:30.744 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 06-04-2024 05:23:30.749 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 06-04-2024 05:23:30.787 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 06-04-2024 05:23:30.804 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 06-04-2024 05:23:31.187 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 102 and for room Type of Single Bed for 2 rooms is 6000.0
+[INFO ] 06-04-2024 05:23:31.229 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 102 and for room Type of Single Bed for 2 rooms is 6000.0
+[INFO ] 06-04-2024 05:23:31.287 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 06-04-2024 05:23:31.311 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 06-04-2024 05:23:31.334 pm [main] com.reservation.service.Reservation_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 05:25:20.327 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 06-04-2024 05:25:20.457 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 06-04-2024 05:25:20.546 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 06-04-2024 05:25:20.572 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 06-04-2024 05:25:20.617 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 06-04-2024 05:25:20.627 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 06-04-2024 05:25:20.673 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 06-04-2024 05:25:20.682 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 06-04-2024 05:25:20.718 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 06-04-2024 05:25:20.735 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 06-04-2024 05:25:21.125 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 102 and for room Type of Single Bed for 2 rooms is 6000.0
+[INFO ] 06-04-2024 05:25:21.153 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 102 and for room Type of Single Bed for 2 rooms is 6000.0
+[INFO ] 06-04-2024 05:25:21.208 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 06-04-2024 05:25:21.231 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 06-04-2024 05:25:21.254 pm [main] com.reservation.service.Reservation_ServiceImpl - Data added successfully
+[ERROR] 07-04-2024 04:24:52.948 pm [main] com.reservation.service.Reservation_ServiceImpl - No data is present for the id 101
+[INFO ] 07-04-2024 04:24:53.050 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:24:53.059 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[ERROR] 07-04-2024 04:24:53.106 pm [main] com.reservation.service.Reservation_ServiceImpl - List is Empty!! Please add some data
+[ERROR] 07-04-2024 04:24:53.115 pm [main] com.reservation.service.Reservation_ServiceImpl - List is Empty!! Please add some data
+[INFO ] 07-04-2024 04:24:53.325 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[ERROR] 07-04-2024 04:26:21.336 pm [main] com.reservation.service.Reservation_ServiceImpl - No data is present for the id 101
+[INFO ] 07-04-2024 04:26:21.468 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:26:21.479 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[ERROR] 07-04-2024 04:26:21.528 pm [main] com.reservation.service.Reservation_ServiceImpl - List is Empty!! Please add some data
+[ERROR] 07-04-2024 04:26:21.537 pm [main] com.reservation.service.Reservation_ServiceImpl - List is Empty!! Please add some data
+[INFO ] 07-04-2024 04:26:21.739 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 07-04-2024 04:26:21.853 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:27:20.766 pm [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 07-04-2024 04:28:02.864 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[ERROR] 07-04-2024 04:28:10.241 pm [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - Reservation already exist for the given phone number
+[INFO ] 07-04-2024 04:28:40.960 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 07-04-2024 04:29:12.717 pm [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 07-04-2024 04:29:39.122 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 07-04-2024 04:30:23.841 pm [http-nio-8081-exec-8] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 07-04-2024 04:30:54.870 pm [http-nio-8081-exec-9] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 07-04-2024 04:31:30.204 pm [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 07-04-2024 04:33:06.290 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 07-04-2024 04:33:06.434 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 07-04-2024 04:33:06.443 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 07-04-2024 04:33:06.467 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:33:06.484 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:33:06.491 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:33:06.525 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 07-04-2024 04:33:06.543 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[ERROR] 07-04-2024 04:33:06.708 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation already exist for the given phone number
+[INFO ] 07-04-2024 04:33:54.181 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 07-04-2024 04:33:54.365 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 07-04-2024 04:33:54.375 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 07-04-2024 04:33:54.401 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:33:54.427 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:33:54.435 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:33:54.502 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 07-04-2024 04:33:54.527 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 07-04-2024 04:33:54.684 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 07-04-2024 04:33:54.706 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:36:52.229 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 07-04-2024 04:36:52.561 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 07-04-2024 04:36:52.593 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 07-04-2024 04:36:52.667 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:36:52.769 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 07-04-2024 04:36:52.801 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 07-04-2024 04:36:52.830 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 07-04-2024 04:36:52.857 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:36:52.892 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 07-04-2024 04:36:52.922 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 07-04-2024 04:36:52.938 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 07-04-2024 04:36:52.950 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:36:52.984 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:36:52.994 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:36:53.045 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 07-04-2024 04:36:53.069 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 07-04-2024 04:36:53.188 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[ERROR] 07-04-2024 04:36:53.770 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation already exist for the given phone number
+[INFO ] 07-04-2024 04:36:53.820 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 07-04-2024 04:36:53.841 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:39:11.492 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 07-04-2024 04:39:11.775 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 07-04-2024 04:39:11.809 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 07-04-2024 04:39:11.872 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:39:11.937 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 07-04-2024 04:39:11.963 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 07-04-2024 04:39:11.989 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 07-04-2024 04:39:12.010 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:39:12.037 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 07-04-2024 04:39:12.055 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 07-04-2024 04:39:12.067 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 07-04-2024 04:39:12.075 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:39:12.095 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:39:12.102 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:39:12.137 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 07-04-2024 04:39:12.160 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 07-04-2024 04:39:12.257 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[ERROR] 07-04-2024 04:39:12.706 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation already exist for the given phone number
+[INFO ] 07-04-2024 04:39:12.735 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 07-04-2024 04:39:12.753 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:40:44.756 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 07-04-2024 04:40:44.935 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 07-04-2024 04:40:44.955 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 07-04-2024 04:40:44.993 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:40:45.042 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 07-04-2024 04:40:45.061 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 07-04-2024 04:40:45.082 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 07-04-2024 04:40:45.099 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:40:45.121 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 07-04-2024 04:40:45.141 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 07-04-2024 04:40:45.151 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 07-04-2024 04:40:45.159 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:40:45.180 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:40:45.188 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:40:45.224 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 07-04-2024 04:40:45.242 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 07-04-2024 04:40:45.323 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 07-04-2024 04:40:46.080 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 101 and for room Type of Single Bed for 2 rooms is 8000.0
+[INFO ] 07-04-2024 04:40:46.106 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 101 and for room Type of Single Bed for 2 rooms is 8000.0
+[INFO ] 07-04-2024 04:40:46.112 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:40:46.157 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 07-04-2024 04:40:46.174 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 07-04-2024 04:40:46.191 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 07-04-2024 04:40:46.206 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:40:46.226 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 07-04-2024 04:40:46.242 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:42:41.186 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 07-04-2024 04:42:41.461 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 07-04-2024 04:42:41.497 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 07-04-2024 04:42:41.559 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:42:41.623 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 07-04-2024 04:42:41.646 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 07-04-2024 04:42:41.662 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 07-04-2024 04:42:41.679 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:42:41.707 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 07-04-2024 04:42:41.733 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 07-04-2024 04:42:41.746 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 07-04-2024 04:42:41.754 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:42:42.248 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:42:42.258 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:42:42.303 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 07-04-2024 04:42:42.326 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 07-04-2024 04:42:42.423 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 07-04-2024 04:42:42.493 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 101 and for room Type of Single Bed for 2 rooms is 8000.0
+[INFO ] 07-04-2024 04:42:42.531 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 101 and for room Type of Single Bed for 2 rooms is 8000.0
+[INFO ] 07-04-2024 04:42:42.538 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:42:42.594 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 07-04-2024 04:42:42.618 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 07-04-2024 04:42:42.642 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 07-04-2024 04:42:42.663 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 07-04-2024 04:42:42.690 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 07-04-2024 04:42:42.709 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[ERROR] 08-04-2024 11:38:31.428 am [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - Reservation already exist for the given phone number
+[INFO ] 08-04-2024 11:41:44.576 am [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 12:07:09.269 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 12:07:09.389 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 08-04-2024 12:07:09.404 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 08-04-2024 12:07:09.441 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 12:07:09.473 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 12:07:09.488 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 08-04-2024 12:07:09.504 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 08-04-2024 12:07:09.519 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 12:07:09.538 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 12:07:09.553 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 08-04-2024 12:07:09.560 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 08-04-2024 12:07:09.567 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 12:07:09.842 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 12:07:09.848 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 12:07:09.875 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 08-04-2024 12:07:09.891 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 08-04-2024 12:07:09.955 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[ERROR] 08-04-2024 12:07:10.020 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation already exist for the given phone number
+[INFO ] 08-04-2024 12:07:10.039 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 12:07:10.052 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 12:09:22.727 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 12:09:22.855 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 08-04-2024 12:09:22.871 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 08-04-2024 12:09:22.901 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 12:09:22.940 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 12:09:22.953 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 08-04-2024 12:09:22.967 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 08-04-2024 12:09:22.981 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 12:09:23.003 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 12:09:23.023 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 08-04-2024 12:09:23.030 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 08-04-2024 12:09:23.038 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 12:09:23.465 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 12:09:23.470 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 12:09:23.496 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 08-04-2024 12:09:23.513 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 08-04-2024 12:09:23.581 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 12:09:23.623 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 101 and for room Type of Single Bed for 2 rooms is 8000.0
+[INFO ] 08-04-2024 12:09:23.645 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 101 and for room Type of Single Bed for 2 rooms is 8000.0
+[INFO ] 08-04-2024 12:09:23.652 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 12:09:23.692 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 12:09:23.711 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 08-04-2024 12:09:23.725 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 08-04-2024 12:09:23.741 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 12:09:23.761 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 12:09:23.776 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 02:07:20.904 pm [http-nio-8081-exec-8] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 02:19:42.278 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 02:19:42.834 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 08-04-2024 02:19:42.901 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 08-04-2024 02:19:43.058 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 02:19:43.189 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 02:19:43.244 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 08-04-2024 02:19:43.299 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 08-04-2024 02:19:43.345 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 02:19:43.437 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 02:19:43.500 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 08-04-2024 02:19:43.527 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 08-04-2024 02:19:43.550 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 02:19:44.122 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 02:19:44.139 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 02:19:44.185 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 08-04-2024 02:19:44.216 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 08-04-2024 02:19:44.315 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[ERROR] 08-04-2024 02:19:44.409 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation already exist for the given phone number
+[INFO ] 08-04-2024 02:19:44.435 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 02:19:44.454 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 02:22:16.523 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 02:22:16.709 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 08-04-2024 02:22:16.730 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 08-04-2024 02:22:16.769 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 02:22:16.817 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 02:22:16.837 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 08-04-2024 02:22:16.855 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 08-04-2024 02:22:16.875 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 02:22:16.900 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 02:22:16.921 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 08-04-2024 02:22:16.933 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 08-04-2024 02:22:16.940 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 02:22:17.207 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 02:22:17.215 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 02:22:17.252 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 08-04-2024 02:22:17.272 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 08-04-2024 02:22:17.345 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 02:22:17.420 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 02:22:17.436 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 08-04-2024 02:22:17.453 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 08-04-2024 02:22:17.464 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 02:22:17.483 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 02:22:17.500 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 02:30:01.856 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 02:30:02.021 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 08-04-2024 02:30:02.037 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 08-04-2024 02:30:02.070 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 02:30:02.106 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 02:30:02.120 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 08-04-2024 02:30:02.134 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 08-04-2024 02:30:02.144 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 02:30:02.165 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 02:30:02.183 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 08-04-2024 02:30:02.190 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 08-04-2024 02:30:02.199 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 02:30:02.891 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 02:30:02.898 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 02:30:02.927 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 08-04-2024 02:30:02.940 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 08-04-2024 02:30:03.015 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 02:30:03.060 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 101 and for room Type of Single Bed for 2 rooms is 8000.0
+[INFO ] 08-04-2024 02:30:03.084 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 101 and for room Type of Single Bed for 2 rooms is 8000.0
+[INFO ] 08-04-2024 02:30:03.092 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 02:30:03.134 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 02:30:03.155 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 08-04-2024 02:30:03.173 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 08-04-2024 02:30:03.188 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 02:30:03.214 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 02:30:03.230 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 02:30:11.921 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - Bill for id 66127c10ce55135b767797b1 and for room Type of Double Bed for 4 rooms is 50000.0
+[INFO ] 08-04-2024 02:53:18.053 pm [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 03:00:47.885 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 03:28:25.318 pm [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 05:47:35.536 pm [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 05:52:51.451 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - Reservation with id 6613e05f8a430049fb923263 deleted successfully!
+[INFO ] 08-04-2024 05:55:44.891 pm [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 05:56:26.746 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - Reservation with id 6613e2488a430049fb923265 deleted successfully!
+[INFO ] 08-04-2024 06:01:20.663 pm [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:06:33.123 pm [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:12:02.208 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - Reservation with id 6613e4d18a430049fb92326b deleted successfully!
+[INFO ] 08-04-2024 06:13:38.136 pm [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[ERROR] 08-04-2024 06:13:49.980 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - Reservation already exist for the given phone number
+[INFO ] 08-04-2024 06:14:04.590 pm [http-nio-8081-exec-8] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:14:25.268 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - Reservation with id 6613e6948a430049fb92326d deleted successfully!
+[INFO ] 08-04-2024 06:16:20.515 pm [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:16:36.207 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - Reservation with id 6613e71c8a430049fb92326f deleted successfully!
+[INFO ] 08-04-2024 06:18:54.215 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:19:35.956 pm [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - Reservation with id 6613e7b68a430049fb923270 deleted successfully!
+[ERROR] 08-04-2024 06:23:39.445 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation already exist for the given phone number
+[ERROR] 08-04-2024 06:23:39.550 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation already exist for the given phone number
+[ERROR] 08-04-2024 06:23:39.584 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation already exist for the given phone number
+[INFO ] 08-04-2024 06:23:40.221 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 08-04-2024 06:23:40.260 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[ERROR] 08-04-2024 06:23:40.405 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation already exist for the given phone number
+[ERROR] 08-04-2024 06:23:40.526 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation already exist for the given phone number
+[INFO ] 08-04-2024 06:23:40.584 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:23:40.815 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[ERROR] 08-04-2024 06:25:16.402 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation already exist for the given phone number
+[ERROR] 08-04-2024 06:25:16.493 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation already exist for the given phone number
+[INFO ] 08-04-2024 06:25:16.971 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:25:17.212 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 08-04-2024 06:25:17.226 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 08-04-2024 06:25:17.309 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 06:25:17.514 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 08-04-2024 06:25:17.552 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[ERROR] 08-04-2024 06:25:17.793 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation already exist for the given phone number
+[ERROR] 08-04-2024 06:25:17.950 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation already exist for the given phone number
+[INFO ] 08-04-2024 06:25:18.031 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:25:18.147 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[ERROR] 08-04-2024 06:26:58.716 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation already exist for the given phone number
+[ERROR] 08-04-2024 06:26:58.811 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation already exist for the given phone number
+[INFO ] 08-04-2024 06:26:59.271 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:26:59.481 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 08-04-2024 06:26:59.494 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 08-04-2024 06:26:59.564 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 06:26:59.736 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 08-04-2024 06:26:59.779 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 08-04-2024 06:26:59.920 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:26:59.973 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 101 and for room Type of Single Bed for 2 rooms is 0.0
+[INFO ] 08-04-2024 06:27:00.000 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 101 and for room Type of Single Bed for 2 rooms is 0.0
+[INFO ] 08-04-2024 06:27:00.052 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 06:27:00.224 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:27:00.315 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 08-04-2024 06:27:00.355 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 08-04-2024 06:27:00.448 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 06:27:00.512 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:27:00.571 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 06:28:53.143 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:28:53.361 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 08-04-2024 06:28:53.385 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 08-04-2024 06:28:53.485 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 06:28:53.589 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:28:53.616 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 08-04-2024 06:28:53.642 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 08-04-2024 06:28:53.692 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 06:28:53.741 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:28:53.767 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 08-04-2024 06:28:53.778 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 08-04-2024 06:28:53.813 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 06:28:53.913 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:28:53.953 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:28:53.994 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 06:28:54.032 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 102 deleted successfully!
+[INFO ] 08-04-2024 06:28:54.111 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 08-04-2024 06:28:54.136 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 08-04-2024 06:28:54.346 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:28:54.398 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 101 and for room Type of Single Bed for 2 rooms is 0.0
+[INFO ] 08-04-2024 06:28:54.447 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 101 and for room Type of Single Bed for 2 rooms is 0.0
+[INFO ] 08-04-2024 06:28:54.488 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 06:28:54.581 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:28:54.605 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 08-04-2024 06:28:54.627 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 08-04-2024 06:28:54.690 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 06:28:54.744 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:28:54.877 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 06:30:16.085 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:30:16.328 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 08-04-2024 06:30:16.351 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 08-04-2024 06:30:16.434 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 06:30:16.513 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:30:16.538 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 08-04-2024 06:30:16.576 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 08-04-2024 06:30:16.628 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 06:30:16.673 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:30:16.708 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 08-04-2024 06:30:16.719 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 08-04-2024 06:30:16.758 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 06:30:16.842 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:30:16.885 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 06:30:16.907 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:30:16.946 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 06:30:16.991 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 08-04-2024 06:30:17.021 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 08-04-2024 06:30:17.178 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:30:17.221 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 101 and for room Type of Single Bed for 2 rooms is 0.0
+[INFO ] 08-04-2024 06:30:17.246 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 101 and for room Type of Single Bed for 2 rooms is 0.0
+[INFO ] 08-04-2024 06:30:17.281 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 06:30:17.355 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:30:17.375 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 08-04-2024 06:30:17.395 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 08-04-2024 06:30:17.437 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 06:30:17.481 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:30:17.531 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 06:35:44.389 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:35:44.643 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 08-04-2024 06:35:44.673 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 08-04-2024 06:35:44.755 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 06:35:44.837 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:35:44.863 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 08-04-2024 06:35:44.886 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 08-04-2024 06:35:44.931 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 06:35:44.973 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:35:45.000 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 08-04-2024 06:35:45.013 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 08-04-2024 06:35:45.050 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 06:35:45.136 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:35:45.176 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 06:35:45.198 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:35:45.236 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 06:35:45.281 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 08-04-2024 06:35:45.307 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 08-04-2024 06:35:45.444 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:35:45.491 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 101 and for room Type of Single Bed for 2 rooms is 0.0
+[INFO ] 08-04-2024 06:35:45.518 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 101 and for room Type of Single Bed for 2 rooms is 0.0
+[INFO ] 08-04-2024 06:35:45.548 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 06:35:45.625 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:35:45.641 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 08-04-2024 06:35:45.663 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 08-04-2024 06:35:45.714 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 06:35:45.754 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 06:35:45.799 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 08-04-2024 07:09:53.739 pm [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 07:10:37.051 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 07:12:17.897 pm [http-nio-8081-exec-9] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 07:14:17.958 pm [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 07:15:09.098 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 07:16:28.502 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 08-04-2024 07:17:39.467 pm [http-nio-8081-exec-9] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 09-04-2024 05:56:16.869 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 09-04-2024 05:56:16.902 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 09-04-2024 06:00:10.163 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 09-04-2024 06:00:10.196 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 09-04-2024 06:04:53.949 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 09-04-2024 06:04:53.983 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 09-04-2024 06:08:10.887 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 09-04-2024 06:08:11.141 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 09-04-2024 06:08:11.167 pm [main] com.reservation.service.Reservation_ServiceImpl - Name updated successfully!!
+[INFO ] 09-04-2024 06:08:11.259 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 09-04-2024 06:08:11.362 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 09-04-2024 06:08:11.386 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 09-04-2024 06:08:11.406 pm [main] com.reservation.service.Reservation_ServiceImpl - Status updated successfully!!
+[INFO ] 09-04-2024 06:08:11.458 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 09-04-2024 06:08:11.506 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 09-04-2024 06:08:11.526 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 09-04-2024 06:08:11.540 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the id 101
+[INFO ] 09-04-2024 06:08:11.585 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 09-04-2024 06:08:11.702 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 09-04-2024 06:08:11.754 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 09-04-2024 06:08:11.790 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 09-04-2024 06:08:11.841 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 09-04-2024 06:08:11.878 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 09-04-2024 06:08:11.896 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 09-04-2024 06:08:12.025 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 09-04-2024 06:08:12.073 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 101 and for room Type of Single Bed for 2 rooms is 0.0
+[INFO ] 09-04-2024 06:08:12.109 pm [main] com.reservation.service.Reservation_ServiceImpl - Bill for id 101 and for room Type of Single Bed for 2 rooms is 0.0
+[INFO ] 09-04-2024 06:08:12.146 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 09-04-2024 06:08:12.226 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 09-04-2024 06:08:12.243 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 09-04-2024 06:08:12.263 pm [main] com.reservation.service.Reservation_ServiceImpl - Address updated successfully!!
+[INFO ] 09-04-2024 06:08:12.304 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 09-04-2024 06:08:12.347 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 09-04-2024 06:08:12.388 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with id 101 deleted successfully!
+[INFO ] 12-04-2024 07:29:00.126 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 12-04-2024 07:30:13.849 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 12-04-2024 10:17:30.639 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 12-04-2024 10:21:25.216 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 12-04-2024 10:32:57.501 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 12-04-2024 10:33:16.026 pm [http-nio-8081-exec-8] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 12-04-2024 10:36:05.897 pm [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 12-04-2024 10:39:40.758 pm [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 12-04-2024 10:41:00.359 pm [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 12-04-2024 10:41:04.229 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 12-04-2024 10:41:05.206 pm [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 12-04-2024 10:42:01.421 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 12-04-2024 10:43:48.545 pm [http-nio-8081-exec-9] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 12-04-2024 10:43:49.223 pm [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 12-04-2024 10:45:01.335 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 12-04-2024 10:45:03.394 pm [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 12-04-2024 10:45:11.465 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 12-04-2024 10:48:08.748 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 12-04-2024 10:52:23.748 pm [http-nio-8081-exec-9] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 12-04-2024 10:52:55.977 pm [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 12-04-2024 10:53:03.036 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 12-04-2024 10:55:52.957 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 12-04-2024 10:56:01.771 pm [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 12-04-2024 10:58:41.635 pm [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 12-04-2024 10:58:42.502 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 12-04-2024 10:58:46.349 pm [http-nio-8081-exec-8] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 12-04-2024 10:59:43.920 pm [http-nio-8081-exec-9] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 12-04-2024 10:59:47.948 pm [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 09:00:25.624 am [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 09:09:21.264 am [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 09:31:38.980 am [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 13-04-2024 09:31:40.138 am [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 09:33:35.869 am [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 09:43:08.246 am [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 09:43:10.340 am [http-nio-8081-exec-9] com.reservation.service.Reservation_ServiceImpl - Reservation with id 661a03a35f508a1eae2e5caa deleted successfully!
+[INFO ] 13-04-2024 09:44:09.038 am [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 09:44:30.973 am [http-nio-8081-exec-9] com.reservation.service.Reservation_ServiceImpl - Reservation with id 66196f8795b7722b359b10f1 deleted successfully!
+[INFO ] 13-04-2024 09:44:33.168 am [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 09:44:33.796 am [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 09:45:42.093 am [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 13-04-2024 09:45:44.237 am [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 09:46:11.701 am [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - Reservation with id 661a06ee5f508a1eae2e5cab deleted successfully!
+[INFO ] 13-04-2024 09:46:14.037 am [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 09:46:14.749 am [http-nio-8081-exec-8] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 09:49:10.570 am [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 13-04-2024 09:49:13.797 am [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 09:49:49.734 am [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - Reservation with id 661a07be5f508a1eae2e5cac deleted successfully!
+[INFO ] 13-04-2024 09:52:09.012 am [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 13-04-2024 09:53:16.428 am [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 09:53:40.086 am [http-nio-8081-exec-9] com.reservation.service.Reservation_ServiceImpl - Reservation with id 661a08715f508a1eae2e5cad deleted successfully!
+[INFO ] 13-04-2024 09:54:07.666 am [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 09:54:08.390 am [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 10:08:02.250 am [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 13-04-2024 10:08:05.615 am [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 10:08:17.494 am [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1010109292 deleted successfully!
+[INFO ] 13-04-2024 10:08:27.302 am [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 10:08:28.017 am [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 10:08:49.451 am [http-nio-8081-exec-8] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 10:09:15.349 am [http-nio-8081-exec-9] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 10:09:17.273 am [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 10:28:53.794 am [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 13-04-2024 10:30:35.712 am [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 13-04-2024 10:58:33.745 am [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 10:59:32.899 am [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 13-04-2024 11:04:04.357 am [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 11:04:11.404 am [http-nio-8081-exec-8] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 13-04-2024 11:06:37.460 am [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 13-04-2024 11:06:41.143 am [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 11:12:23.943 am [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 11:12:57.319 am [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 11:13:03.737 am [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 11:13:04.142 am [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 11:13:04.915 am [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 11:13:21.405 am [http-nio-8081-exec-8] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 11:14:16.598 am [http-nio-8081-exec-9] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 11:14:22.334 am [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 13-04-2024 11:14:47.102 am [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 11:15:51.940 am [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 11:15:52.121 am [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 11:17:09.875 am [http-nio-8081-exec-9] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 11:17:19.618 am [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 11:17:47.092 am [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 11:17:55.550 am [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 11:17:58.665 am [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 11:18:10.922 am [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 11:48:30.328 am [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 12:00:14.488 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 12:00:43.195 pm [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 13-04-2024 12:00:46.160 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 13-04-2024 12:01:05.171 pm [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 12:03:57.856 pm [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 12:04:34.702 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 12:14:35.609 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 12:14:51.279 pm [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 12:19:52.935 pm [http-nio-8081-exec-8] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 12:28:56.207 pm [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 12:29:12.454 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 12:34:49.749 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 12:35:02.647 pm [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 12:37:06.833 pm [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 12:38:08.735 pm [http-nio-8081-exec-8] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 12:38:51.181 pm [http-nio-8081-exec-9] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 12:40:24.487 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 12:43:48.166 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 12:44:34.641 pm [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 12:44:46.583 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 12:44:56.812 pm [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 12:45:12.138 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 12:47:44.038 pm [http-nio-8081-exec-9] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 12:48:06.867 pm [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 12:48:17.600 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 12:48:42.223 pm [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 12:49:05.589 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 12:52:00.902 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 12:52:25.601 pm [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 13-04-2024 12:53:18.155 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 13-04-2024 12:55:01.378 pm [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 13-04-2024 12:55:22.983 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 13-04-2024 12:55:29.571 pm [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 12:58:56.324 pm [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 2345678901
+[INFO ] 13-04-2024 01:44:36.617 pm [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 01:45:59.635 pm [http-nio-8081-exec-8] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 01:46:26.453 pm [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 01:50:11.502 pm [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 01:53:29.144 pm [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 01:54:26.265 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 01:54:29.604 pm [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 01:54:37.580 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 01:56:02.913 pm [http-nio-8081-exec-9] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 01:58:34.652 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 2345678901
+[INFO ] 13-04-2024 01:59:13.228 pm [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 2345678901
+[INFO ] 13-04-2024 01:59:25.334 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 13-04-2024 02:00:19.996 pm [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 3456789012
+[INFO ] 13-04-2024 02:00:33.664 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 4567890123
+[INFO ] 13-04-2024 02:00:43.038 pm [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 5678901234
+[INFO ] 13-04-2024 02:01:03.901 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 13-04-2024 02:03:36.311 pm [http-nio-8081-exec-9] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 13-04-2024 02:08:16.508 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 02:13:59.539 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 02:15:21.854 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 02:15:44.145 pm [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 13-04-2024 02:16:02.563 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 02:16:23.870 pm [http-nio-8081-exec-8] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 2345678901
+[INFO ] 13-04-2024 02:17:37.366 pm [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 02:17:57.368 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 02:19:34.367 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 02:19:43.984 pm [http-nio-8081-exec-9] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 02:19:53.003 pm [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 3456789012
+[INFO ] 13-04-2024 02:24:06.696 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 02:24:22.738 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 02:27:12.855 pm [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 02:27:22.389 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 13-04-2024 02:27:46.345 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 2345678901
+[INFO ] 13-04-2024 02:29:29.050 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 02:30:58.490 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 02:31:22.652 pm [http-nio-8081-exec-8] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 02:32:56.524 pm [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 02:33:09.229 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 13-04-2024 02:33:26.776 pm [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 02:57:40.796 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 02:57:55.469 pm [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 02:58:00.723 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 02:58:45.853 pm [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 02:58:49.917 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 02:58:57.078 pm [http-nio-8081-exec-8] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 02:59:01.124 pm [http-nio-8081-exec-9] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 03:05:05.515 pm [http-nio-8081-exec-9] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 03:09:57.402 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 03:10:01.438 pm [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 03:10:22.227 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 03:22:39.561 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 03:22:53.339 pm [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 03:38:27.511 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 03:57:55.655 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 04:22:19.833 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 13-04-2024 04:22:22.561 pm [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 04:22:56.912 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 13-04-2024 04:23:11.893 pm [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 04:23:14.680 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1234565432 deleted successfully!
+[INFO ] 13-04-2024 04:23:38.950 pm [http-nio-8081-exec-8] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 04:26:51.372 pm [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 04:27:10.890 pm [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 04:27:14.940 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 05:43:01.176 pm [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 13-04-2024 05:43:17.925 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 14-04-2024 09:30:57.493 am [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 09:31:08.119 am [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 09:31:24.657 am [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 14-04-2024 12:27:08.049 pm [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 12:27:25.153 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 12:37:18.816 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 14-04-2024 12:39:00.654 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 12:39:25.869 pm [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[ERROR] 14-04-2024 12:39:33.236 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - No data is present for the phoneNumber 1010102020
+[INFO ] 14-04-2024 12:47:59.599 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 14-04-2024 12:48:49.555 pm [http-nio-8081-exec-8] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 12:49:58.645 pm [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 12:53:01.226 pm [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 14-04-2024 12:53:51.747 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 12:55:32.720 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 12:56:21.086 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 14-04-2024 02:25:26.875 pm [http-nio-8081-exec-9] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 14-04-2024 02:26:21.132 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 02:26:45.890 pm [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 02:27:08.645 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 14-04-2024 02:29:00.902 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 02:41:19.443 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1020304050
+[INFO ] 14-04-2024 02:42:09.691 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1020304050 deleted successfully!
+[INFO ] 14-04-2024 02:46:08.920 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 14-04-2024 02:47:07.037 pm [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1020304050
+[INFO ] 14-04-2024 02:51:59.323 pm [http-nio-8081-exec-8] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 14-04-2024 02:52:03.864 pm [http-nio-8081-exec-9] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 02:52:27.385 pm [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 2233445566
+[INFO ] 14-04-2024 02:52:28.788 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 2233445566 deleted successfully!
+[INFO ] 14-04-2024 02:53:51.691 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 14-04-2024 02:54:45.887 pm [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 14-04-2024 02:55:10.254 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 2222222222
+[INFO ] 14-04-2024 02:55:14.026 pm [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 2222222222 deleted successfully!
+[INFO ] 14-04-2024 03:33:41.452 pm [http-nio-8081-exec-8] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 03:35:05.496 pm [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 03:43:32.464 pm [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 03:44:39.344 pm [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 03:44:52.618 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 03:45:07.170 pm [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 03:46:16.038 pm [http-nio-8081-exec-8] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[ERROR] 14-04-2024 03:46:35.927 pm [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - No data is present for the phoneNumber 2222222222
+[ERROR] 14-04-2024 03:46:37.262 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - No data is present for the phoneNumber 2222222222
+[ERROR] 14-04-2024 03:46:39.199 pm [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - No data is present for the phoneNumber 222222222
+[INFO ] 14-04-2024 03:46:45.886 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 14-04-2024 03:47:26.251 pm [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 03:47:53.484 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 03:48:55.601 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 03:49:17.312 pm [http-nio-8081-exec-8] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 03:57:08.890 pm [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 03:57:31.486 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 03:58:09.700 pm [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 03:58:26.068 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 03:58:38.359 pm [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 03:58:39.548 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 03:59:01.503 pm [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 04:02:03.608 pm [http-nio-8081-exec-8] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 14-04-2024 04:02:10.003 pm [http-nio-8081-exec-9] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 04:02:39.693 pm [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 04:03:55.424 pm [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 04:05:59.964 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 04:12:06.270 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 04:14:02.966 pm [http-nio-8081-exec-9] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 04:14:22.405 pm [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 04:24:04.382 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 14-04-2024 04:25:48.896 pm [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 04:26:20.159 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 05:41:44.727 pm [http-nio-8081-exec-9] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 05:41:59.144 pm [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 14-04-2024 05:44:25.392 pm [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 14-04-2024 06:09:19.169 pm [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 06:10:08.150 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 07:20:36.889 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 14-04-2024 07:20:37.213 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1232267892 deleted successfully!
+[INFO ] 14-04-2024 07:20:37.288 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 14-04-2024 07:20:37.315 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1232267892
+[INFO ] 14-04-2024 07:20:37.333 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1232267892
+[INFO ] 14-04-2024 07:20:37.373 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1232267892 deleted successfully!
+[INFO ] 14-04-2024 07:20:37.470 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 14-04-2024 07:20:37.521 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1232267892 deleted successfully!
+[INFO ] 14-04-2024 07:20:37.548 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 14-04-2024 07:20:37.607 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1232267892 deleted successfully!
+[INFO ] 14-04-2024 07:20:37.643 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 07:20:37.665 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 14-04-2024 07:20:37.795 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 14-04-2024 07:20:37.869 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1232267892 deleted successfully!
+[INFO ] 14-04-2024 07:20:37.906 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 14-04-2024 07:20:37.957 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1234567812 deleted successfully!
+[INFO ] 15-04-2024 06:57:04.127 am [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 15-04-2024 06:57:04.172 am [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 15-04-2024 06:58:40.812 am [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 15-04-2024 06:58:40.847 am [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 15-04-2024 07:00:22.801 am [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 15-04-2024 07:00:23.196 am [main] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1232267892 deleted successfully!
+[INFO ] 15-04-2024 07:00:23.316 am [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 15-04-2024 07:00:23.354 am [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1232267892
+[INFO ] 15-04-2024 07:00:23.364 am [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1232267892
+[INFO ] 15-04-2024 07:00:23.410 am [main] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1232267892 deleted successfully!
+[INFO ] 15-04-2024 07:00:23.456 am [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 15-04-2024 07:00:23.504 am [main] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1232267892 deleted successfully!
+[INFO ] 15-04-2024 07:00:23.534 am [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 15-04-2024 07:00:23.577 am [main] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1232267892 deleted successfully!
+[INFO ] 15-04-2024 07:00:23.615 am [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 15-04-2024 07:00:23.637 am [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 15-04-2024 07:00:23.799 am [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 15-04-2024 07:00:23.898 am [main] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1232267892 deleted successfully!
+[INFO ] 15-04-2024 07:00:23.939 am [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 15-04-2024 07:00:23.985 am [main] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1234567812 deleted successfully!
+[INFO ] 15-04-2024 11:46:29.680 am [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 15-04-2024 11:46:38.603 am [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 15-04-2024 11:46:39.220 am [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1111111111 deleted successfully!
+[INFO ] 15-04-2024 11:47:14.068 am [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 15-04-2024 02:10:26.601 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 15-04-2024 02:18:05.725 pm [http-nio-8081-exec-8] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 15-04-2024 02:44:53.425 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 15-04-2024 05:48:22.873 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 15-04-2024 05:48:39.327 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 15-04-2024 05:58:29.674 pm [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 15-04-2024 05:58:37.211 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 15-04-2024 06:00:45.896 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 15-04-2024 06:03:14.353 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 15-04-2024 06:03:20.398 pm [http-nio-8081-exec-8] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1010101010 deleted successfully!
+[INFO ] 15-04-2024 06:03:30.874 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 15-04-2024 06:03:39.977 pm [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 15-04-2024 06:04:31.023 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 15-04-2024 06:04:37.183 pm [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 4040403030 deleted successfully!
+[INFO ] 15-04-2024 06:05:18.410 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 15-04-2024 06:05:24.435 pm [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1010106060 deleted successfully!
+[INFO ] 15-04-2024 06:05:36.185 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 15-04-2024 06:05:55.163 pm [http-nio-8081-exec-8] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 15-04-2024 06:05:58.492 pm [http-nio-8081-exec-9] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1020304050 deleted successfully!
+[INFO ] 15-04-2024 06:15:02.660 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 15-04-2024 06:15:09.355 pm [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 5678901234 deleted successfully!
+[INFO ] 15-04-2024 06:15:39.914 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 15-04-2024 06:15:43.209 pm [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 4567890123 deleted successfully!
+[INFO ] 15-04-2024 06:17:34.429 pm [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 15-04-2024 06:18:15.881 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 15-04-2024 06:18:25.213 pm [http-nio-8081-exec-8] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 3456789012 deleted successfully!
+[INFO ] 15-04-2024 06:18:28.902 pm [http-nio-8081-exec-9] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 15-04-2024 06:21:01.685 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 15-04-2024 06:21:12.791 pm [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 15-04-2024 06:21:58.127 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 15-04-2024 06:22:03.934 pm [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 15-04-2024 06:22:27.196 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 15-04-2024 06:23:48.906 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 15-04-2024 06:26:02.414 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 15-04-2024 06:26:06.297 pm [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 15-04-2024 06:26:17.319 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 2345678901
+[INFO ] 15-04-2024 06:29:21.771 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 15-04-2024 06:45:11.228 pm [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 15-04-2024 06:45:13.822 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[ERROR] 15-04-2024 06:46:11.997 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - Reservation already exist for the given phone number
+[INFO ] 15-04-2024 06:46:23.988 pm [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 15-04-2024 06:46:27.357 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 15-04-2024 06:49:40.308 pm [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 15-04-2024 07:07:11.355 pm [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 16-04-2024 08:51:16.599 am [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 16-04-2024 08:51:54.477 am [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 16-04-2024 08:56:04.452 am [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 16-04-2024 08:56:21.984 am [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 16-04-2024 08:56:44.978 am [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 16-04-2024 08:57:00.392 am [http-nio-8081-exec-8] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 16-04-2024 08:57:10.251 am [http-nio-8081-exec-9] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 16-04-2024 08:57:20.806 am [http-nio-8081-exec-10] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 2345678901
+[INFO ] 16-04-2024 09:02:48.053 am [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 16-04-2024 09:03:04.874 am [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 16-04-2024 09:03:14.495 am [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 16-04-2024 09:04:32.396 am [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1234567890
+[INFO ] 16-04-2024 12:05:29.814 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 16-04-2024 12:05:30.145 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1232267892 deleted successfully!
+[INFO ] 16-04-2024 12:05:30.220 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 16-04-2024 12:05:30.244 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1232267892
+[INFO ] 16-04-2024 12:05:30.255 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1232267892
+[INFO ] 16-04-2024 12:05:30.298 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1232267892 deleted successfully!
+[INFO ] 16-04-2024 12:05:30.359 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 16-04-2024 12:05:30.425 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1232267892 deleted successfully!
+[INFO ] 16-04-2024 12:05:30.459 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 16-04-2024 12:05:30.523 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1232267892 deleted successfully!
+[INFO ] 16-04-2024 12:05:30.560 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 16-04-2024 12:05:30.575 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 16-04-2024 12:05:30.788 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 16-04-2024 12:05:30.882 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1232267892 deleted successfully!
+[INFO ] 16-04-2024 12:05:30.920 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 16-04-2024 12:05:30.964 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1234567812 deleted successfully!
+[INFO ] 18-04-2024 07:25:47.358 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 18-04-2024 07:27:53.903 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 18-04-2024 07:28:19.300 pm [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 18-04-2024 07:28:38.885 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1234567890 deleted successfully!
+[INFO ] 18-04-2024 07:28:41.735 pm [http-nio-8081-exec-6] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 18-04-2024 07:29:06.661 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 9876543210
+[INFO ] 18-04-2024 07:29:29.919 pm [http-nio-8081-exec-9] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 18-04-2024 07:30:05.775 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[ERROR] 18-04-2024 07:47:15.841 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - Reservation already exist for the given phone number
+[INFO ] 18-04-2024 07:47:22.963 pm [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 18-04-2024 07:47:33.759 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 9876543211
+[INFO ] 18-04-2024 07:51:31.925 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 18-04-2024 07:51:32.222 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1232267892 deleted successfully!
+[INFO ] 18-04-2024 07:51:32.289 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 18-04-2024 07:51:32.314 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1232267892
+[INFO ] 18-04-2024 07:51:32.327 pm [main] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 1232267892
+[INFO ] 18-04-2024 07:51:32.366 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1232267892 deleted successfully!
+[INFO ] 18-04-2024 07:51:32.402 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 18-04-2024 07:51:32.450 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1232267892 deleted successfully!
+[INFO ] 18-04-2024 07:51:32.470 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 18-04-2024 07:51:32.509 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1232267892 deleted successfully!
+[INFO ] 18-04-2024 07:51:32.545 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 18-04-2024 07:51:32.566 pm [main] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 18-04-2024 07:51:32.701 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 18-04-2024 07:51:32.797 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1232267892 deleted successfully!
+[INFO ] 18-04-2024 07:51:32.833 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 18-04-2024 07:51:32.892 pm [main] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 1234567812 deleted successfully!
+[INFO ] 18-04-2024 10:14:43.067 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 18-04-2024 10:15:49.948 pm [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 2345678901
+[INFO ] 19-04-2024 10:31:02.624 am [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 19-04-2024 10:31:02.732 am [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 19-04-2024 01:13:25.276 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 19-04-2024 01:39:25.502 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - Reservation added successfully
+[INFO ] 19-04-2024 01:40:17.826 pm [http-nio-8081-exec-5] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 19-04-2024 01:40:33.642 pm [http-nio-8081-exec-4] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 2345678901 deleted successfully!
+[INFO ] 19-04-2024 01:40:39.042 pm [http-nio-8081-exec-2] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 19-04-2024 01:40:59.690 pm [http-nio-8081-exec-3] com.reservation.service.Reservation_ServiceImpl - Data is fetched for the phoneNumber 9988776655
+[INFO ] 19-04-2024 01:41:30.085 pm [http-nio-8081-exec-7] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 19-04-2024 01:47:17.869 pm [http-nio-8081-exec-9] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!
+[INFO ] 19-04-2024 01:47:47.467 pm [http-nio-8081-exec-8] com.reservation.service.Reservation_ServiceImpl - Reservation with phoneNumber 3456789012 deleted successfully!
+[INFO ] 19-04-2024 01:47:49.661 pm [http-nio-8081-exec-1] com.reservation.service.Reservation_ServiceImpl - List of reservation is fetched!!

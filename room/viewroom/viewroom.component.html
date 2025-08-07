@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <header class="header">
+        <nav class="navbar">
+            <div class="container">
+                <h1 class="logo medium-heading">VIEW ROOM</h1>
+                <ul class="nav-items">
+                    <!-- <li class="items"><a routerLink="/home">HOM3</a></li> -->
+                    <!-- <li class="items"><a routerLink="/home">HOME2</a></li> -->
+                    <!-- <li class="items temp"><a routerLink="owner">BACK</a></li> -->
+                    <li class="items temp"><a (click)="logout()">LOGOUT</a></li>
+                </ul>
+            </div>
+        </nav>
+        <div class="header-content">
+            <a class="btn btn-primary text-red temp" (click)="getAll()">View All Room Type</a>
+            <a class="btn btn-primary text-red temp" (click)="showdiv2()">Get Room By Room Type</a>
+            <a class="btn btn-primary text-red temp" (click)="showdiv3()">Update Room Charge</a><br>
+            <a class="btn btn-primary text-red temp" (click)="showdiv4()">Update No Of Rooms</a>
+        </div>
+    </header>
+    <section class="showcase">
+        <div class="container row row1" *ngIf="show">
+            <div class="text-box">
+                <h2 class="medium-heading text-black head-mid">ROOM LIST</h2>
+                <table class="tbl">
+                    <tr>
+                        <th>Room Type</th>
+                        <th>Room Charge</th>
+                        <th>No Of Rooms</th>
+                        <th>Delete</th>
+                    </tr>
+                    <tr *ngFor="let temp of roomArr">
+                        <td>{{temp.roomType}}</td>
+                        <td>{{temp.roomCharge}}</td>
+                        <td>{{temp.noOfRooms}}</td>
+                        <td><button class="btn btn-secondary" (click)="deleteRoom(temp.roomType)">Delete</button></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div class="container row row1" *ngIf="showroomtype">
+            <div class="text-box">
+                <h2 class="medium-heading text-black head-mid">GET ROOM BY ROOM TYPE</h2>
+                <!-- <label>Room Type</label> -->
+                <div class="input-box">
+                    <input type="text" placeholder="Room Type" name="roomType" id="roomType" [(ngModel)]="roomType" required><br><br>
+                </div>
+                <a class="btn btn-secondary text-red temp" (click)="getByRoomType(roomType)">Get By Room Type</a><br><br>
+                <table *ngIf="showroomtypetable" class="tbl">
+                    <tr>
+                        <th>Room Type</th>
+                        <th>Room Charge</th>
+                        <th>No Of Rooms</th>
+                    </tr>
+                    <tr>
+                        <td>{{roomTypeObj.roomType}}</td>
+                        <td>{{roomTypeObj.roomCharge}}</td>
+                        <td>{{roomTypeObj.noOfRooms}}</td>
+                    </tr>
+                </table> 
+            </div>
+        </div>
+        <div class="container row row1" *ngIf="showcharge">
+            <div class="text-box">
+                <h2 class="medium-heading text-black head-mid">UPDATE ROOM CHARGE</h2>
+                <!-- <label>Room Type</label> -->
+                <div class="input-box">
+                    <input type="text" placeholder="Room Type" name="updateCharge_type" id="updateCharge_type" [(ngModel)]="updateCharge_type" required>
+                </div>
+                <!-- <label>Room Charge</label> -->
+                <div class="input-box">
+                    <input type="number" placeholder="Room Charge" name="updateCharge_value" id="updateCharge_value" [(ngModel)]="updateCharge_value" required>
+                </div>
+                <a class="btn btn-secondary text-red temp" (click)="updateRoomCharge(updateCharge_type,updateCharge_value)">Update Room Charge</a><br><br>
+                <table *ngIf="showchargetable" class="tbl">
+                    <tr>
+                        <th>Room Type</th>
+                        <th>Room Charge</th>
+                        <th>No Of Rooms</th>
+                    </tr>
+                    <tr>
+                        <td>{{roomChargeObj.roomType}}</td>
+                        <td>{{roomChargeObj.roomCharge}}</td>
+                        <td>{{roomChargeObj.noOfRooms}}</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div class="container row row1" *ngIf="showroom">
+            <div class="text-box">
+                <h2 class="medium-heading text-black head-mid">UPDATE NO OF ROOMS</h2>
+                <!-- <label>Room Type</label> -->
+                <div class="input-box">
+                    <input type="text" placeholder="Room Type" name="type" id="type" [(ngModel)]="updateNo_type" required>
+                </div>
+                <!-- <label>No Of Rooms</label> -->
+                <div class="input-box">
+                    <input type="number" placeholder="No Of Rooms" name="value" id="value" [(ngModel)]="updateNo_value" required>
+                </div>
+                <a class="btn btn-secondary text-red temp" (click)="updateNoOfRooms(updateNo_type,updateNo_value)">Update No Of Rooms</a><br><br>
+                <table *ngIf="showroomtable" class="tbl">
+                    <tr>
+                        <th>Room Type</th>
+                        <th>Room Charge</th>
+                        <th>No Of Rooms</th>
+                    </tr>
+                    <tr>
+                        <td>{{noOfRoomsObj.roomType}}</td>
+                        <td>{{noOfRoomsObj.roomCharge}}</td>
+                        <td>{{noOfRoomsObj.noOfRooms}}</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </section>
+    <footer class="footer">
+        <div class="container">
+            <div class="social-media">
+                <i class="fa-brands fa-facebook fa-4x"></i>
+                <i class="fa-brands fa-instagram fa-4x"></i>
+                <i class="fa-brands fa-twitter fa-4x"></i>
+            </div>
+            <p>Blissful Bay Resort &copy; 2024, All Rights Reserved</p>
+        </div>
+    </footer>
+</body>
+</html>

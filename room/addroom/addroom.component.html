@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Add Reservation</title>
+</head>
+<body>
+  <div class="wrapper">
+    <form action="">
+      <h1>Add Room</h1>
+      <div class="input-box">
+        <input type="number" placeholder="Room Charge" name="Room Charge" required [(ngModel)]="roomcharge">
+      </div>
+      <div class="input-box">
+        <input type="text" placeholder="Room Type" name="Room Type" required [(ngModel)]="roomtype">
+      </div>      
+      <div class="input-box">
+        <input type="number" placeholder="No Of Rooms" name="noOfRooms" required [(ngModel)]="noOfRooms">
+      </div>
+      <button type="submit" class="btn" (click)="addRoom()">Add Room</button>
+    </form>
+  </div>
+  <!-- <footer class="footer">
+    <div class="container">
+        <div class="social-media">
+            <i class="fa-brands fa-facebook fa-4x"></i>
+            <i class="fa-brands fa-instagram fa-4x"></i>
+            <i class="fa-brands fa-twitter fa-4x"></i>
+        </div>
+        <p>Footer Section &copy; 2024, All Rights Reserved</p>
+    </div>
+</footer> -->
+</body>
+</html>

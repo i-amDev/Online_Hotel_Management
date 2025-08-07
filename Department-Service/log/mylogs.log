@@ -1,0 +1,945 @@
+[INFO ] 05-04-2024 03:32:03.702 pm [http-nio-8085-exec-2] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 05-04-2024 04:11:26.242 pm [http-nio-8085-exec-4] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[ERROR] 05-04-2024 04:11:39.433 pm [http-nio-8085-exec-5] com.department.service.Department_ServiceImpl - No data is present for the id 311
+[INFO ] 05-04-2024 04:11:45.548 pm [http-nio-8085-exec-6] com.department.service.Department_ServiceImpl - Data is fetched for the id 301
+[INFO ] 05-04-2024 10:28:51.923 pm [http-nio-8085-exec-4] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 06-04-2024 11:08:23.467 am [http-nio-8085-exec-3] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 06-04-2024 11:08:46.532 am [http-nio-8085-exec-5] com.department.service.Department_ServiceImpl - Data is fetched for the id 304
+[INFO ] 06-04-2024 12:59:44.386 pm [main] com.department.service.Department_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 01:00:33.737 pm [main] com.department.service.Department_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 01:01:09.618 pm [main] com.department.service.Department_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 02:21:21.988 pm [main] com.department.service.Department_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 02:32:38.787 pm [main] com.department.service.Department_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 02:38:25.446 pm [main] com.department.service.Department_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 02:38:25.895 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 06-04-2024 02:38:25.905 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 06-04-2024 02:40:13.923 pm [main] com.department.service.Department_ServiceImpl - Data added successfully
+[ERROR] 06-04-2024 02:40:14.393 pm [main] com.department.service.Department_ServiceImpl - No data is present for the id 1
+[INFO ] 06-04-2024 02:40:14.469 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 06-04-2024 02:40:14.480 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 06-04-2024 02:41:23.041 pm [main] com.department.service.Department_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 02:41:23.589 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id 300
+[INFO ] 06-04-2024 02:41:23.595 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id 300
+[INFO ] 06-04-2024 02:41:23.632 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 06-04-2024 02:41:23.643 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 06-04-2024 02:43:32.770 pm [main] com.department.service.Department_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 02:43:33.165 pm [main] com.department.service.Department_ServiceImpl - Department with id 300 deleted successfully!
+[INFO ] 06-04-2024 02:43:33.171 pm [main] com.department.service.Department_ServiceImpl - Department with id 300 deleted successfully!
+[ERROR] 06-04-2024 02:43:33.271 pm [main] com.department.service.Department_ServiceImpl - No data is present for the id 300
+[INFO ] 06-04-2024 02:43:33.343 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 06-04-2024 02:43:33.357 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 06-04-2024 02:51:39.637 pm [main] com.department.service.Department_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 02:51:40.113 pm [main] com.department.service.Department_ServiceImpl - Department with id 300 deleted successfully!
+[INFO ] 06-04-2024 02:51:40.122 pm [main] com.department.service.Department_ServiceImpl - Department with id 300 deleted successfully!
+[INFO ] 06-04-2024 02:51:40.275 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id 301
+[INFO ] 06-04-2024 02:51:40.283 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id 301
+[INFO ] 06-04-2024 02:51:40.322 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 06-04-2024 02:51:40.338 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 06-04-2024 03:01:42.754 pm [main] com.department.service.Department_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 03:01:43.129 pm [main] com.department.service.Department_ServiceImpl - Department with id 300 deleted successfully!
+[INFO ] 06-04-2024 03:01:43.134 pm [main] com.department.service.Department_ServiceImpl - Department with id 300 deleted successfully!
+[INFO ] 06-04-2024 03:01:43.266 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id 301
+[INFO ] 06-04-2024 03:01:43.277 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id 301
+[INFO ] 06-04-2024 03:01:43.299 pm [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 06-04-2024 03:01:43.316 pm [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 06-04-2024 03:01:43.356 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 06-04-2024 03:01:43.366 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 06-04-2024 03:04:19.102 pm [main] com.department.service.Department_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 03:04:19.476 pm [main] com.department.service.Department_ServiceImpl - Department with id 300 deleted successfully!
+[INFO ] 06-04-2024 03:04:19.484 pm [main] com.department.service.Department_ServiceImpl - Department with id 300 deleted successfully!
+[INFO ] 06-04-2024 03:04:19.633 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id 301
+[INFO ] 06-04-2024 03:04:19.641 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id 301
+[INFO ] 06-04-2024 03:04:19.664 pm [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 06-04-2024 03:04:19.683 pm [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 06-04-2024 03:04:19.713 pm [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 06-04-2024 03:04:19.726 pm [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 06-04-2024 03:04:19.768 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 06-04-2024 03:04:19.781 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 06-04-2024 03:08:32.278 pm [main] com.department.service.Department_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 03:08:32.787 pm [main] com.department.service.Department_ServiceImpl - Department with id 300 deleted successfully!
+[INFO ] 06-04-2024 03:08:32.795 pm [main] com.department.service.Department_ServiceImpl - Department with id 300 deleted successfully!
+[INFO ] 06-04-2024 03:08:32.994 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id 301
+[INFO ] 06-04-2024 03:08:33.008 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id 301
+[INFO ] 06-04-2024 03:08:33.032 pm [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 06-04-2024 03:08:33.051 pm [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 06-04-2024 03:08:33.085 pm [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 06-04-2024 03:08:33.104 pm [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 06-04-2024 03:08:33.140 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 06-04-2024 03:08:33.153 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 06-04-2024 03:13:44.823 pm [main] com.department.service.Department_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 03:13:45.186 pm [main] com.department.service.Department_ServiceImpl - Department with id 300 deleted successfully!
+[INFO ] 06-04-2024 03:13:45.194 pm [main] com.department.service.Department_ServiceImpl - Department with id 300 deleted successfully!
+[INFO ] 06-04-2024 03:13:45.298 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id 301
+[INFO ] 06-04-2024 03:13:45.304 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id 301
+[INFO ] 06-04-2024 03:13:45.324 pm [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 06-04-2024 03:13:45.336 pm [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 06-04-2024 03:13:45.359 pm [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 06-04-2024 03:13:45.373 pm [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 06-04-2024 03:13:45.404 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 06-04-2024 03:13:45.414 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 06-04-2024 03:13:45.435 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id 1010
+[INFO ] 06-04-2024 03:15:18.524 pm [main] com.department.service.Department_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 03:15:18.859 pm [main] com.department.service.Department_ServiceImpl - Department with id 300 deleted successfully!
+[INFO ] 06-04-2024 03:15:18.867 pm [main] com.department.service.Department_ServiceImpl - Department with id 300 deleted successfully!
+[INFO ] 06-04-2024 03:15:18.988 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id 301
+[INFO ] 06-04-2024 03:15:18.995 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id 301
+[INFO ] 06-04-2024 03:15:19.015 pm [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 06-04-2024 03:15:19.030 pm [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 06-04-2024 03:15:19.055 pm [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 06-04-2024 03:15:19.069 pm [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 06-04-2024 03:15:19.102 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 06-04-2024 03:15:19.112 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 06-04-2024 03:19:51.244 pm [main] com.department.service.Department_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 03:19:51.764 pm [main] com.department.service.Department_ServiceImpl - Department with id 300 deleted successfully!
+[INFO ] 06-04-2024 03:19:51.777 pm [main] com.department.service.Department_ServiceImpl - Department with id 300 deleted successfully!
+[INFO ] 06-04-2024 03:19:51.940 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id 301
+[INFO ] 06-04-2024 03:19:51.950 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id 301
+[INFO ] 06-04-2024 03:19:51.980 pm [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 06-04-2024 03:19:52.003 pm [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 06-04-2024 03:19:52.053 pm [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 06-04-2024 03:19:52.071 pm [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 06-04-2024 03:19:52.119 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 06-04-2024 03:19:52.131 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 06-04-2024 03:19:52.179 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id 1010
+[ERROR] 06-04-2024 03:22:19.309 pm [http-nio-8085-exec-2] com.department.service.Department_ServiceImpl - No data is present for the id 3111
+[INFO ] 06-04-2024 03:33:34.241 pm [main] com.department.service.Department_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 03:33:34.685 pm [main] com.department.service.Department_ServiceImpl - Department with id 300 deleted successfully!
+[INFO ] 06-04-2024 03:33:34.692 pm [main] com.department.service.Department_ServiceImpl - Department with id 300 deleted successfully!
+[INFO ] 06-04-2024 03:33:34.827 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id 301
+[INFO ] 06-04-2024 03:33:34.836 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id 301
+[INFO ] 06-04-2024 03:33:34.864 pm [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 06-04-2024 03:33:34.879 pm [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 06-04-2024 03:33:34.921 pm [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 06-04-2024 03:33:34.939 pm [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 06-04-2024 03:33:34.977 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 06-04-2024 03:33:34.998 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 11:17:27.045 am [http-nio-8085-exec-2] com.department.service.Department_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 11:17:46.263 am [http-nio-8085-exec-3] com.department.service.Department_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 11:18:16.292 am [http-nio-8085-exec-2] com.department.service.Department_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 11:18:47.619 am [http-nio-8085-exec-3] com.department.service.Department_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 11:21:03.549 am [http-nio-8085-exec-2] com.department.service.Department_ServiceImpl - Data is fetched for the id 661233bf5da65205956d7a34
+[INFO ] 07-04-2024 11:22:26.239 am [http-nio-8085-exec-2] com.department.service.Department_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 11:22:34.616 am [http-nio-8085-exec-4] com.department.service.Department_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 11:23:38.724 am [http-nio-8085-exec-6] com.department.service.Department_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 11:25:55.965 am [http-nio-8085-exec-1] com.department.service.Department_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 11:26:44.616 am [http-nio-8085-exec-4] com.department.service.Department_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 11:27:00.166 am [http-nio-8085-exec-6] com.department.service.Department_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 11:27:05.196 am [http-nio-8085-exec-7] com.department.service.Department_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 01:43:18.334 pm [http-nio-8085-exec-2] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 01:43:53.975 pm [http-nio-8085-exec-6] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 01:50:16.892 pm [http-nio-8085-exec-3] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 01:51:19.630 pm [http-nio-8085-exec-6] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 01:52:14.858 pm [http-nio-8085-exec-7] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 01:52:49.737 pm [http-nio-8085-exec-8] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 01:54:52.807 pm [http-nio-8085-exec-1] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 01:56:27.080 pm [http-nio-8085-exec-4] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 01:57:48.676 pm [http-nio-8085-exec-7] com.department.service.Department_ServiceImpl - Data is fetched for the id 661258545da65205956d7a6c
+[ERROR] 07-04-2024 01:58:02.764 pm [http-nio-8085-exec-8] com.department.service.Department_ServiceImpl - No such department found for the given id. Please provide a correct Id
+[INFO ] 07-04-2024 01:59:40.807 pm [http-nio-8085-exec-1] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 07-04-2024 02:01:17.221 pm [http-nio-8085-exec-5] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 07-04-2024 02:01:41.092 pm [http-nio-8085-exec-6] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 07-04-2024 02:14:34.707 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[ERROR] 07-04-2024 02:14:34.905 pm [main] com.department.service.Department_ServiceImpl - No such department found for the given id. Please provide a correct Id
+[INFO ] 07-04-2024 02:14:35.008 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:14:35.017 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:14:35.133 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:14:35.151 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:16:49.503 pm [main] com.department.service.Department_ServiceImpl - Department with id D-01 deleted successfully!
+[ERROR] 07-04-2024 02:16:49.519 pm [main] com.department.service.Department_ServiceImpl - No such department found for the given id. Please provide a correct Id
+[ERROR] 07-04-2024 02:16:49.561 pm [main] com.department.service.Department_ServiceImpl - No data is present for the id D-01
+[INFO ] 07-04-2024 02:16:49.654 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:16:49.667 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:18:07.371 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[ERROR] 07-04-2024 02:18:07.541 pm [main] com.department.service.Department_ServiceImpl - No such department found for the given id. Please provide a correct Id
+[INFO ] 07-04-2024 02:18:07.625 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:18:07.635 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:18:07.723 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:18:07.738 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[ERROR] 07-04-2024 02:20:36.775 pm [main] com.department.service.Department_ServiceImpl - No such department found for the given id. Please provide a correct Id
+[INFO ] 07-04-2024 02:20:36.838 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:20:36.849 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:20:36.946 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:20:36.968 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:22:33.348 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:22:33.377 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:22:33.516 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:22:33.531 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:23:36.172 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:23:36.194 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:23:36.304 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:23:36.324 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:27:17.114 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 02:27:17.342 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 02:27:17.439 pm [main] com.department.service.Department_ServiceImpl - Department with id D-013 deleted successfully!
+[ERROR] 07-04-2024 02:27:17.448 pm [main] com.department.service.Department_ServiceImpl - No such department found for the given id. Please provide a correct Id
+[INFO ] 07-04-2024 02:27:17.515 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:27:17.524 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:27:17.650 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:27:17.667 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:29:08.490 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 02:29:08.623 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 02:29:08.682 pm [main] com.department.service.Department_ServiceImpl - Department with id D-013 deleted successfully!
+[INFO ] 07-04-2024 02:29:08.699 pm [main] com.department.service.Department_ServiceImpl - Department with id D-014 deleted successfully!
+[INFO ] 07-04-2024 02:29:08.765 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:29:08.776 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:29:08.881 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:29:08.897 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:30:50.147 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 02:30:50.285 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 02:30:50.342 pm [main] com.department.service.Department_ServiceImpl - Department with id D-013 deleted successfully!
+[INFO ] 07-04-2024 02:30:50.358 pm [main] com.department.service.Department_ServiceImpl - Department with id D-014 deleted successfully!
+[INFO ] 07-04-2024 02:30:50.411 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:30:50.424 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:30:50.540 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:30:50.555 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:33:21.786 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 02:33:21.979 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 02:33:22.040 pm [main] com.department.service.Department_ServiceImpl - Department with id D-013 deleted successfully!
+[INFO ] 07-04-2024 02:33:22.057 pm [main] com.department.service.Department_ServiceImpl - Department with id D-014 deleted successfully!
+[INFO ] 07-04-2024 02:33:22.113 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:33:22.123 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:33:22.224 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:33:22.237 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:36:36.015 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 02:36:36.176 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 02:36:36.236 pm [main] com.department.service.Department_ServiceImpl - Department with id D-013 deleted successfully!
+[INFO ] 07-04-2024 02:36:36.258 pm [main] com.department.service.Department_ServiceImpl - Department with id D-014 deleted successfully!
+[INFO ] 07-04-2024 02:36:36.327 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:36:36.341 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:36:36.461 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:36:36.482 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:36:36.511 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[ERROR] 07-04-2024 02:36:36.531 pm [main] com.department.service.Department_ServiceImpl - No such department found for the given id. Please provide a correct Id
+[INFO ] 07-04-2024 02:39:10.376 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:39:10.402 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:39:10.516 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:39:10.533 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:39:10.560 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[ERROR] 07-04-2024 02:39:10.693 pm [main] com.department.service.Department_ServiceImpl - No such department found for the given id. Please provide a correct Id
+[INFO ] 07-04-2024 02:40:12.550 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 02:40:12.741 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 02:40:12.767 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 02:40:12.845 pm [main] com.department.service.Department_ServiceImpl - Department with id D-013 deleted successfully!
+[INFO ] 07-04-2024 02:40:12.860 pm [main] com.department.service.Department_ServiceImpl - Department with id D-014 deleted successfully!
+[INFO ] 07-04-2024 02:40:12.905 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:40:12.917 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:40:13.035 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:40:13.051 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:40:13.080 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[ERROR] 07-04-2024 02:40:13.099 pm [main] com.department.service.Department_ServiceImpl - No such department found for the given id. Please provide a correct Id
+[INFO ] 07-04-2024 02:49:03.161 pm [http-nio-8085-exec-2] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 02:50:04.783 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 02:50:04.932 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 02:50:05.034 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:50:05.045 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:50:05.130 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:50:05.144 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[ERROR] 07-04-2024 02:50:05.166 pm [main] com.department.service.Department_ServiceImpl - No such department found for the given id. Please provide a correct Id
+[INFO ] 07-04-2024 02:51:39.094 pm [main] com.department.service.Department_ServiceImpl - Department with id 661265075da65205956d7a6f deleted successfully!
+[ERROR] 07-04-2024 02:51:39.121 pm [main] com.department.service.Department_ServiceImpl - No such department found for the given id. Please provide a correct Id
+[INFO ] 07-04-2024 02:51:39.181 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:51:39.193 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:51:39.317 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:51:39.336 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[ERROR] 07-04-2024 02:51:39.363 pm [main] com.department.service.Department_ServiceImpl - No such department found for the given id. Please provide a correct Id
+[INFO ] 07-04-2024 02:54:15.688 pm [http-nio-8085-exec-5] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 02:55:10.175 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 02:55:10.487 pm [main] com.department.service.Department_ServiceImpl - Department with id 6612663f5da65205956d7a70 deleted successfully!
+[ERROR] 07-04-2024 02:55:10.501 pm [main] com.department.service.Department_ServiceImpl - No such department found for the given id. Please provide a correct Id
+[INFO ] 07-04-2024 02:55:10.582 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:55:10.596 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:55:10.730 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:55:10.744 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[ERROR] 07-04-2024 02:55:10.767 pm [main] com.department.service.Department_ServiceImpl - No such department found for the given id. Please provide a correct Id
+[INFO ] 07-04-2024 02:56:06.162 pm [http-nio-8085-exec-8] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 02:56:35.037 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 02:56:35.236 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:56:35.247 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:56:35.338 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:56:35.349 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[ERROR] 07-04-2024 02:56:35.374 pm [main] com.department.service.Department_ServiceImpl - No such department found for the given id. Please provide a correct Id
+[INFO ] 07-04-2024 02:57:14.039 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:57:14.069 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:57:14.187 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:57:14.204 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[ERROR] 07-04-2024 02:57:14.227 pm [main] com.department.service.Department_ServiceImpl - No such department found for the given id. Please provide a correct Id
+[INFO ] 07-04-2024 02:57:36.430 pm [http-nio-8085-exec-1] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 02:58:41.791 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 02:58:42.042 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 02:58:42.144 pm [main] com.department.service.Department_ServiceImpl - Department with id 661267085da65205956d7a72 deleted successfully!
+[INFO ] 07-04-2024 02:58:42.162 pm [main] com.department.service.Department_ServiceImpl - Department with id D-013 deleted successfully!
+[INFO ] 07-04-2024 02:58:42.281 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:58:42.298 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:58:42.424 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:58:42.443 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[ERROR] 07-04-2024 02:58:42.467 pm [main] com.department.service.Department_ServiceImpl - No such department found for the given id. Please provide a correct Id
+[INFO ] 07-04-2024 02:59:57.480 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[ERROR] 07-04-2024 02:59:57.609 pm [main] com.department.service.Department_ServiceImpl - No such department found for the given id. Please provide a correct Id
+[INFO ] 07-04-2024 02:59:57.670 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:59:57.683 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 02:59:57.783 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 02:59:57.799 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 03:01:09.118 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 03:01:09.312 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[ERROR] 07-04-2024 03:01:09.338 pm [main] com.department.service.Department_ServiceImpl - No such department found for the given id. Please provide a correct Id
+[INFO ] 07-04-2024 03:01:09.446 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 03:01:09.458 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 03:01:09.617 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 03:01:09.637 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 03:02:05.479 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 03:02:05.724 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 03:02:05.744 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 03:02:05.826 pm [main] com.department.service.Department_ServiceImpl - Department with id D-014 deleted successfully!
+[INFO ] 07-04-2024 03:02:05.843 pm [main] com.department.service.Department_ServiceImpl - Department with id D-013 deleted successfully!
+[INFO ] 07-04-2024 03:02:05.908 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 03:02:05.919 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 03:02:06.041 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 03:02:06.058 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 03:03:24.142 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 03:03:24.340 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 03:03:24.364 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 03:03:24.458 pm [main] com.department.service.Department_ServiceImpl - Department with id D-014 deleted successfully!
+[ERROR] 07-04-2024 03:03:24.468 pm [main] com.department.service.Department_ServiceImpl - No such department found for the given id. Please provide a correct Id
+[INFO ] 07-04-2024 03:03:24.534 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 03:03:24.548 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 03:03:24.660 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 03:03:24.677 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 03:07:13.165 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 03:07:13.436 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 03:07:13.460 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 03:07:13.582 pm [main] com.department.service.Department_ServiceImpl - Department with id D-014 deleted successfully!
+[INFO ] 07-04-2024 03:07:13.608 pm [main] com.department.service.Department_ServiceImpl - Department with id D-013 deleted successfully!
+[INFO ] 07-04-2024 03:07:13.691 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 03:07:13.706 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 03:07:13.891 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 03:07:13.910 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 03:09:45.325 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 03:09:45.574 pm [main] com.department.service.Department_ServiceImpl - Department with id D-01 deleted successfully!
+[INFO ] 07-04-2024 03:09:45.646 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 03:09:45.671 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 03:09:45.704 pm [main] com.department.service.Department_ServiceImpl - Department with id D-014 deleted successfully!
+[INFO ] 07-04-2024 03:09:45.725 pm [main] com.department.service.Department_ServiceImpl - Department with id D-013 deleted successfully!
+[ERROR] 07-04-2024 03:09:45.796 pm [main] com.department.service.Department_ServiceImpl - No data is present for the id D-01
+[INFO ] 07-04-2024 03:09:45.915 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 03:09:45.931 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 03:11:58.605 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 03:11:58.790 pm [main] com.department.service.Department_ServiceImpl - Department with id D-01 deleted successfully!
+[INFO ] 07-04-2024 03:11:58.838 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 03:11:58.857 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 03:11:58.881 pm [main] com.department.service.Department_ServiceImpl - Department with id D-014 deleted successfully!
+[INFO ] 07-04-2024 03:11:58.897 pm [main] com.department.service.Department_ServiceImpl - Department with id D-013 deleted successfully!
+[INFO ] 07-04-2024 03:11:59.060 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 03:11:59.075 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 03:13:00.923 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 03:13:01.131 pm [main] com.department.service.Department_ServiceImpl - Department with id D-02 deleted successfully!
+[INFO ] 07-04-2024 03:13:01.188 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 03:13:01.216 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 03:13:01.243 pm [main] com.department.service.Department_ServiceImpl - Department with id D-014 deleted successfully!
+[INFO ] 07-04-2024 03:13:01.259 pm [main] com.department.service.Department_ServiceImpl - Department with id D-013 deleted successfully!
+[INFO ] 07-04-2024 03:13:01.423 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 03:13:01.438 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 03:14:04.254 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 03:14:04.452 pm [main] com.department.service.Department_ServiceImpl - Department with id D-02 deleted successfully!
+[INFO ] 07-04-2024 03:14:04.514 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 03:14:04.539 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 03:14:04.578 pm [main] com.department.service.Department_ServiceImpl - Department with id D-014 deleted successfully!
+[INFO ] 07-04-2024 03:14:04.597 pm [main] com.department.service.Department_ServiceImpl - Department with id D-013 deleted successfully!
+[INFO ] 07-04-2024 03:14:04.673 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 03:14:04.702 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 03:14:04.716 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 03:14:04.736 pm [main] com.department.service.Department_ServiceImpl - Department with id D-01 deleted successfully!
+[INFO ] 07-04-2024 03:14:04.867 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 03:14:04.887 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 03:17:23.504 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 03:17:23.716 pm [main] com.department.service.Department_ServiceImpl - Department with id D-02 deleted successfully!
+[INFO ] 07-04-2024 03:17:23.779 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 03:17:23.800 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 03:17:23.826 pm [main] com.department.service.Department_ServiceImpl - Department with id D-014 deleted successfully!
+[INFO ] 07-04-2024 03:17:23.842 pm [main] com.department.service.Department_ServiceImpl - Department with id D-013 deleted successfully!
+[INFO ] 07-04-2024 03:17:23.904 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 03:17:23.924 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 03:17:23.935 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 07-04-2024 03:17:23.953 pm [main] com.department.service.Department_ServiceImpl - Department with id D-01 deleted successfully!
+[INFO ] 07-04-2024 03:17:23.979 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 03:17:23.999 pm [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 07-04-2024 03:17:24.019 pm [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 07-04-2024 03:17:24.046 pm [main] com.department.service.Department_ServiceImpl - Department with id D-03 deleted successfully!
+[INFO ] 07-04-2024 03:17:24.084 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 03:17:24.104 pm [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 07-04-2024 03:17:24.119 pm [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 07-04-2024 03:17:24.140 pm [main] com.department.service.Department_ServiceImpl - Department with id D-03 deleted successfully!
+[INFO ] 07-04-2024 03:17:24.164 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 07-04-2024 03:17:24.183 pm [main] com.department.service.Department_ServiceImpl - Department Name updated successfully
+[INFO ] 07-04-2024 03:17:24.200 pm [main] com.department.service.Department_ServiceImpl - Department Name updated successfully
+[INFO ] 07-04-2024 03:17:24.225 pm [main] com.department.service.Department_ServiceImpl - Department with id D-04 deleted successfully!
+[INFO ] 07-04-2024 03:17:24.252 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 07-04-2024 03:17:24.265 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 08-04-2024 06:53:14.787 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 06:53:15.051 am [main] com.department.service.Department_ServiceImpl - Department with id D-02 deleted successfully!
+[INFO ] 08-04-2024 06:53:15.123 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 06:53:15.145 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 06:53:15.174 am [main] com.department.service.Department_ServiceImpl - Department with id D-014 deleted successfully!
+[INFO ] 08-04-2024 06:53:15.196 am [main] com.department.service.Department_ServiceImpl - Department with id D-013 deleted successfully!
+[INFO ] 08-04-2024 06:53:15.281 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 06:53:15.305 am [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 08-04-2024 06:53:15.315 am [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 08-04-2024 06:53:15.334 am [main] com.department.service.Department_ServiceImpl - Department with id D-01 deleted successfully!
+[INFO ] 08-04-2024 06:53:15.370 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 06:53:15.391 am [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 08-04-2024 06:53:15.410 am [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 08-04-2024 06:53:15.443 am [main] com.department.service.Department_ServiceImpl - Department with id D-03 deleted successfully!
+[INFO ] 08-04-2024 06:53:15.500 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 06:53:15.523 am [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 08-04-2024 06:53:15.546 am [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 08-04-2024 06:53:15.578 am [main] com.department.service.Department_ServiceImpl - Department with id D-03 deleted successfully!
+[INFO ] 08-04-2024 06:53:15.607 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 06:53:15.628 am [main] com.department.service.Department_ServiceImpl - Department Name updated successfully
+[INFO ] 08-04-2024 06:53:15.650 am [main] com.department.service.Department_ServiceImpl - Department Name updated successfully
+[INFO ] 08-04-2024 06:53:15.678 am [main] com.department.service.Department_ServiceImpl - Department with id D-04 deleted successfully!
+[INFO ] 08-04-2024 06:53:15.721 am [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 08-04-2024 06:53:15.736 am [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 08-04-2024 06:55:06.954 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 06:55:07.146 am [main] com.department.service.Department_ServiceImpl - Department with id D-02 deleted successfully!
+[INFO ] 08-04-2024 06:55:07.215 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 06:55:07.236 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 06:55:07.277 am [main] com.department.service.Department_ServiceImpl - Department with id D-014 deleted successfully!
+[INFO ] 08-04-2024 06:55:07.297 am [main] com.department.service.Department_ServiceImpl - Department with id D-013 deleted successfully!
+[INFO ] 08-04-2024 06:55:07.377 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 06:55:07.405 am [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 08-04-2024 06:55:07.416 am [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 08-04-2024 06:55:07.437 am [main] com.department.service.Department_ServiceImpl - Department with id D-01 deleted successfully!
+[INFO ] 08-04-2024 06:55:07.466 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 06:55:07.489 am [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 08-04-2024 06:55:07.512 am [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 08-04-2024 06:55:07.540 am [main] com.department.service.Department_ServiceImpl - Department with id D-03 deleted successfully!
+[INFO ] 08-04-2024 06:55:07.602 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 06:55:07.623 am [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 08-04-2024 06:55:07.651 am [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 08-04-2024 06:55:07.700 am [main] com.department.service.Department_ServiceImpl - Department with id D-03 deleted successfully!
+[INFO ] 08-04-2024 06:55:07.735 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 06:55:07.755 am [main] com.department.service.Department_ServiceImpl - Department Name updated successfully
+[INFO ] 08-04-2024 06:55:07.771 am [main] com.department.service.Department_ServiceImpl - Department Name updated successfully
+[INFO ] 08-04-2024 06:55:07.795 am [main] com.department.service.Department_ServiceImpl - Department with id D-04 deleted successfully!
+[INFO ] 08-04-2024 06:55:07.826 am [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 08-04-2024 06:55:07.841 am [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 08-04-2024 06:58:18.887 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 06:58:19.085 am [main] com.department.service.Department_ServiceImpl - Department with id D-02 deleted successfully!
+[INFO ] 08-04-2024 06:58:19.146 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 06:58:19.171 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 06:58:19.202 am [main] com.department.service.Department_ServiceImpl - Department with id D-014 deleted successfully!
+[INFO ] 08-04-2024 06:58:19.226 am [main] com.department.service.Department_ServiceImpl - Department with id D-013 deleted successfully!
+[INFO ] 08-04-2024 06:58:19.306 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 06:58:19.329 am [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 08-04-2024 06:58:19.340 am [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 08-04-2024 06:58:19.360 am [main] com.department.service.Department_ServiceImpl - Department with id D-01 deleted successfully!
+[INFO ] 08-04-2024 06:58:19.389 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 06:58:19.408 am [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 08-04-2024 06:58:19.427 am [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 08-04-2024 06:58:19.453 am [main] com.department.service.Department_ServiceImpl - Department with id D-03 deleted successfully!
+[INFO ] 08-04-2024 06:58:19.503 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 06:58:19.523 am [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 08-04-2024 06:58:19.543 am [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 08-04-2024 06:58:19.572 am [main] com.department.service.Department_ServiceImpl - Department with id D-03 deleted successfully!
+[INFO ] 08-04-2024 06:58:19.600 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 06:58:19.619 am [main] com.department.service.Department_ServiceImpl - Department Name updated successfully
+[INFO ] 08-04-2024 06:58:19.643 am [main] com.department.service.Department_ServiceImpl - Department Name updated successfully
+[INFO ] 08-04-2024 06:58:19.672 am [main] com.department.service.Department_ServiceImpl - Department with id D-04 deleted successfully!
+[INFO ] 08-04-2024 06:58:19.707 am [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 08-04-2024 06:58:19.720 am [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 08-04-2024 08:54:33.199 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 08:54:33.405 am [main] com.department.service.Department_ServiceImpl - Department with id D-02 deleted successfully!
+[INFO ] 08-04-2024 08:54:33.463 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 08:54:33.484 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 08:54:33.514 am [main] com.department.service.Department_ServiceImpl - Department with id D-014 deleted successfully!
+[INFO ] 08-04-2024 08:54:33.532 am [main] com.department.service.Department_ServiceImpl - Department with id D-013 deleted successfully!
+[INFO ] 08-04-2024 08:54:33.602 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 08:54:33.622 am [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 08-04-2024 08:54:33.631 am [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 08-04-2024 08:54:33.650 am [main] com.department.service.Department_ServiceImpl - Department with id D-01 deleted successfully!
+[INFO ] 08-04-2024 08:54:33.678 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 08:54:33.698 am [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 08-04-2024 08:54:33.716 am [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 08-04-2024 08:54:33.743 am [main] com.department.service.Department_ServiceImpl - Department with id D-03 deleted successfully!
+[INFO ] 08-04-2024 08:54:33.781 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 08:54:33.798 am [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 08-04-2024 08:54:33.818 am [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 08-04-2024 08:54:33.844 am [main] com.department.service.Department_ServiceImpl - Department with id D-03 deleted successfully!
+[INFO ] 08-04-2024 08:54:33.865 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 08:54:33.885 am [main] com.department.service.Department_ServiceImpl - Department Name updated successfully
+[INFO ] 08-04-2024 08:54:33.905 am [main] com.department.service.Department_ServiceImpl - Department Name updated successfully
+[INFO ] 08-04-2024 08:54:33.930 am [main] com.department.service.Department_ServiceImpl - Department with id D-04 deleted successfully!
+[INFO ] 08-04-2024 08:54:33.960 am [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 08-04-2024 08:54:33.974 am [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 08-04-2024 08:56:15.722 am [http-nio-8085-exec-2] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 08-04-2024 10:06:46.579 am [http-nio-8085-exec-2] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 10:07:10.251 am [http-nio-8085-exec-3] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 10:08:55.937 am [http-nio-8085-exec-6] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 10:30:58.590 am [http-nio-8085-exec-2] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 10:40:10.135 am [http-nio-8085-exec-6] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 12:01:55.006 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 12:01:55.241 pm [main] com.department.service.Department_ServiceImpl - Department with id D-02 deleted successfully!
+[INFO ] 08-04-2024 12:01:55.282 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 12:01:55.298 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 12:01:55.319 pm [main] com.department.service.Department_ServiceImpl - Department with id D-014 deleted successfully!
+[INFO ] 08-04-2024 12:01:55.331 pm [main] com.department.service.Department_ServiceImpl - Department with id D-013 deleted successfully!
+[INFO ] 08-04-2024 12:01:55.380 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 12:01:55.394 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 08-04-2024 12:01:55.400 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 08-04-2024 12:01:55.411 pm [main] com.department.service.Department_ServiceImpl - Department with id D-01 deleted successfully!
+[INFO ] 08-04-2024 12:01:55.428 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 12:01:55.439 pm [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 08-04-2024 12:01:55.449 pm [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 08-04-2024 12:01:55.466 pm [main] com.department.service.Department_ServiceImpl - Department with id D-03 deleted successfully!
+[INFO ] 08-04-2024 12:01:55.488 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 12:01:55.499 pm [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 08-04-2024 12:01:55.514 pm [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 08-04-2024 12:01:55.532 pm [main] com.department.service.Department_ServiceImpl - Department with id D-03 deleted successfully!
+[INFO ] 08-04-2024 12:01:55.553 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 08-04-2024 12:01:55.567 pm [main] com.department.service.Department_ServiceImpl - Department Name updated successfully
+[INFO ] 08-04-2024 12:01:55.581 pm [main] com.department.service.Department_ServiceImpl - Department Name updated successfully
+[INFO ] 08-04-2024 12:01:55.605 pm [main] com.department.service.Department_ServiceImpl - Department with id D-04 deleted successfully!
+[INFO ] 08-04-2024 12:01:55.629 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 08-04-2024 12:01:55.640 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 09-04-2024 05:52:02.231 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 09-04-2024 05:52:02.584 pm [main] com.department.service.Department_ServiceImpl - Department with id D-02 deleted successfully!
+[INFO ] 09-04-2024 05:52:02.679 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 09-04-2024 05:52:02.708 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 09-04-2024 05:52:02.741 pm [main] com.department.service.Department_ServiceImpl - Department with id D-014 deleted successfully!
+[INFO ] 09-04-2024 05:52:02.761 pm [main] com.department.service.Department_ServiceImpl - Department with id D-013 deleted successfully!
+[INFO ] 09-04-2024 05:52:02.855 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 09-04-2024 05:52:02.881 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 09-04-2024 05:52:02.892 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 09-04-2024 05:52:02.926 pm [main] com.department.service.Department_ServiceImpl - Department with id D-01 deleted successfully!
+[INFO ] 09-04-2024 05:52:02.960 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 09-04-2024 05:52:02.983 pm [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 09-04-2024 05:52:03.007 pm [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 09-04-2024 05:52:03.039 pm [main] com.department.service.Department_ServiceImpl - Department with id D-03 deleted successfully!
+[INFO ] 09-04-2024 05:52:03.088 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 09-04-2024 05:52:03.117 pm [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 09-04-2024 05:52:03.139 pm [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 09-04-2024 05:52:03.167 pm [main] com.department.service.Department_ServiceImpl - Department with id D-03 deleted successfully!
+[INFO ] 09-04-2024 05:52:03.205 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 09-04-2024 05:52:03.231 pm [main] com.department.service.Department_ServiceImpl - Department Name updated successfully
+[INFO ] 09-04-2024 05:52:03.256 pm [main] com.department.service.Department_ServiceImpl - Department Name updated successfully
+[INFO ] 09-04-2024 05:52:03.284 pm [main] com.department.service.Department_ServiceImpl - Department with id D-04 deleted successfully!
+[INFO ] 09-04-2024 05:52:03.317 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 09-04-2024 05:52:03.340 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 09-04-2024 05:53:45.006 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 09-04-2024 05:53:45.342 pm [main] com.department.service.Department_ServiceImpl - Department with id D-02 deleted successfully!
+[INFO ] 09-04-2024 05:53:45.436 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 09-04-2024 05:53:45.478 pm [main] com.department.service.Department_ServiceImpl - Department with id D-013 deleted successfully!
+[INFO ] 09-04-2024 05:53:45.489 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 09-04-2024 05:53:45.520 pm [main] com.department.service.Department_ServiceImpl - Department with id D-013 deleted successfully!
+[INFO ] 09-04-2024 05:53:45.598 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 09-04-2024 05:53:45.628 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 09-04-2024 05:53:45.639 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the id D-01
+[INFO ] 09-04-2024 05:53:45.665 pm [main] com.department.service.Department_ServiceImpl - Department with id D-01 deleted successfully!
+[INFO ] 09-04-2024 05:53:45.693 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 09-04-2024 05:53:45.715 pm [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 09-04-2024 05:53:45.735 pm [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 09-04-2024 05:53:45.769 pm [main] com.department.service.Department_ServiceImpl - Department with id D-03 deleted successfully!
+[INFO ] 09-04-2024 05:53:45.817 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 09-04-2024 05:53:45.839 pm [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 09-04-2024 05:53:45.862 pm [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 09-04-2024 05:53:45.888 pm [main] com.department.service.Department_ServiceImpl - Department with id D-03 deleted successfully!
+[INFO ] 09-04-2024 05:53:45.919 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 09-04-2024 05:53:45.942 pm [main] com.department.service.Department_ServiceImpl - Department Name updated successfully
+[INFO ] 09-04-2024 05:53:45.968 pm [main] com.department.service.Department_ServiceImpl - Department Name updated successfully
+[INFO ] 09-04-2024 05:53:46.005 pm [main] com.department.service.Department_ServiceImpl - Department with id D-04 deleted successfully!
+[INFO ] 09-04-2024 05:53:46.052 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 09-04-2024 05:53:46.080 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 11-04-2024 12:19:03.169 pm [http-nio-8085-exec-1] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 11-04-2024 12:34:35.802 pm [http-nio-8085-exec-3] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 11-04-2024 12:42:11.968 pm [http-nio-8085-exec-5] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 11-04-2024 12:46:00.243 pm [http-nio-8085-exec-7] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 11-04-2024 12:46:29.543 pm [http-nio-8085-exec-8] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 11-04-2024 01:32:30.754 pm [http-nio-8085-exec-10] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 11-04-2024 01:59:03.457 pm [http-nio-8085-exec-2] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 11-04-2024 02:08:46.662 pm [http-nio-8085-exec-4] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 11-04-2024 02:08:51.383 pm [http-nio-8085-exec-5] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 11-04-2024 02:10:07.522 pm [http-nio-8085-exec-7] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 11-04-2024 02:10:14.523 pm [http-nio-8085-exec-8] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 11-04-2024 02:11:50.239 pm [http-nio-8085-exec-1] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 11-04-2024 02:18:01.166 pm [http-nio-8085-exec-4] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 11-04-2024 02:18:02.570 pm [http-nio-8085-exec-5] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 11-04-2024 02:19:24.179 pm [http-nio-8085-exec-8] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 11-04-2024 02:20:11.647 pm [http-nio-8085-exec-9] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 11-04-2024 02:20:41.711 pm [http-nio-8085-exec-10] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 11-04-2024 02:20:43.790 pm [http-nio-8085-exec-1] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 11-04-2024 02:29:56.046 pm [http-nio-8085-exec-4] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 11-04-2024 02:30:23.001 pm [http-nio-8085-exec-5] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 11-04-2024 02:30:41.773 pm [http-nio-8085-exec-6] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 11-04-2024 02:31:53.155 pm [http-nio-8085-exec-8] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 11-04-2024 02:33:49.456 pm [http-nio-8085-exec-10] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 11-04-2024 02:33:51.257 pm [http-nio-8085-exec-1] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 11-04-2024 02:34:34.081 pm [http-nio-8085-exec-2] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 11-04-2024 02:43:05.610 pm [http-nio-8085-exec-5] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 11-04-2024 02:43:24.337 pm [http-nio-8085-exec-6] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 12-04-2024 07:00:50.527 am [http-nio-8085-exec-1] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 12-04-2024 07:00:58.638 am [http-nio-8085-exec-2] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 12-04-2024 07:01:11.950 am [http-nio-8085-exec-4] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 12-04-2024 07:03:47.823 pm [http-nio-8085-exec-1] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 13-04-2024 11:19:40.034 pm [http-nio-8085-exec-3] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 14-04-2024 11:16:31.266 am [http-nio-8085-exec-1] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 14-04-2024 11:17:54.352 am [http-nio-8085-exec-3] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 14-04-2024 11:19:40.130 am [http-nio-8085-exec-5] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 14-04-2024 11:20:53.915 am [http-nio-8085-exec-7] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 14-04-2024 11:21:04.801 am [http-nio-8085-exec-8] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 14-04-2024 11:21:12.802 am [http-nio-8085-exec-9] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 14-04-2024 11:23:10.761 am [http-nio-8085-exec-1] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 14-04-2024 11:25:21.762 am [http-nio-8085-exec-3] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 14-04-2024 11:25:31.299 am [http-nio-8085-exec-4] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName qqd
+[INFO ] 14-04-2024 11:28:07.948 am [http-nio-8085-exec-6] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 14-04-2024 11:28:18.719 am [http-nio-8085-exec-7] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 14-04-2024 11:28:23.516 am [http-nio-8085-exec-8] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 14-04-2024 11:30:51.418 am [http-nio-8085-exec-10] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 14-04-2024 11:31:06.669 am [http-nio-8085-exec-1] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 14-04-2024 11:31:08.660 am [http-nio-8085-exec-2] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 14-04-2024 11:31:28.473 am [http-nio-8085-exec-3] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 14-04-2024 11:31:37.057 am [http-nio-8085-exec-4] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName Waiter
+[INFO ] 14-04-2024 11:31:46.317 am [http-nio-8085-exec-5] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 14-04-2024 11:32:16.255 am [http-nio-8085-exec-6] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 14-04-2024 11:32:59.617 am [http-nio-8085-exec-7] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 14-04-2024 11:33:07.773 am [http-nio-8085-exec-8] com.department.service.Department_ServiceImpl - Department with departmentName New dept deleted successfully!
+[INFO ] 14-04-2024 11:33:09.490 am [http-nio-8085-exec-9] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 14-04-2024 05:17:23.785 pm [http-nio-8085-exec-1] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 14-04-2024 05:19:07.160 pm [http-nio-8085-exec-3] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 14-04-2024 05:19:28.805 pm [http-nio-8085-exec-4] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 14-04-2024 05:23:27.778 pm [http-nio-8085-exec-6] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 14-04-2024 05:23:53.593 pm [http-nio-8085-exec-7] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 14-04-2024 05:24:17.893 pm [http-nio-8085-exec-8] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 14-04-2024 05:24:23.370 pm [http-nio-8085-exec-9] com.department.service.Department_ServiceImpl - Department with departmentName qqd deleted successfully!
+[INFO ] 14-04-2024 05:24:24.943 pm [http-nio-8085-exec-10] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 14-04-2024 05:24:34.079 pm [http-nio-8085-exec-1] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName Waiter
+[INFO ] 14-04-2024 05:24:49.013 pm [http-nio-8085-exec-2] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 14-04-2024 05:24:59.864 pm [http-nio-8085-exec-3] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 14-04-2024 05:25:02.495 pm [http-nio-8085-exec-4] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 14-04-2024 05:42:54.828 pm [http-nio-8085-exec-6] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 14-04-2024 06:11:57.250 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[ERROR] 14-04-2024 06:11:57.657 pm [main] com.department.service.Department_ServiceImpl - No such department found for the given departmentName. Please provide a correct departmentName
+[INFO ] 14-04-2024 06:11:57.763 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[ERROR] 14-04-2024 06:11:57.803 pm [main] com.department.service.Department_ServiceImpl - No such department found for the given departmentName. Please provide a correct departmentName
+[INFO ] 14-04-2024 06:11:57.948 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 14-04-2024 06:11:58.074 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 14-04-2024 06:11:58.087 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 14-04-2024 06:18:21.764 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[ERROR] 14-04-2024 06:18:22.027 pm [main] com.department.service.Department_ServiceImpl - No such department found for the given departmentName. Please provide a correct departmentName
+[INFO ] 14-04-2024 06:18:22.111 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 14-04-2024 06:18:22.206 pm [main] com.department.service.Department_ServiceImpl - Department with departmentName Maali deleted successfully!
+[INFO ] 14-04-2024 06:18:22.215 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 14-04-2024 06:18:22.238 pm [main] com.department.service.Department_ServiceImpl - Department with departmentName Maali deleted successfully!
+[INFO ] 14-04-2024 06:18:22.291 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 14-04-2024 06:18:22.309 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName AA
+[INFO ] 14-04-2024 06:18:22.319 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName AA
+[INFO ] 14-04-2024 06:18:22.339 pm [main] com.department.service.Department_ServiceImpl - Department with departmentName AA deleted successfully!
+[INFO ] 14-04-2024 06:18:22.365 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 14-04-2024 06:18:22.385 pm [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 14-04-2024 06:18:22.407 pm [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 14-04-2024 06:18:22.438 pm [main] com.department.service.Department_ServiceImpl - Department with departmentName W deleted successfully!
+[INFO ] 14-04-2024 06:18:22.499 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 14-04-2024 06:18:22.520 pm [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 14-04-2024 06:18:22.543 pm [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 14-04-2024 06:18:22.571 pm [main] com.department.service.Department_ServiceImpl - Department with departmentName Q deleted successfully!
+[INFO ] 14-04-2024 06:18:22.608 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 14-04-2024 06:18:22.623 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 14-04-2024 06:19:21.044 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 14-04-2024 06:19:21.365 pm [main] com.department.service.Department_ServiceImpl - Department with departmentName A deleted successfully!
+[INFO ] 14-04-2024 06:19:21.436 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 14-04-2024 06:19:21.474 pm [main] com.department.service.Department_ServiceImpl - Department with departmentName Maali deleted successfully!
+[INFO ] 14-04-2024 06:19:21.486 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 14-04-2024 06:19:21.517 pm [main] com.department.service.Department_ServiceImpl - Department with departmentName Maali deleted successfully!
+[INFO ] 14-04-2024 06:19:21.572 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 14-04-2024 06:19:21.598 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName AA
+[INFO ] 14-04-2024 06:19:21.610 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName AA
+[INFO ] 14-04-2024 06:19:21.631 pm [main] com.department.service.Department_ServiceImpl - Department with departmentName AA deleted successfully!
+[INFO ] 14-04-2024 06:19:21.656 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 14-04-2024 06:19:21.680 pm [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 14-04-2024 06:19:21.703 pm [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 14-04-2024 06:19:21.740 pm [main] com.department.service.Department_ServiceImpl - Department with departmentName W deleted successfully!
+[INFO ] 14-04-2024 06:19:21.786 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 14-04-2024 06:19:21.817 pm [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 14-04-2024 06:19:21.839 pm [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 14-04-2024 06:19:21.869 pm [main] com.department.service.Department_ServiceImpl - Department with departmentName Q deleted successfully!
+[INFO ] 14-04-2024 06:19:21.905 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 14-04-2024 06:19:21.920 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 15-04-2024 07:54:15.262 pm [http-nio-8085-exec-3] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 15-04-2024 07:56:18.603 pm [http-nio-8085-exec-5] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 15-04-2024 07:57:26.437 pm [http-nio-8085-exec-7] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 15-04-2024 07:57:30.107 pm [http-nio-8085-exec-8] com.department.service.Department_ServiceImpl - Department with departmentName New deleted successfully!
+[INFO ] 15-04-2024 07:57:43.011 pm [http-nio-8085-exec-10] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 15-04-2024 07:58:25.282 pm [http-nio-8085-exec-9] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 15-04-2024 07:58:27.785 pm [http-nio-8085-exec-1] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 15-04-2024 07:58:31.806 pm [http-nio-8085-exec-2] com.department.service.Department_ServiceImpl - Department with departmentName New deleted successfully!
+[ERROR] 15-04-2024 08:01:20.985 pm [http-nio-8085-exec-4] com.department.service.Department_ServiceImpl - No data is present for the departmentName undefined
+[INFO ] 15-04-2024 08:01:31.470 pm [http-nio-8085-exec-5] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName Waiter
+[ERROR] 15-04-2024 08:01:44.264 pm [http-nio-8085-exec-6] com.department.service.Department_ServiceImpl - No data is present for the departmentName undefined
+[INFO ] 15-04-2024 08:01:51.883 pm [http-nio-8085-exec-7] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName Waiter
+[INFO ] 15-04-2024 08:05:07.466 pm [http-nio-8085-exec-10] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[ERROR] 15-04-2024 08:05:13.558 pm [http-nio-8085-exec-9] com.department.service.Department_ServiceImpl - No data is present for the departmentName undefined
+[INFO ] 15-04-2024 08:05:43.715 pm [http-nio-8085-exec-2] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 15-04-2024 08:05:49.443 pm [http-nio-8085-exec-3] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 15-04-2024 08:05:55.908 pm [http-nio-8085-exec-4] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 15-04-2024 09:40:25.914 pm [http-nio-8085-exec-5] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 16-04-2024 09:01:45.188 am [http-nio-8085-exec-3] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 16-04-2024 09:01:58.266 am [http-nio-8085-exec-1] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 16-04-2024 09:02:09.287 am [http-nio-8085-exec-4] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName Cook
+[INFO ] 16-04-2024 10:36:13.429 am [http-nio-8085-exec-4] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 10:37:36.861 am [http-nio-8085-exec-9] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 10:42:24.737 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 10:42:24.960 am [main] com.department.service.Department_ServiceImpl - Department with departmentName A deleted successfully!
+[INFO ] 16-04-2024 10:42:25.001 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 10:42:25.028 am [main] com.department.service.Department_ServiceImpl - Department with departmentName Maali deleted successfully!
+[INFO ] 16-04-2024 10:42:25.035 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 10:42:25.075 am [main] com.department.service.Department_ServiceImpl - Department with departmentName Maali deleted successfully!
+[INFO ] 16-04-2024 10:42:25.113 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 10:42:25.143 am [main] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName AA
+[INFO ] 16-04-2024 10:42:25.153 am [main] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName AA
+[INFO ] 16-04-2024 10:42:25.169 am [main] com.department.service.Department_ServiceImpl - Department with departmentName AA deleted successfully!
+[INFO ] 16-04-2024 10:42:25.188 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 10:42:25.215 am [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 16-04-2024 10:42:25.231 am [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 16-04-2024 10:42:25.251 am [main] com.department.service.Department_ServiceImpl - Department with departmentName W deleted successfully!
+[INFO ] 16-04-2024 10:42:25.284 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 10:42:25.310 am [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 16-04-2024 10:42:25.328 am [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 16-04-2024 10:42:25.348 am [main] com.department.service.Department_ServiceImpl - Department with departmentName Q deleted successfully!
+[INFO ] 16-04-2024 10:46:58.078 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 10:46:58.321 am [main] com.department.service.Department_ServiceImpl - Department with departmentName A deleted successfully!
+[INFO ] 16-04-2024 10:46:58.362 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 10:46:58.392 am [main] com.department.service.Department_ServiceImpl - Department with departmentName Maali deleted successfully!
+[INFO ] 16-04-2024 10:46:58.398 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 10:46:58.423 am [main] com.department.service.Department_ServiceImpl - Department with departmentName Maali deleted successfully!
+[INFO ] 16-04-2024 10:46:58.456 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 10:46:58.487 am [main] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName AA
+[INFO ] 16-04-2024 10:46:58.497 am [main] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName AA
+[INFO ] 16-04-2024 10:46:58.515 am [main] com.department.service.Department_ServiceImpl - Department with departmentName AA deleted successfully!
+[INFO ] 16-04-2024 10:46:58.533 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 10:46:58.555 am [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 16-04-2024 10:46:58.568 am [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 16-04-2024 10:46:58.583 am [main] com.department.service.Department_ServiceImpl - Department with departmentName W deleted successfully!
+[INFO ] 16-04-2024 10:46:58.606 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 10:46:58.634 am [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 16-04-2024 10:46:58.649 am [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 16-04-2024 10:46:58.673 am [main] com.department.service.Department_ServiceImpl - Department with departmentName Q deleted successfully!
+[INFO ] 16-04-2024 10:46:58.693 am [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 16-04-2024 10:46:58.700 am [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 16-04-2024 10:48:30.750 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 10:48:30.942 am [main] com.department.service.Department_ServiceImpl - Department with departmentName A deleted successfully!
+[INFO ] 16-04-2024 10:48:30.991 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 10:48:31.033 am [main] com.department.service.Department_ServiceImpl - Department with departmentName Maali deleted successfully!
+[INFO ] 16-04-2024 10:48:31.039 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 10:48:31.070 am [main] com.department.service.Department_ServiceImpl - Department with departmentName Maali deleted successfully!
+[INFO ] 16-04-2024 10:48:31.103 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 10:48:31.132 am [main] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName AA
+[INFO ] 16-04-2024 10:48:31.138 am [main] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName AA
+[INFO ] 16-04-2024 10:48:31.149 am [main] com.department.service.Department_ServiceImpl - Department with departmentName AA deleted successfully!
+[INFO ] 16-04-2024 10:48:31.162 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 10:48:31.186 am [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 16-04-2024 10:48:31.197 am [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 16-04-2024 10:48:31.214 am [main] com.department.service.Department_ServiceImpl - Department with departmentName W deleted successfully!
+[INFO ] 16-04-2024 10:48:31.243 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 10:48:31.263 am [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 16-04-2024 10:48:31.273 am [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 16-04-2024 10:48:31.289 am [main] com.department.service.Department_ServiceImpl - Department with departmentName Q deleted successfully!
+[INFO ] 16-04-2024 10:48:31.309 am [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 16-04-2024 10:48:31.316 am [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 16-04-2024 11:16:06.968 am [http-nio-8085-exec-1] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 16-04-2024 11:25:10.718 am [http-nio-8085-exec-3] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 16-04-2024 11:28:19.927 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:28:20.191 am [main] com.department.service.Department_ServiceImpl - Department with departmentName A deleted successfully!
+[INFO ] 16-04-2024 11:28:20.240 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:28:20.283 am [main] com.department.service.Department_ServiceImpl - Department with departmentName Maali deleted successfully!
+[INFO ] 16-04-2024 11:28:20.292 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:28:20.336 am [main] com.department.service.Department_ServiceImpl - Department with departmentName Maali deleted successfully!
+[INFO ] 16-04-2024 11:28:20.382 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:28:20.414 am [main] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName AA
+[INFO ] 16-04-2024 11:28:20.423 am [main] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName AA
+[INFO ] 16-04-2024 11:28:20.436 am [main] com.department.service.Department_ServiceImpl - Department with departmentName AA deleted successfully!
+[INFO ] 16-04-2024 11:28:20.452 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:28:20.480 am [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 16-04-2024 11:28:20.496 am [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 16-04-2024 11:28:20.515 am [main] com.department.service.Department_ServiceImpl - Department with departmentName W deleted successfully!
+[INFO ] 16-04-2024 11:28:20.545 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:28:20.574 am [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 16-04-2024 11:28:20.588 am [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 16-04-2024 11:28:20.612 am [main] com.department.service.Department_ServiceImpl - Department with departmentName Q deleted successfully!
+[ERROR] 16-04-2024 11:28:20.639 am [main] com.department.service.Department_ServiceImpl - List is Empty!! Please add some data
+[ERROR] 16-04-2024 11:28:20.648 am [main] com.department.service.Department_ServiceImpl - List is Empty!! Please add some data
+[ERROR] 16-04-2024 11:28:20.717 am [main] com.department.service.Department_ServiceImpl - List is Empty!! Please add some data
+[ERROR] 16-04-2024 11:28:20.724 am [main] com.department.service.Department_ServiceImpl - List is Empty!! Please add some data
+[INFO ] 16-04-2024 11:32:21.896 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:32:22.206 am [main] com.department.service.Department_ServiceImpl - Department with departmentName A deleted successfully!
+[INFO ] 16-04-2024 11:32:22.253 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:32:22.287 am [main] com.department.service.Department_ServiceImpl - Department with departmentName Maali deleted successfully!
+[INFO ] 16-04-2024 11:32:22.293 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:32:22.326 am [main] com.department.service.Department_ServiceImpl - Department with departmentName Maali deleted successfully!
+[INFO ] 16-04-2024 11:32:22.379 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:32:22.420 am [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 16-04-2024 11:32:22.436 am [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 16-04-2024 11:32:22.454 am [main] com.department.service.Department_ServiceImpl - Department with departmentName W deleted successfully!
+[INFO ] 16-04-2024 11:32:22.475 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:32:22.515 am [main] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName AA
+[INFO ] 16-04-2024 11:32:22.525 am [main] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName AA
+[ERROR] 16-04-2024 11:32:22.534 am [main] com.department.service.Department_ServiceImpl - No data is present for the departmentName qw
+[INFO ] 16-04-2024 11:32:22.582 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:32:22.619 am [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 16-04-2024 11:32:22.639 am [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 16-04-2024 11:32:22.672 am [main] com.department.service.Department_ServiceImpl - Department with departmentName Q deleted successfully!
+[INFO ] 16-04-2024 11:32:22.694 am [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 16-04-2024 11:32:22.701 am [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 16-04-2024 11:32:22.734 am [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 16-04-2024 11:32:22.741 am [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 16-04-2024 11:34:38.544 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:34:38.773 am [main] com.department.service.Department_ServiceImpl - Department with departmentName A deleted successfully!
+[INFO ] 16-04-2024 11:34:38.812 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:34:38.854 am [main] com.department.service.Department_ServiceImpl - Department with departmentName Maali deleted successfully!
+[INFO ] 16-04-2024 11:34:38.864 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:34:38.896 am [main] com.department.service.Department_ServiceImpl - Department with departmentName Maali deleted successfully!
+[INFO ] 16-04-2024 11:34:38.932 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:34:38.965 am [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 16-04-2024 11:34:38.979 am [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 16-04-2024 11:34:39.004 am [main] com.department.service.Department_ServiceImpl - Department with departmentName W deleted successfully!
+[INFO ] 16-04-2024 11:34:39.025 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:34:39.058 am [main] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName AA
+[INFO ] 16-04-2024 11:34:39.067 am [main] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName AA
+[INFO ] 16-04-2024 11:34:39.081 am [main] com.department.service.Department_ServiceImpl - Department with departmentName AA deleted successfully!
+[INFO ] 16-04-2024 11:34:39.123 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:34:39.153 am [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 16-04-2024 11:34:39.167 am [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 16-04-2024 11:34:39.192 am [main] com.department.service.Department_ServiceImpl - Department with departmentName Q deleted successfully!
+[ERROR] 16-04-2024 11:34:39.209 am [main] com.department.service.Department_ServiceImpl - List is Empty!! Please add some data
+[ERROR] 16-04-2024 11:34:39.214 am [main] com.department.service.Department_ServiceImpl - List is Empty!! Please add some data
+[ERROR] 16-04-2024 11:34:39.240 am [main] com.department.service.Department_ServiceImpl - List is Empty!! Please add some data
+[ERROR] 16-04-2024 11:34:39.244 am [main] com.department.service.Department_ServiceImpl - List is Empty!! Please add some data
+[INFO ] 16-04-2024 11:39:51.018 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:39:51.252 am [main] com.department.service.Department_ServiceImpl - Department with departmentName A deleted successfully!
+[INFO ] 16-04-2024 11:39:51.288 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:39:51.321 am [main] com.department.service.Department_ServiceImpl - Department with departmentName Maali deleted successfully!
+[INFO ] 16-04-2024 11:39:51.327 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:39:51.363 am [main] com.department.service.Department_ServiceImpl - Department with departmentName Maali deleted successfully!
+[INFO ] 16-04-2024 11:39:51.406 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:39:51.447 am [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 16-04-2024 11:39:51.464 am [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 16-04-2024 11:39:51.487 am [main] com.department.service.Department_ServiceImpl - Department with departmentName W deleted successfully!
+[INFO ] 16-04-2024 11:39:51.508 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:39:51.540 am [main] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName AA
+[INFO ] 16-04-2024 11:39:51.548 am [main] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName AA
+[INFO ] 16-04-2024 11:39:51.562 am [main] com.department.service.Department_ServiceImpl - Department with departmentName AA deleted successfully!
+[INFO ] 16-04-2024 11:39:51.588 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:39:51.608 am [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 16-04-2024 11:39:51.622 am [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 16-04-2024 11:39:51.643 am [main] com.department.service.Department_ServiceImpl - Department with departmentName Q deleted successfully!
+[ERROR] 16-04-2024 11:39:51.659 am [main] com.department.service.Department_ServiceImpl - List is Empty!! Please add some data
+[ERROR] 16-04-2024 11:39:51.665 am [main] com.department.service.Department_ServiceImpl - List is Empty!! Please add some data
+[ERROR] 16-04-2024 11:39:51.692 am [main] com.department.service.Department_ServiceImpl - List is Empty!! Please add some data
+[ERROR] 16-04-2024 11:39:51.698 am [main] com.department.service.Department_ServiceImpl - List is Empty!! Please add some data
+[INFO ] 16-04-2024 11:40:56.007 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:40:56.268 am [main] com.department.service.Department_ServiceImpl - Department with departmentName A deleted successfully!
+[INFO ] 16-04-2024 11:40:56.319 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:40:56.355 am [main] com.department.service.Department_ServiceImpl - Department with departmentName Maali deleted successfully!
+[INFO ] 16-04-2024 11:40:56.362 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:40:56.395 am [main] com.department.service.Department_ServiceImpl - Department with departmentName Maali deleted successfully!
+[INFO ] 16-04-2024 11:40:56.432 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:40:56.465 am [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 16-04-2024 11:40:56.480 am [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 16-04-2024 11:40:56.502 am [main] com.department.service.Department_ServiceImpl - Department with departmentName W deleted successfully!
+[INFO ] 16-04-2024 11:40:56.528 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:40:56.561 am [main] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName AA
+[INFO ] 16-04-2024 11:40:56.569 am [main] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName AA
+[INFO ] 16-04-2024 11:40:56.582 am [main] com.department.service.Department_ServiceImpl - Department with departmentName AA deleted successfully!
+[INFO ] 16-04-2024 11:40:56.617 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:40:56.651 am [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 16-04-2024 11:40:56.666 am [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 16-04-2024 11:40:56.691 am [main] com.department.service.Department_ServiceImpl - Department with departmentName Q deleted successfully!
+[ERROR] 16-04-2024 11:40:56.714 am [main] com.department.service.Department_ServiceImpl - List is Empty!! Please add some data
+[ERROR] 16-04-2024 11:40:56.720 am [main] com.department.service.Department_ServiceImpl - List is Empty!! Please add some data
+[ERROR] 16-04-2024 11:40:56.764 am [main] com.department.service.Department_ServiceImpl - List is Empty!! Please add some data
+[ERROR] 16-04-2024 11:40:56.770 am [main] com.department.service.Department_ServiceImpl - List is Empty!! Please add some data
+[INFO ] 16-04-2024 11:44:46.165 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:44:46.390 am [main] com.department.service.Department_ServiceImpl - Department with departmentName A deleted successfully!
+[INFO ] 16-04-2024 11:44:46.434 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:44:46.476 am [main] com.department.service.Department_ServiceImpl - Department with departmentName Maali deleted successfully!
+[INFO ] 16-04-2024 11:44:46.484 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:44:46.517 am [main] com.department.service.Department_ServiceImpl - Department with departmentName Maali deleted successfully!
+[INFO ] 16-04-2024 11:44:46.554 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:44:46.579 am [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 16-04-2024 11:44:46.592 am [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 16-04-2024 11:44:46.610 am [main] com.department.service.Department_ServiceImpl - Department with departmentName W deleted successfully!
+[INFO ] 16-04-2024 11:44:46.626 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:44:46.648 am [main] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName AA
+[INFO ] 16-04-2024 11:44:46.654 am [main] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName AA
+[INFO ] 16-04-2024 11:44:46.665 am [main] com.department.service.Department_ServiceImpl - Department with departmentName AA deleted successfully!
+[INFO ] 16-04-2024 11:44:46.695 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:44:46.718 am [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 16-04-2024 11:44:46.731 am [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 16-04-2024 11:44:46.749 am [main] com.department.service.Department_ServiceImpl - Department with departmentName Q deleted successfully!
+[ERROR] 16-04-2024 11:44:46.766 am [main] com.department.service.Department_ServiceImpl - List is Empty!! Please add some data
+[ERROR] 16-04-2024 11:44:46.770 am [main] com.department.service.Department_ServiceImpl - List is Empty!! Please add some data
+[ERROR] 16-04-2024 11:44:46.788 am [main] com.department.service.Department_ServiceImpl - No data is present for the departmentName as
+[ERROR] 16-04-2024 11:44:46.819 am [main] com.department.service.Department_ServiceImpl - List is Empty!! Please add some data
+[ERROR] 16-04-2024 11:44:46.828 am [main] com.department.service.Department_ServiceImpl - List is Empty!! Please add some data
+[INFO ] 16-04-2024 11:47:51.572 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:47:51.788 am [main] com.department.service.Department_ServiceImpl - Department with departmentName A deleted successfully!
+[INFO ] 16-04-2024 11:47:51.829 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:47:51.877 am [main] com.department.service.Department_ServiceImpl - Department with departmentName Maali deleted successfully!
+[INFO ] 16-04-2024 11:47:51.884 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:47:51.922 am [main] com.department.service.Department_ServiceImpl - Department with departmentName Maali deleted successfully!
+[INFO ] 16-04-2024 11:47:51.960 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:47:51.987 am [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 16-04-2024 11:47:52.000 am [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 16-04-2024 11:47:52.026 am [main] com.department.service.Department_ServiceImpl - Department with departmentName W deleted successfully!
+[INFO ] 16-04-2024 11:47:52.045 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:47:52.080 am [main] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName AA
+[INFO ] 16-04-2024 11:47:52.090 am [main] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName AA
+[INFO ] 16-04-2024 11:47:52.104 am [main] com.department.service.Department_ServiceImpl - Department with departmentName AA deleted successfully!
+[INFO ] 16-04-2024 11:47:52.154 am [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:47:52.180 am [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 16-04-2024 11:47:52.204 am [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 16-04-2024 11:47:52.233 am [main] com.department.service.Department_ServiceImpl - Department with departmentName Q deleted successfully!
+[ERROR] 16-04-2024 11:47:52.257 am [main] com.department.service.Department_ServiceImpl - List is Empty!! Please add some data
+[ERROR] 16-04-2024 11:47:52.264 am [main] com.department.service.Department_ServiceImpl - List is Empty!! Please add some data
+[ERROR] 16-04-2024 11:47:52.286 am [main] com.department.service.Department_ServiceImpl - No such department found for the given departmentName. Please provide a correct departmentName
+[ERROR] 16-04-2024 11:47:52.312 am [main] com.department.service.Department_ServiceImpl - No data is present for the departmentName as
+[ERROR] 16-04-2024 11:47:52.351 am [main] com.department.service.Department_ServiceImpl - List is Empty!! Please add some data
+[ERROR] 16-04-2024 11:47:52.357 am [main] com.department.service.Department_ServiceImpl - List is Empty!! Please add some data
+[ERROR] 16-04-2024 11:54:39.256 am [http-nio-8085-exec-5] com.department.service.Department_ServiceImpl - List is Empty!! Please add some data
+[INFO ] 16-04-2024 11:56:42.858 am [http-nio-8085-exec-7] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:57:15.789 am [http-nio-8085-exec-9] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:57:45.526 am [http-nio-8085-exec-10] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:58:05.211 am [http-nio-8085-exec-1] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:58:57.834 am [http-nio-8085-exec-2] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:59:35.535 am [http-nio-8085-exec-3] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 16-04-2024 11:59:45.904 am [http-nio-8085-exec-4] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 18-04-2024 07:37:35.375 pm [http-nio-8085-exec-1] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 18-04-2024 07:37:38.200 pm [http-nio-8085-exec-2] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 18-04-2024 07:37:50.199 pm [http-nio-8085-exec-3] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName Cook
+[INFO ] 18-04-2024 07:38:11.861 pm [http-nio-8085-exec-4] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 18-04-2024 07:38:17.559 pm [http-nio-8085-exec-5] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 18-04-2024 07:38:34.122 pm [http-nio-8085-exec-6] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 18-04-2024 07:38:36.316 pm [http-nio-8085-exec-7] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 18-04-2024 07:50:00.970 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 18-04-2024 07:50:01.324 pm [main] com.department.service.Department_ServiceImpl - Department with departmentName A deleted successfully!
+[INFO ] 18-04-2024 07:50:01.398 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 18-04-2024 07:50:01.474 pm [main] com.department.service.Department_ServiceImpl - Department with departmentName Maali deleted successfully!
+[INFO ] 18-04-2024 07:50:01.485 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 18-04-2024 07:50:01.537 pm [main] com.department.service.Department_ServiceImpl - Department with departmentName Maali deleted successfully!
+[INFO ] 18-04-2024 07:50:01.593 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 18-04-2024 07:50:01.636 pm [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 18-04-2024 07:50:01.656 pm [main] com.department.service.Department_ServiceImpl - Department description updated successfully
+[INFO ] 18-04-2024 07:50:01.686 pm [main] com.department.service.Department_ServiceImpl - Department with departmentName W deleted successfully!
+[INFO ] 18-04-2024 07:50:01.715 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 18-04-2024 07:50:01.750 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName AA
+[INFO ] 18-04-2024 07:50:01.762 pm [main] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName AA
+[INFO ] 18-04-2024 07:50:01.780 pm [main] com.department.service.Department_ServiceImpl - Department with departmentName AA deleted successfully!
+[INFO ] 18-04-2024 07:50:01.833 pm [main] com.department.service.Department_ServiceImpl - Department added successfully
+[INFO ] 18-04-2024 07:50:01.863 pm [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 18-04-2024 07:50:01.880 pm [main] com.department.service.Department_ServiceImpl - No of employees updated successfully!!
+[INFO ] 18-04-2024 07:50:01.903 pm [main] com.department.service.Department_ServiceImpl - Department with departmentName Q deleted successfully!
+[INFO ] 18-04-2024 07:50:01.935 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 18-04-2024 07:50:01.949 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[ERROR] 18-04-2024 07:50:01.973 pm [main] com.department.service.Department_ServiceImpl - No such department found for the given departmentName. Please provide a correct departmentName
+[ERROR] 18-04-2024 07:50:01.997 pm [main] com.department.service.Department_ServiceImpl - No data is present for the departmentName as
+[INFO ] 18-04-2024 07:50:02.040 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 18-04-2024 07:50:02.050 pm [main] com.department.service.Department_ServiceImpl - List of department is fetched!!
+[INFO ] 18-04-2024 10:35:44.450 pm [http-nio-8085-exec-1] com.department.service.Department_ServiceImpl - Data is fetched for the departmentName Cook
+[INFO ] 18-04-2024 10:35:52.981 pm [http-nio-8085-exec-3] com.department.service.Department_ServiceImpl - List of department is fetched!!

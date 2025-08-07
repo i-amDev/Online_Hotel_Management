@@ -1,0 +1,676 @@
+[INFO ] 05-04-2024 03:18:44.636 pm [http-nio-8083-exec-2] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 05-04-2024 03:39:18.375 pm [http-nio-8083-exec-5] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 05-04-2024 03:39:24.354 pm [http-nio-8083-exec-6] com.staff.service.Staff_ServiceImpl - Data is fetched for the id 104
+[INFO ] 05-04-2024 04:10:00.197 pm [http-nio-8083-exec-8] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 05-04-2024 04:10:13.489 pm [http-nio-8083-exec-9] com.staff.service.Staff_ServiceImpl - Data is fetched for the id 104
+[INFO ] 05-04-2024 04:10:25.222 pm [http-nio-8083-exec-10] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 06-04-2024 07:19:58.243 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 07:27:05.239 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the id 100
+[INFO ] 06-04-2024 07:27:05.268 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the id 100
+[INFO ] 06-04-2024 07:27:05.337 pm [main] com.staff.service.Staff_ServiceImpl - Staff name updated successfully!!
+[INFO ] 06-04-2024 07:27:05.463 pm [main] com.staff.service.Staff_ServiceImpl - Staff name updated successfully!!
+[INFO ] 06-04-2024 07:27:05.536 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 06-04-2024 07:27:05.551 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 06-04-2024 07:27:05.630 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 06-04-2024 07:27:05.651 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 06-04-2024 07:27:05.713 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 106 deleted successfully!
+[INFO ] 06-04-2024 07:27:05.722 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 106 deleted successfully!
+[INFO ] 06-04-2024 07:27:05.736 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 07:29:58.576 pm [main] com.staff.service.Staff_ServiceImpl - Staff name updated successfully!!
+[INFO ] 06-04-2024 07:29:58.987 pm [main] com.staff.service.Staff_ServiceImpl - Staff name updated successfully!!
+[INFO ] 06-04-2024 07:29:59.188 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the id 100
+[INFO ] 06-04-2024 07:29:59.199 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the id 100
+[INFO ] 06-04-2024 07:29:59.237 pm [main] com.staff.service.Staff_ServiceImpl - Staff email updated successfully!!
+[INFO ] 06-04-2024 07:29:59.264 pm [main] com.staff.service.Staff_ServiceImpl - Staff email updated successfully!!
+[INFO ] 06-04-2024 07:29:59.356 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 06-04-2024 07:29:59.413 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 06-04-2024 07:29:59.515 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 06-04-2024 07:29:59.544 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 06-04-2024 07:29:59.633 pm [main] com.staff.service.Staff_ServiceImpl - Staff post updated successfully!!
+[INFO ] 06-04-2024 07:29:59.718 pm [main] com.staff.service.Staff_ServiceImpl - Staff post updated successfully!!
+[INFO ] 06-04-2024 07:29:59.777 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 106 deleted successfully!
+[INFO ] 06-04-2024 07:29:59.798 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 106 deleted successfully!
+[INFO ] 06-04-2024 07:29:59.869 pm [main] com.staff.service.Staff_ServiceImpl - Staff address updated successfully!!
+[INFO ] 06-04-2024 07:29:59.895 pm [main] com.staff.service.Staff_ServiceImpl - Staff address updated successfully!!
+[INFO ] 06-04-2024 07:29:59.970 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 07:30:00.094 pm [main] com.staff.service.Staff_ServiceImpl - Staff gender updated successfully!!
+[INFO ] 06-04-2024 07:30:00.165 pm [main] com.staff.service.Staff_ServiceImpl - Staff gender updated successfully!!
+[INFO ] 06-04-2024 07:33:16.075 pm [main] com.staff.service.Staff_ServiceImpl - Staff name updated successfully!!
+[INFO ] 06-04-2024 07:33:16.237 pm [main] com.staff.service.Staff_ServiceImpl - Staff name updated successfully!!
+[INFO ] 06-04-2024 07:33:16.332 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the id 100
+[INFO ] 06-04-2024 07:33:16.344 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the id 100
+[INFO ] 06-04-2024 07:33:16.375 pm [main] com.staff.service.Staff_ServiceImpl - Staff email updated successfully!!
+[INFO ] 06-04-2024 07:33:16.399 pm [main] com.staff.service.Staff_ServiceImpl - Staff email updated successfully!!
+[INFO ] 06-04-2024 07:33:16.482 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 06-04-2024 07:33:16.499 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 06-04-2024 07:33:16.563 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 06-04-2024 07:33:16.581 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 06-04-2024 07:33:16.631 pm [main] com.staff.service.Staff_ServiceImpl - Staff post updated successfully!!
+[INFO ] 06-04-2024 07:33:16.650 pm [main] com.staff.service.Staff_ServiceImpl - Staff post updated successfully!!
+[INFO ] 06-04-2024 07:33:16.695 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 106 deleted successfully!
+[INFO ] 06-04-2024 07:33:16.703 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 106 deleted successfully!
+[INFO ] 06-04-2024 07:33:16.728 pm [main] com.staff.service.Staff_ServiceImpl - Staff address updated successfully!!
+[INFO ] 06-04-2024 07:33:16.747 pm [main] com.staff.service.Staff_ServiceImpl - Staff address updated successfully!!
+[INFO ] 06-04-2024 07:33:16.766 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 07:33:16.798 pm [main] com.staff.service.Staff_ServiceImpl - Staff gender updated successfully!!
+[INFO ] 06-04-2024 07:33:16.815 pm [main] com.staff.service.Staff_ServiceImpl - Staff gender updated successfully!!
+[INFO ] 07-04-2024 08:52:24.771 am [main] com.staff.service.Staff_ServiceImpl - Staff name updated successfully!!
+[INFO ] 07-04-2024 08:52:24.910 am [main] com.staff.service.Staff_ServiceImpl - Staff name updated successfully!!
+[INFO ] 07-04-2024 08:52:25.012 am [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the id 100
+[INFO ] 07-04-2024 08:52:25.021 am [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the id 100
+[INFO ] 07-04-2024 08:52:25.046 am [main] com.staff.service.Staff_ServiceImpl - Staff email updated successfully!!
+[INFO ] 07-04-2024 08:52:25.074 am [main] com.staff.service.Staff_ServiceImpl - Staff email updated successfully!!
+[INFO ] 07-04-2024 08:52:25.187 am [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 07-04-2024 08:52:25.210 am [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 07-04-2024 08:52:25.307 am [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 07-04-2024 08:52:25.340 am [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 07-04-2024 08:52:25.400 am [main] com.staff.service.Staff_ServiceImpl - Staff post updated successfully!!
+[INFO ] 07-04-2024 08:52:25.428 am [main] com.staff.service.Staff_ServiceImpl - Staff post updated successfully!!
+[INFO ] 07-04-2024 08:52:25.486 am [main] com.staff.service.Staff_ServiceImpl - Staff with id 106 deleted successfully!
+[INFO ] 07-04-2024 08:52:25.498 am [main] com.staff.service.Staff_ServiceImpl - Staff with id 106 deleted successfully!
+[INFO ] 07-04-2024 08:52:25.531 am [main] com.staff.service.Staff_ServiceImpl - Staff address updated successfully!!
+[INFO ] 07-04-2024 08:52:25.558 am [main] com.staff.service.Staff_ServiceImpl - Staff address updated successfully!!
+[INFO ] 07-04-2024 08:52:25.584 am [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 08:52:25.629 am [main] com.staff.service.Staff_ServiceImpl - Staff gender updated successfully!!
+[INFO ] 07-04-2024 08:52:25.661 am [main] com.staff.service.Staff_ServiceImpl - Staff gender updated successfully!!
+[INFO ] 07-04-2024 09:03:22.027 am [http-nio-8083-exec-2] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 09:06:09.204 am [http-nio-8083-exec-2] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 07-04-2024 09:06:31.721 am [http-nio-8083-exec-2] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[ERROR] 07-04-2024 06:16:15.649 pm [main] com.staff.service.Staff_ServiceImpl - No data is present for the id 101
+[INFO ] 07-04-2024 06:16:15.902 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 07-04-2024 06:16:15.932 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[ERROR] 07-04-2024 06:16:16.029 pm [main] com.staff.service.Staff_ServiceImpl - Can't update salary of an unknown staffId. Please provide a correct Id
+[ERROR] 07-04-2024 06:16:16.117 pm [main] com.staff.service.Staff_ServiceImpl - Staff does not exist for the given id. Please enter a valid staff Id
+[INFO ] 07-04-2024 06:16:16.269 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:16:16.500 pm [main] com.staff.service.Staff_ServiceImpl - Staff gender updated successfully!!
+[INFO ] 07-04-2024 06:16:16.524 pm [main] com.staff.service.Staff_ServiceImpl - Staff gender updated successfully!!
+[INFO ] 07-04-2024 06:17:29.603 pm [http-nio-8083-exec-4] com.staff.service.Staff_ServiceImpl - Data added successfully
+[ERROR] 07-04-2024 06:17:32.676 pm [http-nio-8083-exec-1] com.staff.service.Staff_ServiceImpl - Staff exists for the given email
+[INFO ] 07-04-2024 06:17:55.191 pm [http-nio-8083-exec-2] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:18:22.254 pm [http-nio-8083-exec-5] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:18:43.145 pm [http-nio-8083-exec-6] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:19:12.337 pm [http-nio-8083-exec-10] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:19:53.657 pm [http-nio-8083-exec-9] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:23:47.741 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:23:48.017 pm [main] com.staff.service.Staff_ServiceImpl - Staff name updated successfully!!
+[INFO ] 07-04-2024 06:23:48.048 pm [main] com.staff.service.Staff_ServiceImpl - Staff name updated successfully!!
+[INFO ] 07-04-2024 06:23:48.122 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:23:48.197 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:23:48.219 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the id 101
+[INFO ] 07-04-2024 06:23:48.231 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the id 101
+[INFO ] 07-04-2024 06:23:48.253 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:23:48.282 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:23:48.306 pm [main] com.staff.service.Staff_ServiceImpl - Staff email updated successfully!!
+[INFO ] 07-04-2024 06:23:48.331 pm [main] com.staff.service.Staff_ServiceImpl - Staff email updated successfully!!
+[INFO ] 07-04-2024 06:23:48.366 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:23:48.457 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 07-04-2024 06:23:48.479 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 07-04-2024 06:23:48.585 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:23:48.606 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 07-04-2024 06:23:48.627 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 07-04-2024 06:23:48.658 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:23:48.706 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:23:48.727 pm [main] com.staff.service.Staff_ServiceImpl - Staff post updated successfully!!
+[INFO ] 07-04-2024 06:23:48.747 pm [main] com.staff.service.Staff_ServiceImpl - Staff post updated successfully!!
+[INFO ] 07-04-2024 06:23:48.776 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[ERROR] 07-04-2024 06:23:48.809 pm [main] com.staff.service.Staff_ServiceImpl - Staff does not exist for the given id. Please enter a valid staff Id
+[INFO ] 07-04-2024 06:23:48.865 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:23:48.891 pm [main] com.staff.service.Staff_ServiceImpl - Staff address updated successfully!!
+[INFO ] 07-04-2024 06:23:48.914 pm [main] com.staff.service.Staff_ServiceImpl - Staff address updated successfully!!
+[INFO ] 07-04-2024 06:23:48.949 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:23:48.980 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:23:49.009 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:25:20.550 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:25:20.893 pm [main] com.staff.service.Staff_ServiceImpl - Staff name updated successfully!!
+[INFO ] 07-04-2024 06:25:20.939 pm [main] com.staff.service.Staff_ServiceImpl - Staff name updated successfully!!
+[INFO ] 07-04-2024 06:25:21.060 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:25:21.165 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:25:21.191 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the id 101
+[INFO ] 07-04-2024 06:25:21.205 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the id 101
+[INFO ] 07-04-2024 06:25:21.232 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:25:21.276 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:25:21.305 pm [main] com.staff.service.Staff_ServiceImpl - Staff email updated successfully!!
+[INFO ] 07-04-2024 06:25:21.331 pm [main] com.staff.service.Staff_ServiceImpl - Staff email updated successfully!!
+[INFO ] 07-04-2024 06:25:21.365 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:25:21.446 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 07-04-2024 06:25:21.466 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 07-04-2024 06:25:21.558 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:25:21.587 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 07-04-2024 06:25:21.611 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 07-04-2024 06:25:21.644 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:25:21.686 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:25:21.724 pm [main] com.staff.service.Staff_ServiceImpl - Staff post updated successfully!!
+[INFO ] 07-04-2024 06:25:21.749 pm [main] com.staff.service.Staff_ServiceImpl - Staff post updated successfully!!
+[INFO ] 07-04-2024 06:25:21.785 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[ERROR] 07-04-2024 06:25:21.816 pm [main] com.staff.service.Staff_ServiceImpl - Staff does not exist for the given id. Please enter a valid staff Id
+[INFO ] 07-04-2024 06:25:21.870 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:25:21.903 pm [main] com.staff.service.Staff_ServiceImpl - Staff address updated successfully!!
+[INFO ] 07-04-2024 06:25:21.925 pm [main] com.staff.service.Staff_ServiceImpl - Staff address updated successfully!!
+[INFO ] 07-04-2024 06:25:21.961 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:25:21.993 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:25:22.033 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:25:22.063 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:25:22.085 pm [main] com.staff.service.Staff_ServiceImpl - Staff gender updated successfully!!
+[INFO ] 07-04-2024 06:25:22.110 pm [main] com.staff.service.Staff_ServiceImpl - Staff gender updated successfully!!
+[INFO ] 07-04-2024 06:25:22.144 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:26:35.813 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:26:36.124 pm [main] com.staff.service.Staff_ServiceImpl - Staff name updated successfully!!
+[INFO ] 07-04-2024 06:26:36.149 pm [main] com.staff.service.Staff_ServiceImpl - Staff name updated successfully!!
+[INFO ] 07-04-2024 06:26:36.225 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:26:36.303 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:26:36.332 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the id 101
+[INFO ] 07-04-2024 06:26:36.346 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the id 101
+[INFO ] 07-04-2024 06:26:36.373 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:26:36.407 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:26:36.433 pm [main] com.staff.service.Staff_ServiceImpl - Staff email updated successfully!!
+[INFO ] 07-04-2024 06:26:36.456 pm [main] com.staff.service.Staff_ServiceImpl - Staff email updated successfully!!
+[INFO ] 07-04-2024 06:26:36.493 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:26:36.569 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 07-04-2024 06:26:36.587 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 07-04-2024 06:26:36.710 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:26:36.741 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 07-04-2024 06:26:36.768 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 07-04-2024 06:26:36.801 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:26:36.849 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:26:36.873 pm [main] com.staff.service.Staff_ServiceImpl - Staff post updated successfully!!
+[INFO ] 07-04-2024 06:26:36.898 pm [main] com.staff.service.Staff_ServiceImpl - Staff post updated successfully!!
+[INFO ] 07-04-2024 06:26:36.932 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:26:36.961 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:26:36.996 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[ERROR] 07-04-2024 06:26:37.006 pm [main] com.staff.service.Staff_ServiceImpl - Staff does not exist for the given id. Please enter a valid staff Id
+[INFO ] 07-04-2024 06:26:37.061 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:26:37.085 pm [main] com.staff.service.Staff_ServiceImpl - Staff address updated successfully!!
+[INFO ] 07-04-2024 06:26:37.108 pm [main] com.staff.service.Staff_ServiceImpl - Staff address updated successfully!!
+[INFO ] 07-04-2024 06:26:37.140 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:26:37.169 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:26:37.196 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:26:37.225 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:26:37.250 pm [main] com.staff.service.Staff_ServiceImpl - Staff gender updated successfully!!
+[INFO ] 07-04-2024 06:26:37.272 pm [main] com.staff.service.Staff_ServiceImpl - Staff gender updated successfully!!
+[INFO ] 07-04-2024 06:26:37.306 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:27:54.095 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:27:54.387 pm [main] com.staff.service.Staff_ServiceImpl - Staff name updated successfully!!
+[INFO ] 07-04-2024 06:27:54.417 pm [main] com.staff.service.Staff_ServiceImpl - Staff name updated successfully!!
+[INFO ] 07-04-2024 06:27:54.493 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:27:54.565 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:27:54.591 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the id 101
+[INFO ] 07-04-2024 06:27:54.603 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the id 101
+[INFO ] 07-04-2024 06:27:54.625 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:27:54.656 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:27:54.680 pm [main] com.staff.service.Staff_ServiceImpl - Staff email updated successfully!!
+[INFO ] 07-04-2024 06:27:54.702 pm [main] com.staff.service.Staff_ServiceImpl - Staff email updated successfully!!
+[INFO ] 07-04-2024 06:27:54.731 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:27:54.792 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 07-04-2024 06:27:54.812 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 07-04-2024 06:27:54.907 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:27:54.928 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 07-04-2024 06:27:54.946 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 07-04-2024 06:27:54.975 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:27:55.016 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:27:55.038 pm [main] com.staff.service.Staff_ServiceImpl - Staff post updated successfully!!
+[INFO ] 07-04-2024 06:27:55.063 pm [main] com.staff.service.Staff_ServiceImpl - Staff post updated successfully!!
+[INFO ] 07-04-2024 06:27:55.092 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:27:55.119 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:27:55.140 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:27:55.173 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:27:55.192 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 1012 deleted successfully!
+[INFO ] 07-04-2024 06:27:55.243 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:27:55.265 pm [main] com.staff.service.Staff_ServiceImpl - Staff address updated successfully!!
+[INFO ] 07-04-2024 06:27:55.290 pm [main] com.staff.service.Staff_ServiceImpl - Staff address updated successfully!!
+[INFO ] 07-04-2024 06:27:55.322 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:27:55.346 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:27:55.375 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:27:55.403 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:27:55.429 pm [main] com.staff.service.Staff_ServiceImpl - Staff gender updated successfully!!
+[INFO ] 07-04-2024 06:27:55.448 pm [main] com.staff.service.Staff_ServiceImpl - Staff gender updated successfully!!
+[INFO ] 07-04-2024 06:27:55.478 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:28:42.395 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:28:42.668 pm [main] com.staff.service.Staff_ServiceImpl - Staff name updated successfully!!
+[INFO ] 07-04-2024 06:28:42.691 pm [main] com.staff.service.Staff_ServiceImpl - Staff name updated successfully!!
+[INFO ] 07-04-2024 06:28:42.763 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:28:42.833 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:28:42.860 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the id 101
+[INFO ] 07-04-2024 06:28:42.874 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the id 101
+[INFO ] 07-04-2024 06:28:42.897 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:28:42.930 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:28:42.954 pm [main] com.staff.service.Staff_ServiceImpl - Staff email updated successfully!!
+[INFO ] 07-04-2024 06:28:42.979 pm [main] com.staff.service.Staff_ServiceImpl - Staff email updated successfully!!
+[INFO ] 07-04-2024 06:28:43.020 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:28:43.084 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 07-04-2024 06:28:43.104 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 07-04-2024 06:28:43.196 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:28:43.218 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 07-04-2024 06:28:43.242 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 07-04-2024 06:28:43.273 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:28:43.320 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:28:43.346 pm [main] com.staff.service.Staff_ServiceImpl - Staff post updated successfully!!
+[INFO ] 07-04-2024 06:28:43.369 pm [main] com.staff.service.Staff_ServiceImpl - Staff post updated successfully!!
+[INFO ] 07-04-2024 06:28:43.404 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:28:43.435 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:28:43.458 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:28:43.488 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:28:43.510 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 1012 deleted successfully!
+[ERROR] 07-04-2024 06:28:43.526 pm [main] com.staff.service.Staff_ServiceImpl - Staff does not exist for the given id. Please enter a valid staff Id
+[INFO ] 07-04-2024 06:28:43.576 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:28:43.614 pm [main] com.staff.service.Staff_ServiceImpl - Staff address updated successfully!!
+[INFO ] 07-04-2024 06:28:43.635 pm [main] com.staff.service.Staff_ServiceImpl - Staff address updated successfully!!
+[INFO ] 07-04-2024 06:28:43.666 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:28:43.693 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:28:43.724 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:28:43.766 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:28:43.789 pm [main] com.staff.service.Staff_ServiceImpl - Staff gender updated successfully!!
+[INFO ] 07-04-2024 06:28:43.810 pm [main] com.staff.service.Staff_ServiceImpl - Staff gender updated successfully!!
+[INFO ] 07-04-2024 06:28:43.843 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:30:20.389 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:30:20.679 pm [main] com.staff.service.Staff_ServiceImpl - Staff name updated successfully!!
+[INFO ] 07-04-2024 06:30:20.707 pm [main] com.staff.service.Staff_ServiceImpl - Staff name updated successfully!!
+[INFO ] 07-04-2024 06:30:20.788 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:30:20.879 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:30:20.906 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the id 101
+[INFO ] 07-04-2024 06:30:20.921 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the id 101
+[INFO ] 07-04-2024 06:30:20.945 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:30:20.977 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:30:21.001 pm [main] com.staff.service.Staff_ServiceImpl - Staff email updated successfully!!
+[INFO ] 07-04-2024 06:30:21.026 pm [main] com.staff.service.Staff_ServiceImpl - Staff email updated successfully!!
+[INFO ] 07-04-2024 06:30:21.056 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:30:21.118 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 07-04-2024 06:30:21.139 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 07-04-2024 06:30:21.249 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:30:21.272 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 07-04-2024 06:30:21.299 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 07-04-2024 06:30:21.328 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:30:21.378 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:30:21.402 pm [main] com.staff.service.Staff_ServiceImpl - Staff post updated successfully!!
+[INFO ] 07-04-2024 06:30:21.423 pm [main] com.staff.service.Staff_ServiceImpl - Staff post updated successfully!!
+[INFO ] 07-04-2024 06:30:21.456 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:30:21.481 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:30:21.504 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:30:21.533 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:30:21.554 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 1012 deleted successfully!
+[INFO ] 07-04-2024 06:30:21.614 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:30:21.639 pm [main] com.staff.service.Staff_ServiceImpl - Staff address updated successfully!!
+[INFO ] 07-04-2024 06:30:21.660 pm [main] com.staff.service.Staff_ServiceImpl - Staff address updated successfully!!
+[INFO ] 07-04-2024 06:30:21.685 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:30:21.710 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:30:21.739 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:30:21.765 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:30:21.787 pm [main] com.staff.service.Staff_ServiceImpl - Staff gender updated successfully!!
+[INFO ] 07-04-2024 06:30:21.809 pm [main] com.staff.service.Staff_ServiceImpl - Staff gender updated successfully!!
+[INFO ] 07-04-2024 06:30:21.843 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:31:38.638 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:31:38.957 pm [main] com.staff.service.Staff_ServiceImpl - Staff name updated successfully!!
+[INFO ] 07-04-2024 06:31:38.993 pm [main] com.staff.service.Staff_ServiceImpl - Staff name updated successfully!!
+[INFO ] 07-04-2024 06:31:39.079 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:31:39.179 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:31:39.208 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the id 101
+[INFO ] 07-04-2024 06:31:39.221 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the id 101
+[INFO ] 07-04-2024 06:31:39.243 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:31:39.274 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:31:39.300 pm [main] com.staff.service.Staff_ServiceImpl - Staff email updated successfully!!
+[INFO ] 07-04-2024 06:31:39.328 pm [main] com.staff.service.Staff_ServiceImpl - Staff email updated successfully!!
+[INFO ] 07-04-2024 06:31:39.366 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:31:39.452 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 07-04-2024 06:31:39.472 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 07-04-2024 06:31:39.614 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:31:39.644 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 07-04-2024 06:31:39.677 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 07-04-2024 06:31:39.709 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:31:39.757 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:31:39.783 pm [main] com.staff.service.Staff_ServiceImpl - Staff post updated successfully!!
+[INFO ] 07-04-2024 06:31:39.811 pm [main] com.staff.service.Staff_ServiceImpl - Staff post updated successfully!!
+[INFO ] 07-04-2024 06:31:39.842 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:31:39.869 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:31:39.920 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:31:39.956 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:31:39.982 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 1012 deleted successfully!
+[INFO ] 07-04-2024 06:31:40.047 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:31:40.095 pm [main] com.staff.service.Staff_ServiceImpl - Staff address updated successfully!!
+[INFO ] 07-04-2024 06:31:40.117 pm [main] com.staff.service.Staff_ServiceImpl - Staff address updated successfully!!
+[INFO ] 07-04-2024 06:31:40.154 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:31:40.187 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:31:40.223 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 07-04-2024 06:31:40.250 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 06:31:40.283 pm [main] com.staff.service.Staff_ServiceImpl - Staff gender updated successfully!!
+[INFO ] 07-04-2024 06:31:40.315 pm [main] com.staff.service.Staff_ServiceImpl - Staff gender updated successfully!!
+[INFO ] 07-04-2024 06:31:40.353 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 08-04-2024 12:11:23.106 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 08-04-2024 12:11:23.279 pm [main] com.staff.service.Staff_ServiceImpl - Staff name updated successfully!!
+[INFO ] 08-04-2024 12:11:23.294 pm [main] com.staff.service.Staff_ServiceImpl - Staff name updated successfully!!
+[INFO ] 08-04-2024 12:11:23.333 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 08-04-2024 12:11:23.376 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 08-04-2024 12:11:23.388 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the id 101
+[INFO ] 08-04-2024 12:11:23.395 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the id 101
+[INFO ] 08-04-2024 12:11:23.411 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 08-04-2024 12:11:23.427 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 08-04-2024 12:11:23.442 pm [main] com.staff.service.Staff_ServiceImpl - Staff email updated successfully!!
+[INFO ] 08-04-2024 12:11:23.455 pm [main] com.staff.service.Staff_ServiceImpl - Staff email updated successfully!!
+[INFO ] 08-04-2024 12:11:23.479 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 08-04-2024 12:11:23.519 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 08-04-2024 12:11:23.532 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 08-04-2024 12:11:23.598 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 08-04-2024 12:11:23.609 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 08-04-2024 12:11:23.622 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 08-04-2024 12:11:23.639 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 08-04-2024 12:11:23.667 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 08-04-2024 12:11:23.681 pm [main] com.staff.service.Staff_ServiceImpl - Staff post updated successfully!!
+[INFO ] 08-04-2024 12:11:23.714 pm [main] com.staff.service.Staff_ServiceImpl - Staff post updated successfully!!
+[INFO ] 08-04-2024 12:11:23.738 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 08-04-2024 12:11:23.758 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 08-04-2024 12:11:23.773 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 08-04-2024 12:11:23.795 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 08-04-2024 12:11:23.808 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 1012 deleted successfully!
+[INFO ] 08-04-2024 12:11:23.841 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 08-04-2024 12:11:23.858 pm [main] com.staff.service.Staff_ServiceImpl - Staff address updated successfully!!
+[INFO ] 08-04-2024 12:11:23.871 pm [main] com.staff.service.Staff_ServiceImpl - Staff address updated successfully!!
+[INFO ] 08-04-2024 12:11:23.890 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 08-04-2024 12:11:23.907 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 08-04-2024 12:11:23.925 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 08-04-2024 12:11:23.940 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 08-04-2024 12:11:23.955 pm [main] com.staff.service.Staff_ServiceImpl - Staff gender updated successfully!!
+[INFO ] 08-04-2024 12:11:23.969 pm [main] com.staff.service.Staff_ServiceImpl - Staff gender updated successfully!!
+[INFO ] 08-04-2024 12:11:23.986 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 09-04-2024 06:10:05.849 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 09-04-2024 06:10:06.137 pm [main] com.staff.service.Staff_ServiceImpl - Staff name updated successfully!!
+[INFO ] 09-04-2024 06:10:06.169 pm [main] com.staff.service.Staff_ServiceImpl - Staff name updated successfully!!
+[INFO ] 09-04-2024 06:10:06.403 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 09-04-2024 06:10:06.483 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 09-04-2024 06:10:06.505 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the id 101
+[INFO ] 09-04-2024 06:10:06.516 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the id 101
+[INFO ] 09-04-2024 06:10:06.535 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 09-04-2024 06:10:06.568 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 09-04-2024 06:10:06.598 pm [main] com.staff.service.Staff_ServiceImpl - Staff email updated successfully!!
+[INFO ] 09-04-2024 06:10:06.619 pm [main] com.staff.service.Staff_ServiceImpl - Staff email updated successfully!!
+[INFO ] 09-04-2024 06:10:06.647 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 09-04-2024 06:10:06.711 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 09-04-2024 06:10:06.724 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 09-04-2024 06:10:06.823 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 09-04-2024 06:10:06.840 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 09-04-2024 06:10:06.861 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 09-04-2024 06:10:06.894 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 09-04-2024 06:10:06.935 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 09-04-2024 06:10:06.952 pm [main] com.staff.service.Staff_ServiceImpl - Staff post updated successfully!!
+[INFO ] 09-04-2024 06:10:06.971 pm [main] com.staff.service.Staff_ServiceImpl - Staff post updated successfully!!
+[INFO ] 09-04-2024 06:10:06.999 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 09-04-2024 06:10:07.024 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 09-04-2024 06:10:07.046 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 09-04-2024 06:10:07.071 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 09-04-2024 06:10:07.087 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 1012 deleted successfully!
+[INFO ] 09-04-2024 06:10:07.138 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 09-04-2024 06:10:07.168 pm [main] com.staff.service.Staff_ServiceImpl - Staff address updated successfully!!
+[INFO ] 09-04-2024 06:10:07.188 pm [main] com.staff.service.Staff_ServiceImpl - Staff address updated successfully!!
+[INFO ] 09-04-2024 06:10:07.218 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 09-04-2024 06:10:07.242 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 09-04-2024 06:10:07.264 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 09-04-2024 06:10:07.289 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 09-04-2024 06:10:07.313 pm [main] com.staff.service.Staff_ServiceImpl - Staff gender updated successfully!!
+[INFO ] 09-04-2024 06:10:07.346 pm [main] com.staff.service.Staff_ServiceImpl - Staff gender updated successfully!!
+[INFO ] 09-04-2024 06:10:07.382 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 09-04-2024 06:11:12.795 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 09-04-2024 06:11:13.054 pm [main] com.staff.service.Staff_ServiceImpl - Staff name updated successfully!!
+[INFO ] 09-04-2024 06:11:13.081 pm [main] com.staff.service.Staff_ServiceImpl - Staff name updated successfully!!
+[INFO ] 09-04-2024 06:11:13.137 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 09-04-2024 06:11:13.197 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 09-04-2024 06:11:13.216 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the id 101
+[INFO ] 09-04-2024 06:11:13.229 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the id 101
+[INFO ] 09-04-2024 06:11:13.247 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 09-04-2024 06:11:13.273 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 09-04-2024 06:11:13.293 pm [main] com.staff.service.Staff_ServiceImpl - Staff email updated successfully!!
+[INFO ] 09-04-2024 06:11:13.345 pm [main] com.staff.service.Staff_ServiceImpl - Staff email updated successfully!!
+[INFO ] 09-04-2024 06:11:13.392 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 09-04-2024 06:11:13.454 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 09-04-2024 06:11:13.522 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 09-04-2024 06:11:13.642 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 09-04-2024 06:11:13.665 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 09-04-2024 06:11:13.726 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 09-04-2024 06:11:13.755 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 09-04-2024 06:11:13.795 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 09-04-2024 06:11:13.824 pm [main] com.staff.service.Staff_ServiceImpl - Staff post updated successfully!!
+[INFO ] 09-04-2024 06:11:13.845 pm [main] com.staff.service.Staff_ServiceImpl - Staff post updated successfully!!
+[INFO ] 09-04-2024 06:11:13.872 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 09-04-2024 06:11:13.897 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 09-04-2024 06:11:13.931 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 09-04-2024 06:11:13.946 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 09-04-2024 06:11:13.974 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 09-04-2024 06:11:13.997 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 09-04-2024 06:11:14.016 pm [main] com.staff.service.Staff_ServiceImpl - Staff address updated successfully!!
+[INFO ] 09-04-2024 06:11:14.036 pm [main] com.staff.service.Staff_ServiceImpl - Staff address updated successfully!!
+[INFO ] 09-04-2024 06:11:14.058 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 09-04-2024 06:11:14.083 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 09-04-2024 06:11:14.111 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 09-04-2024 06:11:14.136 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 09-04-2024 06:11:14.158 pm [main] com.staff.service.Staff_ServiceImpl - Staff gender updated successfully!!
+[INFO ] 09-04-2024 06:11:14.179 pm [main] com.staff.service.Staff_ServiceImpl - Staff gender updated successfully!!
+[INFO ] 09-04-2024 06:11:14.206 pm [main] com.staff.service.Staff_ServiceImpl - Staff with id 101 deleted successfully!
+[INFO ] 14-04-2024 07:15:14.050 am [http-nio-8083-exec-1] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 14-04-2024 07:31:00.764 am [http-nio-8083-exec-5] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 07:31:15.452 am [http-nio-8083-exec-8] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 07:33:34.072 am [http-nio-8083-exec-2] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 07:33:41.001 am [http-nio-8083-exec-3] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 07:34:00.357 am [http-nio-8083-exec-6] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 07:34:07.690 am [http-nio-8083-exec-7] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 07:34:45.936 am [http-nio-8083-exec-10] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 07:35:28.578 am [http-nio-8083-exec-1] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 08:42:52.263 am [http-nio-8083-exec-5] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 08:43:37.800 am [http-nio-8083-exec-8] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 08:46:58.805 am [http-nio-8083-exec-2] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 08:50:43.519 am [http-nio-8083-exec-6] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 08:52:07.210 am [http-nio-8083-exec-10] com.staff.service.Staff_ServiceImpl - Data is fetched for the email alex@gmail.com
+[INFO ] 14-04-2024 08:52:11.563 am [http-nio-8083-exec-1] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 08:52:19.187 am [http-nio-8083-exec-4] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 08:52:22.664 am [http-nio-8083-exec-5] com.staff.service.Staff_ServiceImpl - Data is fetched for the email alex@gmail.com
+[INFO ] 14-04-2024 08:52:28.899 am [http-nio-8083-exec-8] com.staff.service.Staff_ServiceImpl - Data is fetched for the email bob@gmail.com
+[INFO ] 14-04-2024 08:55:58.614 am [http-nio-8083-exec-2] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 08:56:10.267 am [http-nio-8083-exec-3] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 08:56:24.431 am [http-nio-8083-exec-6] com.staff.service.Staff_ServiceImpl - Data is fetched for the email alex@gmail.com
+[INFO ] 14-04-2024 08:59:41.651 am [http-nio-8083-exec-10] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:00:01.264 am [http-nio-8083-exec-1] com.staff.service.Staff_ServiceImpl - Data is fetched for the email alex@gmail.com
+[INFO ] 14-04-2024 09:00:27.985 am [http-nio-8083-exec-5] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:00:33.032 am [http-nio-8083-exec-8] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:05:32.373 am [http-nio-8083-exec-4] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:05:35.362 am [http-nio-8083-exec-5] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:05:38.439 am [http-nio-8083-exec-8] com.staff.service.Staff_ServiceImpl - Data is fetched for the email alex@gmail.com
+[INFO ] 14-04-2024 09:06:23.135 am [http-nio-8083-exec-2] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[ERROR] 14-04-2024 09:06:28.955 am [http-nio-8083-exec-3] com.staff.service.Staff_ServiceImpl - No data is present for the email undefined
+[INFO ] 14-04-2024 09:06:34.944 am [http-nio-8083-exec-6] com.staff.service.Staff_ServiceImpl - Data is fetched for the email alex@gmail.com
+[INFO ] 14-04-2024 09:06:38.024 am [http-nio-8083-exec-7] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:07:21.772 am [http-nio-8083-exec-10] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:07:33.402 am [http-nio-8083-exec-1] com.staff.service.Staff_ServiceImpl - Data is fetched for the email alex@gmail.com
+[INFO ] 14-04-2024 09:07:37.105 am [http-nio-8083-exec-4] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:09:07.489 am [http-nio-8083-exec-2] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:11:03.678 am [http-nio-8083-exec-6] com.staff.service.Staff_ServiceImpl - Data is fetched for the email alex@gmail.com
+[INFO ] 14-04-2024 09:11:35.408 am [http-nio-8083-exec-7] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:12:43.234 am [http-nio-8083-exec-4] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:12:48.778 am [http-nio-8083-exec-5] com.staff.service.Staff_ServiceImpl - Data is fetched for the email alex@gmail.com
+[INFO ] 14-04-2024 09:12:51.068 am [http-nio-8083-exec-8] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:14:18.078 am [http-nio-8083-exec-3] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:14:28.265 am [http-nio-8083-exec-6] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:14:44.076 am [http-nio-8083-exec-7] com.staff.service.Staff_ServiceImpl - Data is fetched for the email bob@gmail.com
+[INFO ] 14-04-2024 09:14:58.646 am [http-nio-8083-exec-1] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:16:25.476 am [http-nio-8083-exec-5] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:16:29.724 am [http-nio-8083-exec-8] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:16:33.255 am [http-nio-8083-exec-9] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:16:40.501 am [http-nio-8083-exec-3] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:17:27.627 am [http-nio-8083-exec-6] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:17:50.393 am [http-nio-8083-exec-7] com.staff.service.Staff_ServiceImpl - Data is fetched for the email alex@gmail.com
+[INFO ] 14-04-2024 09:18:01.107 am [http-nio-8083-exec-1] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:20:44.090 am [http-nio-8083-exec-5] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:28:50.991 am [http-nio-8083-exec-6] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:34:34.113 am [http-nio-8083-exec-10] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:40:21.961 am [http-nio-8083-exec-9] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:40:46.984 am [http-nio-8083-exec-2] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:40:51.782 am [http-nio-8083-exec-3] com.staff.service.Staff_ServiceImpl - Data is fetched for the email alex@gmail.com
+[INFO ] 14-04-2024 09:41:05.690 am [http-nio-8083-exec-7] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:41:14.539 am [http-nio-8083-exec-10] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[ERROR] 14-04-2024 09:44:17.622 am [http-nio-8083-exec-4] com.staff.service.Staff_ServiceImpl - No data is present for the email undefined
+[ERROR] 14-04-2024 09:44:26.421 am [http-nio-8083-exec-5] com.staff.service.Staff_ServiceImpl - No data is present for the email undefined
+[INFO ] 14-04-2024 09:45:44.665 am [http-nio-8083-exec-2] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 14-04-2024 09:45:46.782 am [http-nio-8083-exec-3] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 14-04-2024 09:45:47.732 am [http-nio-8083-exec-6] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 14-04-2024 09:45:59.829 am [http-nio-8083-exec-1] com.staff.service.Staff_ServiceImpl - Data is fetched for the email alex@gmail.com
+[INFO ] 14-04-2024 09:46:01.488 am [http-nio-8083-exec-4] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:48:04.932 am [http-nio-8083-exec-8] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:48:19.143 am [http-nio-8083-exec-9] com.staff.service.Staff_ServiceImpl - Data is fetched for the email alex@gmail.com
+[INFO ] 14-04-2024 09:48:29.848 am [http-nio-8083-exec-3] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:51:56.623 am [http-nio-8083-exec-7] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:52:07.405 am [http-nio-8083-exec-10] com.staff.service.Staff_ServiceImpl - Data is fetched for the email alex@gmail.com
+[INFO ] 14-04-2024 09:56:21.080 am [http-nio-8083-exec-9] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:56:26.565 am [http-nio-8083-exec-2] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:56:34.057 am [http-nio-8083-exec-3] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:57:38.515 am [http-nio-8083-exec-7] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:57:50.445 am [http-nio-8083-exec-10] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:58:42.739 am [http-nio-8083-exec-1] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 09:59:53.405 am [http-nio-8083-exec-5] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 10:00:55.708 am [http-nio-8083-exec-9] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 10:02:28.410 am [http-nio-8083-exec-3] com.staff.service.Staff_ServiceImpl - Data is fetched for the email alex@gmail.com
+[INFO ] 14-04-2024 10:02:31.380 am [http-nio-8083-exec-6] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 10:03:42.847 am [http-nio-8083-exec-1] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 10:04:39.004 am [http-nio-8083-exec-4] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 14-04-2024 10:04:41.659 am [http-nio-8083-exec-5] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 10:09:42.242 am [http-nio-8083-exec-3] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 10:10:11.595 am [http-nio-8083-exec-6] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 10:10:47.848 am [http-nio-8083-exec-7] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 14-04-2024 10:10:49.275 am [http-nio-8083-exec-10] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 10:10:52.651 am [http-nio-8083-exec-1] com.staff.service.Staff_ServiceImpl - Staff with email alal@gmail.com deleted successfully!
+[INFO ] 14-04-2024 10:10:54.638 am [http-nio-8083-exec-4] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 05:34:26.774 pm [http-nio-8083-exec-8] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[ERROR] 14-04-2024 05:34:39.851 pm [http-nio-8083-exec-9] com.staff.service.Staff_ServiceImpl - No data is present for the email dev@gmail.com
+[ERROR] 14-04-2024 05:34:41.554 pm [http-nio-8083-exec-2] com.staff.service.Staff_ServiceImpl - No data is present for the email dev@gmail.com
+[ERROR] 14-04-2024 05:34:42.388 pm [http-nio-8083-exec-3] com.staff.service.Staff_ServiceImpl - No data is present for the email dev@gmail.com
+[INFO ] 14-04-2024 05:34:49.854 pm [http-nio-8083-exec-6] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 05:34:59.436 pm [http-nio-8083-exec-7] com.staff.service.Staff_ServiceImpl - Data is fetched for the email alex@gmail.com
+[INFO ] 14-04-2024 05:39:53.400 pm [http-nio-8083-exec-1] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 05:40:04.749 pm [http-nio-8083-exec-4] com.staff.service.Staff_ServiceImpl - Data is fetched for the email bob@gmail.com
+[INFO ] 14-04-2024 05:40:24.605 pm [http-nio-8083-exec-8] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 05:40:38.878 pm [http-nio-8083-exec-9] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 14-04-2024 05:40:41.958 pm [http-nio-8083-exec-2] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 05:43:08.527 pm [http-nio-8083-exec-7] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 07:32:30.942 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 14-04-2024 07:32:31.239 pm [main] com.staff.service.Staff_ServiceImpl - Staff with email alex1@gmail.com deleted successfully!
+[INFO ] 14-04-2024 07:32:31.288 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 14-04-2024 07:32:31.305 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the email alex1@gmail.com
+[INFO ] 14-04-2024 07:32:31.313 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the email alex1@gmail.com
+[INFO ] 14-04-2024 07:32:31.330 pm [main] com.staff.service.Staff_ServiceImpl - Staff with email alex1@gmail.com deleted successfully!
+[INFO ] 14-04-2024 07:32:31.373 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 07:32:31.387 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 07:32:31.515 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 14-04-2024 07:32:31.539 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 14-04-2024 07:32:31.559 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[ERROR] 14-04-2024 07:32:31.576 pm [main] com.staff.service.Staff_ServiceImpl - Staff does not exist for the given email. Please enter a valid staff email
+[ERROR] 14-04-2024 07:32:31.635 pm [main] com.staff.service.Staff_ServiceImpl - Staff exists for the given email
+[ERROR] 14-04-2024 07:32:31.674 pm [main] com.staff.service.Staff_ServiceImpl - Staff exists for the given email
+[INFO ] 14-04-2024 07:32:31.702 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[ERROR] 14-04-2024 07:32:31.721 pm [main] com.staff.service.Staff_ServiceImpl - Staff does not exist for the given email. Please enter a valid staff email
+[INFO ] 14-04-2024 07:34:43.004 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 14-04-2024 07:34:43.413 pm [main] com.staff.service.Staff_ServiceImpl - Staff with email alex1@gmail.com deleted successfully!
+[INFO ] 14-04-2024 07:34:43.488 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 14-04-2024 07:34:43.511 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the email alex1@gmail.com
+[INFO ] 14-04-2024 07:34:43.522 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the email alex1@gmail.com
+[INFO ] 14-04-2024 07:34:43.543 pm [main] com.staff.service.Staff_ServiceImpl - Staff with email alex1@gmail.com deleted successfully!
+[INFO ] 14-04-2024 07:34:43.600 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 07:34:43.619 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 07:34:43.760 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 14-04-2024 07:34:43.786 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 14-04-2024 07:34:43.811 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 14-04-2024 07:34:43.848 pm [main] com.staff.service.Staff_ServiceImpl - Staff with email alex1@gmail.com deleted successfully!
+[INFO ] 14-04-2024 07:34:43.893 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 14-04-2024 07:34:43.931 pm [main] com.staff.service.Staff_ServiceImpl - Staff with email alex1@gmail.com deleted successfully!
+[INFO ] 14-04-2024 07:34:43.950 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 14-04-2024 07:34:43.991 pm [main] com.staff.service.Staff_ServiceImpl - Staff with email alex1@gmail.com deleted successfully!
+[INFO ] 14-04-2024 07:34:44.021 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 14-04-2024 07:34:44.117 pm [main] com.staff.service.Staff_ServiceImpl - Staff with email alex1@gmail.com deleted successfully!
+[INFO ] 14-04-2024 07:34:44.144 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[ERROR] 14-04-2024 07:34:44.167 pm [main] com.staff.service.Staff_ServiceImpl - Staff does not exist for the given email. Please enter a valid staff email
+[INFO ] 14-04-2024 07:35:51.810 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 14-04-2024 07:35:52.189 pm [main] com.staff.service.Staff_ServiceImpl - Staff with email alex1@gmail.com deleted successfully!
+[INFO ] 14-04-2024 07:35:52.253 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 14-04-2024 07:35:52.274 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the email alex1@gmail.com
+[INFO ] 14-04-2024 07:35:52.283 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the email alex1@gmail.com
+[INFO ] 14-04-2024 07:35:52.302 pm [main] com.staff.service.Staff_ServiceImpl - Staff with email alex1@gmail.com deleted successfully!
+[INFO ] 14-04-2024 07:35:52.363 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 07:35:52.388 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 14-04-2024 07:35:52.503 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 14-04-2024 07:35:52.525 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 14-04-2024 07:35:52.544 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 14-04-2024 07:35:52.576 pm [main] com.staff.service.Staff_ServiceImpl - Staff with email alex1@gmail.com deleted successfully!
+[INFO ] 14-04-2024 07:35:52.641 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 14-04-2024 07:35:52.672 pm [main] com.staff.service.Staff_ServiceImpl - Staff with email alex1@gmail.com deleted successfully!
+[INFO ] 14-04-2024 07:35:52.692 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 14-04-2024 07:35:52.749 pm [main] com.staff.service.Staff_ServiceImpl - Staff with email alex1@gmail.com deleted successfully!
+[INFO ] 14-04-2024 07:35:52.811 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 14-04-2024 07:35:52.951 pm [main] com.staff.service.Staff_ServiceImpl - Staff with email alex1@gmail.com deleted successfully!
+[INFO ] 14-04-2024 07:35:52.981 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 14-04-2024 07:35:53.069 pm [main] com.staff.service.Staff_ServiceImpl - Staff with email alexa@gmail.com deleted successfully!
+[INFO ] 15-04-2024 11:49:08.604 am [http-nio-8083-exec-1] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 15-04-2024 02:04:22.077 pm [http-nio-8083-exec-5] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 15-04-2024 02:04:59.790 pm [http-nio-8083-exec-3] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 15-04-2024 02:05:03.130 pm [http-nio-8083-exec-6] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 15-04-2024 02:05:06.698 pm [http-nio-8083-exec-2] com.staff.service.Staff_ServiceImpl - Staff with email new@gmail.com deleted successfully!
+[INFO ] 15-04-2024 02:05:08.416 pm [http-nio-8083-exec-7] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 15-04-2024 09:48:15.498 pm [http-nio-8083-exec-2] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 15-04-2024 09:53:26.450 pm [http-nio-8083-exec-4] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 15-04-2024 09:54:22.987 pm [http-nio-8083-exec-5] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 15-04-2024 10:00:54.963 pm [http-nio-8083-exec-7] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 15-04-2024 10:00:59.300 pm [http-nio-8083-exec-8] com.staff.service.Staff_ServiceImpl - Staff with email dpsdp@gmail.com deleted successfully!
+[INFO ] 15-04-2024 10:01:02.937 pm [http-nio-8083-exec-9] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[ERROR] 15-04-2024 10:01:15.548 pm [http-nio-8083-exec-10] com.staff.service.Staff_ServiceImpl - No data is present for the email dev@gmail.com
+[INFO ] 15-04-2024 10:01:18.081 pm [http-nio-8083-exec-2] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 15-04-2024 10:01:27.332 pm [http-nio-8083-exec-1] com.staff.service.Staff_ServiceImpl - Data is fetched for the email alex@gmail.com
+[INFO ] 15-04-2024 10:02:02.677 pm [http-nio-8083-exec-4] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 16-04-2024 08:52:44.569 am [http-nio-8083-exec-1] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 16-04-2024 08:53:05.692 am [http-nio-8083-exec-2] com.staff.service.Staff_ServiceImpl - Data is fetched for the email alex@gmail.com
+[INFO ] 16-04-2024 08:54:14.562 am [http-nio-8083-exec-4] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 16-04-2024 08:54:16.075 am [http-nio-8083-exec-5] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 16-04-2024 08:54:19.665 am [http-nio-8083-exec-6] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 16-04-2024 08:54:36.341 am [http-nio-8083-exec-7] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 16-04-2024 08:54:58.797 am [http-nio-8083-exec-8] com.staff.service.Staff_ServiceImpl - Data is fetched for the email alex@gmail.com
+[INFO ] 16-04-2024 09:02:33.548 am [http-nio-8083-exec-10] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 16-04-2024 12:07:09.981 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 16-04-2024 12:07:10.342 pm [main] com.staff.service.Staff_ServiceImpl - Staff with email alex1@gmail.com deleted successfully!
+[INFO ] 16-04-2024 12:07:10.413 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 16-04-2024 12:07:10.435 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the email alex1@gmail.com
+[INFO ] 16-04-2024 12:07:10.447 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the email alex1@gmail.com
+[INFO ] 16-04-2024 12:07:10.470 pm [main] com.staff.service.Staff_ServiceImpl - Staff with email alex1@gmail.com deleted successfully!
+[INFO ] 16-04-2024 12:07:10.532 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 16-04-2024 12:07:10.548 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 16-04-2024 12:07:10.695 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 16-04-2024 12:07:10.718 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 16-04-2024 12:07:10.745 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 16-04-2024 12:07:10.776 pm [main] com.staff.service.Staff_ServiceImpl - Staff with email alex1@gmail.com deleted successfully!
+[INFO ] 16-04-2024 12:07:10.817 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 16-04-2024 12:07:10.853 pm [main] com.staff.service.Staff_ServiceImpl - Staff with email alex1@gmail.com deleted successfully!
+[INFO ] 16-04-2024 12:07:10.864 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 16-04-2024 12:07:10.895 pm [main] com.staff.service.Staff_ServiceImpl - Staff with email alex1@gmail.com deleted successfully!
+[INFO ] 16-04-2024 12:07:10.919 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 16-04-2024 12:07:10.991 pm [main] com.staff.service.Staff_ServiceImpl - Staff with email alex1@gmail.com deleted successfully!
+[INFO ] 16-04-2024 12:07:11.018 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 16-04-2024 12:07:11.051 pm [main] com.staff.service.Staff_ServiceImpl - Staff with email alexa@gmail.com deleted successfully!
+[INFO ] 18-04-2024 07:39:47.127 pm [http-nio-8083-exec-1] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 18-04-2024 07:39:51.459 pm [http-nio-8083-exec-2] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 18-04-2024 07:40:22.661 pm [http-nio-8083-exec-3] com.staff.service.Staff_ServiceImpl - Data is fetched for the email ronin@gmail.com
+[INFO ] 18-04-2024 07:41:04.121 pm [http-nio-8083-exec-5] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 18-04-2024 07:41:24.538 pm [http-nio-8083-exec-6] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 18-04-2024 07:41:44.391 pm [http-nio-8083-exec-7] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 18-04-2024 07:41:47.211 pm [http-nio-8083-exec-9] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 18-04-2024 07:42:04.917 pm [http-nio-8083-exec-8] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 18-04-2024 07:52:59.849 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 18-04-2024 07:53:00.156 pm [main] com.staff.service.Staff_ServiceImpl - Staff with email alex1@gmail.com deleted successfully!
+[INFO ] 18-04-2024 07:53:00.229 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 18-04-2024 07:53:00.256 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the email alex1@gmail.com
+[INFO ] 18-04-2024 07:53:00.269 pm [main] com.staff.service.Staff_ServiceImpl - Data is fetched for the email alex1@gmail.com
+[INFO ] 18-04-2024 07:53:00.293 pm [main] com.staff.service.Staff_ServiceImpl - Staff with email alex1@gmail.com deleted successfully!
+[INFO ] 18-04-2024 07:53:00.380 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 18-04-2024 07:53:00.401 pm [main] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 18-04-2024 07:53:00.501 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 18-04-2024 07:53:00.527 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 18-04-2024 07:53:00.552 pm [main] com.staff.service.Staff_ServiceImpl - Staff salary updated successfully!!
+[INFO ] 18-04-2024 07:53:00.625 pm [main] com.staff.service.Staff_ServiceImpl - Staff with email alex1@gmail.com deleted successfully!
+[INFO ] 18-04-2024 07:53:00.680 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 18-04-2024 07:53:00.718 pm [main] com.staff.service.Staff_ServiceImpl - Staff with email alex1@gmail.com deleted successfully!
+[INFO ] 18-04-2024 07:53:00.743 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 18-04-2024 07:53:00.781 pm [main] com.staff.service.Staff_ServiceImpl - Staff with email alex1@gmail.com deleted successfully!
+[INFO ] 18-04-2024 07:53:00.806 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 18-04-2024 07:53:00.889 pm [main] com.staff.service.Staff_ServiceImpl - Staff with email alex1@gmail.com deleted successfully!
+[INFO ] 18-04-2024 07:53:00.917 pm [main] com.staff.service.Staff_ServiceImpl - Data added successfully
+[INFO ] 18-04-2024 07:53:00.954 pm [main] com.staff.service.Staff_ServiceImpl - Staff with email alexa@gmail.com deleted successfully!
+[INFO ] 18-04-2024 10:21:58.818 pm [http-nio-8083-exec-1] com.staff.service.Staff_ServiceImpl - List of staff is fetched!!
+[INFO ] 18-04-2024 10:22:59.154 pm [http-nio-8083-exec-3] com.staff.service.Staff_ServiceImpl - Data is fetched for the email alex@gmail.com

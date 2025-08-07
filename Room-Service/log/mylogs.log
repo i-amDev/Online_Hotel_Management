@@ -1,0 +1,1106 @@
+[INFO ] 05-04-2024 03:38:42.163 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 05-04-2024 03:44:10.585 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 05-04-2024 04:07:08.489 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 05-04-2024 04:08:56.524 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 05-04-2024 04:09:09.075 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - Data is fetched for the id R-07
+[INFO ] 05-04-2024 04:09:36.587 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 05-04-2024 08:59:41.372 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 05-04-2024 10:24:51.051 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 10:17:32.179 am [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 10:38:52.449 am [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 11:05:03.268 am [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 11:44:50.556 am [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 04:54:56.213 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 04:54:56.277 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 05:04:58.131 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 05:04:58.187 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 05:08:27.084 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 05:08:27.131 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 05:11:20.154 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 05:11:20.205 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 05:13:12.593 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 05:13:12.656 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 05:23:31.161 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 05:23:31.219 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 05:25:21.101 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 05:25:21.146 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 05:38:04.333 pm [main] com.room.service.Room_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 05:41:01.948 pm [main] com.room.service.Room_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 05:43:36.523 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 05:43:36.558 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 05:43:36.689 pm [main] com.room.service.Room_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 05:44:32.794 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 05:44:32.831 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 05:44:32.943 pm [main] com.room.service.Room_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 05:48:05.966 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-01
+[INFO ] 06-04-2024 05:48:05.988 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-01
+[INFO ] 06-04-2024 05:48:06.080 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 05:48:06.097 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 05:48:06.155 pm [main] com.room.service.Room_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 05:48:06.393 pm [main] com.room.service.Room_ServiceImpl - Room with id R-08 deleted successfully!
+[INFO ] 06-04-2024 05:48:06.401 pm [main] com.room.service.Room_ServiceImpl - Room with id R-08 deleted successfully!
+[INFO ] 06-04-2024 05:51:27.529 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 06-04-2024 05:51:27.659 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 06-04-2024 05:51:27.745 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-01
+[INFO ] 06-04-2024 05:51:27.754 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-01
+[INFO ] 06-04-2024 05:51:27.803 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 05:51:27.818 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 05:51:27.873 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 06-04-2024 05:51:27.896 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 06-04-2024 05:51:27.923 pm [main] com.room.service.Room_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 05:51:27.989 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 06-04-2024 05:51:28.010 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 06-04-2024 05:51:28.117 pm [main] com.room.service.Room_ServiceImpl - Room with id R-08 deleted successfully!
+[INFO ] 06-04-2024 05:51:28.128 pm [main] com.room.service.Room_ServiceImpl - Room with id R-08 deleted successfully!
+[INFO ] 06-04-2024 05:52:51.513 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 06-04-2024 05:52:51.637 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 06-04-2024 05:52:51.711 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-01
+[INFO ] 06-04-2024 05:52:51.722 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-01
+[INFO ] 06-04-2024 05:52:51.778 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 05:52:51.792 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 05:52:51.839 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 06-04-2024 05:52:51.860 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 06-04-2024 05:52:51.884 pm [main] com.room.service.Room_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 05:52:51.945 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 06-04-2024 05:52:51.968 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 06-04-2024 05:52:52.066 pm [main] com.room.service.Room_ServiceImpl - Room with id R-08 deleted successfully!
+[INFO ] 06-04-2024 05:52:52.078 pm [main] com.room.service.Room_ServiceImpl - Room with id R-08 deleted successfully!
+[INFO ] 06-04-2024 05:53:17.232 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 06-04-2024 05:53:17.364 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 06-04-2024 05:53:17.440 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-01
+[INFO ] 06-04-2024 05:53:17.450 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-01
+[INFO ] 06-04-2024 05:53:17.508 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 05:53:17.523 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 05:53:17.592 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 06-04-2024 05:53:17.616 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 06-04-2024 05:53:17.650 pm [main] com.room.service.Room_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 05:53:17.712 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 06-04-2024 05:53:17.736 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 06-04-2024 05:53:17.827 pm [main] com.room.service.Room_ServiceImpl - Room with id R-08 deleted successfully!
+[INFO ] 06-04-2024 05:53:17.838 pm [main] com.room.service.Room_ServiceImpl - Room with id R-08 deleted successfully!
+[INFO ] 06-04-2024 05:55:36.556 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 06-04-2024 05:55:36.694 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 06-04-2024 05:55:36.778 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-01
+[INFO ] 06-04-2024 05:55:36.786 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-01
+[INFO ] 06-04-2024 05:55:36.852 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 05:55:36.862 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 06-04-2024 05:55:36.905 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 06-04-2024 05:55:36.923 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 06-04-2024 05:55:36.945 pm [main] com.room.service.Room_ServiceImpl - Data added successfully
+[INFO ] 06-04-2024 05:55:36.986 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 06-04-2024 05:55:37.004 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 06-04-2024 05:55:37.066 pm [main] com.room.service.Room_ServiceImpl - Room with id R-08 deleted successfully!
+[INFO ] 06-04-2024 05:55:37.073 pm [main] com.room.service.Room_ServiceImpl - Room with id R-08 deleted successfully!
+[INFO ] 07-04-2024 10:46:42.678 am [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 07-04-2024 04:40:46.017 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 07-04-2024 04:40:46.102 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 07-04-2024 04:42:42.164 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 07-04-2024 04:42:42.213 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 07-04-2024 04:42:42.469 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 07-04-2024 04:42:42.525 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 07-04-2024 05:29:48.477 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - Data added successfully
+[ERROR] 07-04-2024 05:29:54.246 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[ERROR] 07-04-2024 05:30:37.302 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[INFO ] 07-04-2024 05:30:58.795 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 05:31:13.019 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 05:31:38.831 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 05:31:59.873 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 05:32:23.431 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - Data added successfully
+[INFO ] 07-04-2024 05:32:42.675 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - Data added successfully
+[ERROR] 07-04-2024 05:33:05.141 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[ERROR] 07-04-2024 05:35:01.599 pm [main] com.room.service.Room_ServiceImpl - No data is present for the id R-01
+[INFO ] 07-04-2024 05:35:01.847 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 07-04-2024 05:35:01.868 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[ERROR] 07-04-2024 05:35:02.085 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[ERROR] 07-04-2024 05:35:02.220 pm [main] com.room.service.Room_ServiceImpl - Invalid Id. Please provide correct room Id
+[ERROR] 07-04-2024 05:36:23.387 pm [main] com.room.service.Room_ServiceImpl - No data is present for the id R-01
+[INFO ] 07-04-2024 05:36:23.601 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 07-04-2024 05:36:23.622 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[ERROR] 07-04-2024 05:36:23.780 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[ERROR] 07-04-2024 05:36:23.879 pm [main] com.room.service.Room_ServiceImpl - Invalid Id. Please provide correct room Id
+[ERROR] 07-04-2024 05:38:59.672 pm [main] com.room.service.Room_ServiceImpl - No data is present for the id R-01
+[INFO ] 07-04-2024 05:38:59.970 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 07-04-2024 05:38:59.990 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[ERROR] 07-04-2024 05:39:00.220 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[ERROR] 07-04-2024 05:39:00.358 pm [main] com.room.service.Room_ServiceImpl - Invalid Id. Please provide correct room Id
+[ERROR] 07-04-2024 05:43:42.850 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[INFO ] 07-04-2024 05:43:42.973 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 07-04-2024 05:43:43.013 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 07-04-2024 05:43:43.118 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[ERROR] 07-04-2024 05:43:43.404 pm [main] com.room.service.Room_ServiceImpl - Invalid Id. Please provide correct room Id
+[INFO ] 07-04-2024 05:46:56.668 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:46:57.069 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 07-04-2024 05:46:57.100 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 07-04-2024 05:46:57.200 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:46:57.304 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:46:57.333 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-01
+[INFO ] 07-04-2024 05:46:57.344 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-01
+[INFO ] 07-04-2024 05:46:57.367 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:46:57.454 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 07-04-2024 05:46:57.480 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 07-04-2024 05:46:57.580 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:46:57.615 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 07-04-2024 05:46:57.641 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 07-04-2024 05:46:57.679 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[ERROR] 07-04-2024 05:46:57.715 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[INFO ] 07-04-2024 05:46:57.793 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:46:57.819 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 07-04-2024 05:46:57.846 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 07-04-2024 05:46:57.875 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[ERROR] 07-04-2024 05:46:57.924 pm [main] com.room.service.Room_ServiceImpl - Invalid Id. Please provide correct room Id
+[INFO ] 07-04-2024 05:48:48.583 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:48:48.913 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 07-04-2024 05:48:48.945 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 07-04-2024 05:48:49.021 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:48:49.121 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:48:49.147 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-01
+[INFO ] 07-04-2024 05:48:49.159 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-01
+[INFO ] 07-04-2024 05:48:49.182 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:48:49.271 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 07-04-2024 05:48:49.295 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 07-04-2024 05:48:49.395 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:48:49.437 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 07-04-2024 05:48:49.465 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 07-04-2024 05:48:49.516 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:48:49.551 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:48:49.641 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:48:49.666 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 07-04-2024 05:48:49.689 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 07-04-2024 05:48:49.717 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:48:49.768 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:48:49.793 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:48:49.819 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:48:49.838 pm [main] com.room.service.Room_ServiceImpl - Room with id R-02 deleted successfully!
+[INFO ] 07-04-2024 05:50:16.840 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:50:17.165 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 07-04-2024 05:50:17.199 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 07-04-2024 05:50:17.293 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:50:17.392 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:50:17.435 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-01
+[INFO ] 07-04-2024 05:50:17.449 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-01
+[INFO ] 07-04-2024 05:50:17.470 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:50:17.549 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 07-04-2024 05:50:17.569 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 07-04-2024 05:50:17.653 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:50:17.679 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 07-04-2024 05:50:17.702 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 07-04-2024 05:50:17.734 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:50:17.763 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:50:17.861 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:50:17.885 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 07-04-2024 05:50:17.912 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 07-04-2024 05:50:17.962 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:50:18.009 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:50:18.056 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:50:18.088 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:50:18.107 pm [main] com.room.service.Room_ServiceImpl - Room with id R-02 deleted successfully!
+[INFO ] 07-04-2024 05:52:02.666 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:52:02.990 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 07-04-2024 05:52:03.020 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 07-04-2024 05:52:03.098 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:52:03.173 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:52:03.201 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-01
+[INFO ] 07-04-2024 05:52:03.213 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-01
+[INFO ] 07-04-2024 05:52:03.235 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:52:03.306 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 07-04-2024 05:52:03.328 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 07-04-2024 05:52:03.404 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:52:03.430 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 07-04-2024 05:52:03.453 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 07-04-2024 05:52:03.482 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[ERROR] 07-04-2024 05:52:03.508 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[INFO ] 07-04-2024 05:52:03.605 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:52:03.625 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 07-04-2024 05:52:03.644 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 07-04-2024 05:52:03.673 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:52:03.723 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:52:03.749 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:52:03.780 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:52:03.799 pm [main] com.room.service.Room_ServiceImpl - Room with id R-02 deleted successfully!
+[INFO ] 07-04-2024 05:54:35.088 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:54:35.419 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 07-04-2024 05:54:35.460 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 07-04-2024 05:54:35.537 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:54:35.616 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:54:35.640 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-01
+[INFO ] 07-04-2024 05:54:35.654 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-01
+[INFO ] 07-04-2024 05:54:35.677 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:54:35.753 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 07-04-2024 05:54:35.774 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 07-04-2024 05:54:35.872 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:54:35.896 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 07-04-2024 05:54:35.916 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 07-04-2024 05:54:35.945 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[ERROR] 07-04-2024 05:54:35.973 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[INFO ] 07-04-2024 05:54:36.086 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:54:36.109 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 07-04-2024 05:54:36.134 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 07-04-2024 05:54:36.168 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:54:36.217 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:54:36.240 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:54:36.272 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:54:36.293 pm [main] com.room.service.Room_ServiceImpl - Room with id R-02 deleted successfully!
+[INFO ] 07-04-2024 05:55:47.825 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:55:48.086 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 07-04-2024 05:55:48.116 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 07-04-2024 05:55:48.191 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:55:48.273 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:55:48.299 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-01
+[INFO ] 07-04-2024 05:55:48.311 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-01
+[INFO ] 07-04-2024 05:55:48.335 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:55:48.422 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 07-04-2024 05:55:48.443 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 07-04-2024 05:55:48.523 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:55:48.549 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 07-04-2024 05:55:48.571 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 07-04-2024 05:55:48.603 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:55:48.631 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:55:48.738 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:55:48.758 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 07-04-2024 05:55:48.779 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 07-04-2024 05:55:48.807 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:55:48.852 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:55:48.872 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:55:48.900 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:55:48.946 pm [main] com.room.service.Room_ServiceImpl - Room with id R-02 deleted successfully!
+[INFO ] 07-04-2024 05:58:11.448 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:58:11.811 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 07-04-2024 05:58:11.848 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 07-04-2024 05:58:11.930 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:58:12.034 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:58:12.062 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-01
+[INFO ] 07-04-2024 05:58:12.076 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-01
+[INFO ] 07-04-2024 05:58:12.097 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:58:12.168 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 07-04-2024 05:58:12.188 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 07-04-2024 05:58:12.268 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:58:12.352 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 07-04-2024 05:58:12.397 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 07-04-2024 05:58:12.444 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[ERROR] 07-04-2024 05:58:12.477 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[INFO ] 07-04-2024 05:58:12.584 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:58:12.609 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 07-04-2024 05:58:12.634 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 07-04-2024 05:58:12.669 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:58:12.713 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:58:12.740 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:58:12.777 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:58:12.801 pm [main] com.room.service.Room_ServiceImpl - Room with id R-02 deleted successfully!
+[INFO ] 07-04-2024 05:59:26.035 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:59:26.470 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 07-04-2024 05:59:26.505 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 07-04-2024 05:59:26.615 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:59:26.716 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:59:26.758 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-01
+[INFO ] 07-04-2024 05:59:26.784 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-01
+[INFO ] 07-04-2024 05:59:26.809 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:59:26.891 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 07-04-2024 05:59:26.939 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 07-04-2024 05:59:27.021 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:59:27.048 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 07-04-2024 05:59:27.081 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 07-04-2024 05:59:27.117 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:59:27.148 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:59:27.192 pm [main] com.room.service.Room_ServiceImpl - Room with id R-03 deleted successfully!
+[INFO ] 07-04-2024 05:59:27.305 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:59:27.409 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 07-04-2024 05:59:27.527 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 07-04-2024 05:59:27.639 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:59:27.695 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:59:27.714 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 07-04-2024 05:59:27.744 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 07-04-2024 05:59:27.788 pm [main] com.room.service.Room_ServiceImpl - Room with id R-02 deleted successfully!
+[INFO ] 08-04-2024 12:09:23.416 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 12:09:23.447 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 12:09:23.609 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 12:09:23.641 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 12:10:19.569 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 12:10:19.725 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 08-04-2024 12:10:19.735 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 08-04-2024 12:10:19.773 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 08-04-2024 12:10:19.817 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 12:10:19.829 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-01
+[INFO ] 08-04-2024 12:10:19.837 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-01
+[INFO ] 08-04-2024 12:10:19.846 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 08-04-2024 12:10:19.884 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 12:10:19.894 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 12:10:19.933 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 12:10:19.946 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 08-04-2024 12:10:19.959 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 08-04-2024 12:10:19.976 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 08-04-2024 12:10:19.996 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 12:10:20.019 pm [main] com.room.service.Room_ServiceImpl - Room with id R-03 deleted successfully!
+[INFO ] 08-04-2024 12:10:20.060 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 12:10:20.074 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 08-04-2024 12:10:20.089 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 08-04-2024 12:10:20.108 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 08-04-2024 12:10:20.141 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 12:10:20.156 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 12:10:20.176 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 08-04-2024 12:10:20.189 pm [main] com.room.service.Room_ServiceImpl - Room with id R-02 deleted successfully!
+[INFO ] 08-04-2024 02:30:02.807 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 02:30:02.869 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 02:30:03.043 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 02:30:03.079 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 02:30:11.897 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 02:53:18.046 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 03:00:47.880 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 03:28:25.308 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 03:36:12.652 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 03:36:33.951 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 03:39:08.605 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 05:22:31.928 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 05:25:31.030 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 05:26:21.812 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 08-04-2024 05:26:42.833 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 05:32:55.120 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 05:47:03.745 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 05:47:35.502 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 05:47:35.525 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 08-04-2024 05:52:51.389 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 05:52:51.410 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 08-04-2024 05:55:44.857 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 05:55:44.876 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 08-04-2024 05:56:26.714 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 05:56:26.731 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 08-04-2024 06:01:20.633 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:01:20.653 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 08-04-2024 06:06:33.093 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:06:33.113 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 08-04-2024 06:12:02.194 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:13:38.125 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:14:04.563 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:14:04.580 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 08-04-2024 06:14:25.260 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:16:20.491 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:16:20.507 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 08-04-2024 06:16:36.175 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:16:36.189 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 08-04-2024 06:18:54.192 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:18:54.206 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 08-04-2024 06:19:35.924 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:19:35.939 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 08-04-2024 06:23:40.013 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:23:40.066 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:23:40.150 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:23:40.579 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:23:40.779 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:25:16.941 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:25:17.264 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:25:17.349 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:25:17.373 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:25:17.431 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:25:18.019 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:25:18.132 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:26:59.233 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:26:59.530 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:26:59.613 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:26:59.633 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:26:59.672 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:26:59.914 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:26:59.958 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:26:59.995 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:27:00.039 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:27:00.217 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:27:00.433 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:27:00.501 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:27:00.554 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:28:53.124 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:28:53.442 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:28:53.578 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:28:53.677 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:28:53.735 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:28:53.800 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:28:53.845 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:28:53.862 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:28:53.908 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:28:53.946 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:28:53.982 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:28:54.016 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:28:54.340 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:28:54.384 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:28:54.442 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:28:54.472 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:28:54.575 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:28:54.673 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:28:54.739 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:28:54.831 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:30:16.061 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:30:16.400 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:30:16.503 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:30:16.613 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:30:16.667 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:30:16.743 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:30:16.779 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:30:16.790 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:30:16.836 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:30:16.875 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:30:16.901 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:30:16.934 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:30:17.173 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:30:17.209 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:30:17.242 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:30:17.267 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:30:17.349 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:30:17.425 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:30:17.477 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:30:17.518 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:35:44.362 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:35:44.728 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:35:44.827 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:35:44.917 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:35:44.968 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:35:45.035 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:35:45.077 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:35:45.091 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:35:45.133 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:35:45.164 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:35:45.191 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:35:45.224 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:35:45.438 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:35:45.479 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:35:45.514 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:35:45.534 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:35:45.620 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:35:45.698 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:35:45.750 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:35:45.787 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:37:44.444 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 06:37:44.719 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 08-04-2024 06:37:44.746 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 08-04-2024 06:37:44.808 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 08-04-2024 06:37:44.874 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 06:37:44.902 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-01
+[INFO ] 08-04-2024 06:37:44.916 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-01
+[INFO ] 08-04-2024 06:37:44.938 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 08-04-2024 06:37:45.001 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:37:45.030 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:37:45.105 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 06:37:45.132 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 08-04-2024 06:37:45.154 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 08-04-2024 06:37:45.190 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 08-04-2024 06:37:45.220 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 06:37:45.254 pm [main] com.room.service.Room_ServiceImpl - Room with id R-03 deleted successfully!
+[INFO ] 08-04-2024 06:37:45.335 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 06:37:45.371 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 08-04-2024 06:37:45.395 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 08-04-2024 06:37:45.428 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 08-04-2024 06:37:45.470 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 06:37:45.495 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 06:37:45.527 pm [main] com.room.service.Room_ServiceImpl - Room with id R-01 deleted successfully!
+[INFO ] 08-04-2024 06:37:45.549 pm [main] com.room.service.Room_ServiceImpl - Room with id R-02 deleted successfully!
+[INFO ] 08-04-2024 06:42:46.709 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 06:42:46.936 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 08-04-2024 06:42:46.957 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[ERROR] 08-04-2024 06:42:47.107 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[ERROR] 08-04-2024 06:42:47.145 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[INFO ] 08-04-2024 06:42:47.212 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:42:47.232 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[ERROR] 08-04-2024 06:42:47.291 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[INFO ] 08-04-2024 06:42:47.321 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 06:42:47.376 pm [main] com.room.service.Room_ServiceImpl - Room with id R-03 deleted successfully!
+[ERROR] 08-04-2024 06:42:47.458 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[ERROR] 08-04-2024 06:42:47.504 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[INFO ] 08-04-2024 06:44:49.133 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 06:44:49.374 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 08-04-2024 06:44:49.403 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[ERROR] 08-04-2024 06:44:49.511 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[ERROR] 08-04-2024 06:44:49.541 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[INFO ] 08-04-2024 06:44:49.606 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:44:49.622 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[ERROR] 08-04-2024 06:44:49.695 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[INFO ] 08-04-2024 06:44:49.730 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 06:44:49.790 pm [main] com.room.service.Room_ServiceImpl - Room with id R-03 deleted successfully!
+[ERROR] 08-04-2024 06:44:49.915 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[ERROR] 08-04-2024 06:44:49.968 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[INFO ] 08-04-2024 06:48:00.496 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 06:48:00.831 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 08-04-2024 06:48:00.858 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[ERROR] 08-04-2024 06:48:01.006 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[ERROR] 08-04-2024 06:48:01.048 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[INFO ] 08-04-2024 06:48:01.121 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:48:01.141 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[ERROR] 08-04-2024 06:48:01.194 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[INFO ] 08-04-2024 06:48:01.224 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 06:48:01.292 pm [main] com.room.service.Room_ServiceImpl - Room with id R-03 deleted successfully!
+[ERROR] 08-04-2024 06:48:01.401 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[ERROR] 08-04-2024 06:48:01.454 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[ERROR] 08-04-2024 06:51:03.603 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[ERROR] 08-04-2024 06:51:03.686 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[ERROR] 08-04-2024 06:51:03.720 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[INFO ] 08-04-2024 06:51:03.804 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:51:03.824 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[ERROR] 08-04-2024 06:51:03.895 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[INFO ] 08-04-2024 06:51:03.929 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 06:51:04.077 pm [main] com.room.service.Room_ServiceImpl - Room with id R-03 deleted successfully!
+[ERROR] 08-04-2024 06:51:04.167 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[ERROR] 08-04-2024 06:51:04.211 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[INFO ] 08-04-2024 06:52:25.886 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 06:52:26.177 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 08-04-2024 06:52:26.207 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[ERROR] 08-04-2024 06:52:26.351 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[ERROR] 08-04-2024 06:52:26.383 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[INFO ] 08-04-2024 06:52:26.448 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:52:26.471 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[ERROR] 08-04-2024 06:52:26.528 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[INFO ] 08-04-2024 06:52:26.562 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 06:52:26.623 pm [main] com.room.service.Room_ServiceImpl - Room with id R-03 deleted successfully!
+[ERROR] 08-04-2024 06:52:26.706 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[ERROR] 08-04-2024 06:52:26.750 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[ERROR] 08-04-2024 06:56:44.987 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[INFO ] 08-04-2024 06:56:45.121 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 06:56:45.296 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 08-04-2024 06:56:45.322 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 08-04-2024 06:56:45.382 pm [main] com.room.service.Room_ServiceImpl - Room with id R-1 deleted successfully!
+[ERROR] 08-04-2024 06:56:45.410 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[INFO ] 08-04-2024 06:56:45.475 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:56:45.491 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[ERROR] 08-04-2024 06:56:45.551 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[INFO ] 08-04-2024 06:56:45.601 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 06:56:45.639 pm [main] com.room.service.Room_ServiceImpl - Room with id R-03 deleted successfully!
+[ERROR] 08-04-2024 06:56:45.728 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[ERROR] 08-04-2024 06:56:45.790 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[INFO ] 08-04-2024 06:58:53.827 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 06:58:54.075 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 08-04-2024 06:58:54.101 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 08-04-2024 06:58:54.412 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 06:58:54.446 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 08-04-2024 06:58:54.472 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 08-04-2024 06:58:54.549 pm [main] com.room.service.Room_ServiceImpl - Room with id R-1 deleted successfully!
+[INFO ] 08-04-2024 06:58:54.582 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 06:58:54.609 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-1
+[INFO ] 08-04-2024 06:58:54.621 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-1
+[INFO ] 08-04-2024 06:58:54.643 pm [main] com.room.service.Room_ServiceImpl - Room with id R-1 deleted successfully!
+[INFO ] 08-04-2024 06:58:54.709 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 06:58:54.726 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[ERROR] 08-04-2024 06:58:54.776 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[INFO ] 08-04-2024 06:58:54.805 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 06:58:54.832 pm [main] com.room.service.Room_ServiceImpl - Room with id R-03 deleted successfully!
+[ERROR] 08-04-2024 06:58:54.918 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[INFO ] 08-04-2024 06:58:54.964 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 06:58:54.994 pm [main] com.room.service.Room_ServiceImpl - Room with id R-1 deleted successfully!
+[INFO ] 08-04-2024 06:58:55.003 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 06:58:55.033 pm [main] com.room.service.Room_ServiceImpl - Room with id R-1 deleted successfully!
+[INFO ] 08-04-2024 07:00:23.841 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 07:00:24.098 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 08-04-2024 07:00:24.123 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 08-04-2024 07:00:24.239 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 07:00:24.272 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 08-04-2024 07:00:24.297 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 08-04-2024 07:00:24.352 pm [main] com.room.service.Room_ServiceImpl - Room with id R-1 deleted successfully!
+[INFO ] 08-04-2024 07:00:24.382 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 07:00:24.402 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-1
+[INFO ] 08-04-2024 07:00:24.414 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-1
+[INFO ] 08-04-2024 07:00:24.436 pm [main] com.room.service.Room_ServiceImpl - Room with id R-1 deleted successfully!
+[INFO ] 08-04-2024 07:00:24.497 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 07:00:24.517 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[ERROR] 08-04-2024 07:00:24.583 pm [main] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[INFO ] 08-04-2024 07:00:24.625 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 07:00:24.654 pm [main] com.room.service.Room_ServiceImpl - Room with id R-03 deleted successfully!
+[INFO ] 08-04-2024 07:00:24.736 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 07:00:24.754 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 08-04-2024 07:00:24.774 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 08-04-2024 07:00:24.801 pm [main] com.room.service.Room_ServiceImpl - Room with id R-1 deleted successfully!
+[INFO ] 08-04-2024 07:00:24.841 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 07:00:24.868 pm [main] com.room.service.Room_ServiceImpl - Room with id R-1 deleted successfully!
+[INFO ] 08-04-2024 07:00:24.878 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 07:00:24.901 pm [main] com.room.service.Room_ServiceImpl - Room with id R-1 deleted successfully!
+[INFO ] 08-04-2024 07:01:41.731 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 07:01:42.037 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 08-04-2024 07:01:42.069 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 08-04-2024 07:01:42.176 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 07:01:42.204 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 08-04-2024 07:01:42.224 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 08-04-2024 07:01:42.273 pm [main] com.room.service.Room_ServiceImpl - Room with id R-1 deleted successfully!
+[INFO ] 08-04-2024 07:01:42.305 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 07:01:42.326 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-1
+[INFO ] 08-04-2024 07:01:42.337 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-1
+[INFO ] 08-04-2024 07:01:42.358 pm [main] com.room.service.Room_ServiceImpl - Room with id R-1 deleted successfully!
+[INFO ] 08-04-2024 07:01:42.426 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 07:01:42.445 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 07:01:42.530 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 07:01:42.555 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 08-04-2024 07:01:42.575 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 08-04-2024 07:01:42.605 pm [main] com.room.service.Room_ServiceImpl - Room with id R-1 deleted successfully!
+[INFO ] 08-04-2024 07:01:42.634 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 07:01:42.664 pm [main] com.room.service.Room_ServiceImpl - Room with id R-03 deleted successfully!
+[INFO ] 08-04-2024 07:01:42.778 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 07:01:42.811 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 08-04-2024 07:01:42.836 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 08-04-2024 07:01:42.866 pm [main] com.room.service.Room_ServiceImpl - Room with id R-1 deleted successfully!
+[INFO ] 08-04-2024 07:01:42.925 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 07:01:42.964 pm [main] com.room.service.Room_ServiceImpl - Room with id R-1 deleted successfully!
+[INFO ] 08-04-2024 07:01:42.987 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 07:01:43.020 pm [main] com.room.service.Room_ServiceImpl - Room with id R-1 deleted successfully!
+[INFO ] 08-04-2024 07:03:17.672 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 07:03:17.997 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 08-04-2024 07:03:18.030 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 08-04-2024 07:03:18.102 pm [main] com.room.service.Room_ServiceImpl - Room with id R-022 deleted successfully!
+[INFO ] 08-04-2024 07:03:18.179 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 07:03:18.205 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 08-04-2024 07:03:18.227 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 08-04-2024 07:03:18.258 pm [main] com.room.service.Room_ServiceImpl - Room with id R-1 deleted successfully!
+[INFO ] 08-04-2024 07:03:18.297 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 07:03:18.325 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-1
+[INFO ] 08-04-2024 07:03:18.337 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-1
+[INFO ] 08-04-2024 07:03:18.357 pm [main] com.room.service.Room_ServiceImpl - Room with id R-1 deleted successfully!
+[INFO ] 08-04-2024 07:03:18.426 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 07:03:18.445 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 07:03:18.525 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 07:03:18.549 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 08-04-2024 07:03:18.572 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 08-04-2024 07:03:18.602 pm [main] com.room.service.Room_ServiceImpl - Room with id R-1 deleted successfully!
+[INFO ] 08-04-2024 07:03:18.628 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 07:03:18.657 pm [main] com.room.service.Room_ServiceImpl - Room with id R-03 deleted successfully!
+[INFO ] 08-04-2024 07:03:18.747 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 07:03:18.770 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 08-04-2024 07:03:18.795 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 08-04-2024 07:03:18.854 pm [main] com.room.service.Room_ServiceImpl - Room with id R-1 deleted successfully!
+[INFO ] 08-04-2024 07:03:18.896 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 07:03:18.926 pm [main] com.room.service.Room_ServiceImpl - Room with id R-1 deleted successfully!
+[INFO ] 08-04-2024 07:03:18.938 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 08-04-2024 07:03:18.972 pm [main] com.room.service.Room_ServiceImpl - Room with id R-1 deleted successfully!
+[INFO ] 08-04-2024 07:09:53.509 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 07:09:53.645 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 08-04-2024 07:10:37.017 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 07:10:37.038 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 08-04-2024 07:12:17.857 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 07:12:17.878 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 08-04-2024 07:14:17.920 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 07:14:17.948 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 08-04-2024 07:15:09.067 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 07:15:09.086 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 08-04-2024 07:16:28.471 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 07:16:28.490 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 08-04-2024 07:17:39.432 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 08-04-2024 07:17:39.455 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 09-04-2024 06:08:10.801 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 09-04-2024 06:08:11.226 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 09-04-2024 06:08:11.347 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 09-04-2024 06:08:11.442 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 09-04-2024 06:08:11.500 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 09-04-2024 06:08:11.570 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 09-04-2024 06:08:11.616 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 09-04-2024 06:08:11.637 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 09-04-2024 06:08:11.695 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 09-04-2024 06:08:11.740 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 09-04-2024 06:08:11.779 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 09-04-2024 06:08:11.829 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 09-04-2024 06:08:12.020 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 09-04-2024 06:08:12.061 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 09-04-2024 06:08:12.103 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 09-04-2024 06:08:12.134 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 09-04-2024 06:08:12.222 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 09-04-2024 06:08:12.289 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 09-04-2024 06:08:12.342 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 09-04-2024 06:08:12.376 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 09-04-2024 06:09:10.556 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 09-04-2024 06:09:10.767 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 09-04-2024 06:09:10.794 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 09-04-2024 06:09:10.849 pm [main] com.room.service.Room_ServiceImpl - Room with id R-022 deleted successfully!
+[INFO ] 09-04-2024 06:09:10.903 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 09-04-2024 06:09:10.922 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 09-04-2024 06:09:10.937 pm [main] com.room.service.Room_ServiceImpl - Room type updated successfully!!
+[INFO ] 09-04-2024 06:09:10.966 pm [main] com.room.service.Room_ServiceImpl - Room with id R-1 deleted successfully!
+[INFO ] 09-04-2024 06:09:10.991 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 09-04-2024 06:09:11.012 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-1
+[INFO ] 09-04-2024 06:09:11.022 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the id R-1
+[INFO ] 09-04-2024 06:09:11.041 pm [main] com.room.service.Room_ServiceImpl - Room with id R-1 deleted successfully!
+[INFO ] 09-04-2024 06:09:11.097 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 09-04-2024 06:09:11.113 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 09-04-2024 06:09:11.165 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 09-04-2024 06:09:11.184 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 09-04-2024 06:09:11.202 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 09-04-2024 06:09:11.230 pm [main] com.room.service.Room_ServiceImpl - Room with id R-1 deleted successfully!
+[INFO ] 09-04-2024 06:09:11.255 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 09-04-2024 06:09:11.285 pm [main] com.room.service.Room_ServiceImpl - Room with id R-03 deleted successfully!
+[INFO ] 09-04-2024 06:09:11.360 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 09-04-2024 06:09:11.381 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 09-04-2024 06:09:11.404 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 09-04-2024 06:09:11.436 pm [main] com.room.service.Room_ServiceImpl - Room with id R-1 deleted successfully!
+[INFO ] 09-04-2024 06:09:11.481 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 09-04-2024 06:09:11.519 pm [main] com.room.service.Room_ServiceImpl - Room with id R-1 deleted successfully!
+[INFO ] 09-04-2024 06:09:11.530 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 09-04-2024 06:09:11.564 pm [main] com.room.service.Room_ServiceImpl - Room with id R-1 deleted successfully!
+[INFO ] 12-04-2024 07:28:59.960 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 12-04-2024 07:29:00.079 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 12-04-2024 07:30:13.835 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 12-04-2024 07:30:13.841 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 12-04-2024 10:45:01.322 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 12-04-2024 10:52:55.972 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 12-04-2024 10:55:52.952 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 12-04-2024 10:59:43.885 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 12-04-2024 10:59:43.907 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 13-04-2024 09:31:38.760 am [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 13-04-2024 09:31:38.909 am [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 13-04-2024 09:43:10.302 am [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 13-04-2024 09:43:10.315 am [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 13-04-2024 09:43:12.168 am [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 13-04-2024 09:43:12.973 am [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 13-04-2024 09:43:13.319 am [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 13-04-2024 09:43:14.107 am [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 13-04-2024 09:43:48.153 am [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 13-04-2024 09:44:30.939 am [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 13-04-2024 09:44:30.962 am [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 13-04-2024 09:45:42.073 am [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 13-04-2024 09:45:42.084 am [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 13-04-2024 09:46:11.686 am [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 13-04-2024 09:46:11.694 am [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 13-04-2024 09:49:10.544 am [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 13-04-2024 09:49:10.562 am [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 13-04-2024 09:49:49.713 am [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 13-04-2024 09:49:49.726 am [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 13-04-2024 09:52:08.953 am [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 13-04-2024 09:52:09.001 am [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 13-04-2024 09:53:40.070 am [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 13-04-2024 09:53:40.077 am [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 13-04-2024 10:08:02.232 am [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 13-04-2024 10:08:02.245 am [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 13-04-2024 10:08:17.476 am [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 13-04-2024 10:08:17.482 am [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 13-04-2024 04:22:56.877 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 13-04-2024 04:22:56.905 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 13-04-2024 04:23:14.655 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 13-04-2024 04:23:14.665 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - No of rooms updated successfully
+[INFO ] 13-04-2024 05:04:38.828 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 13-04-2024 05:06:19.673 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 13-04-2024 06:29:02.740 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 13-04-2024 06:40:23.256 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 13-04-2024 07:23:43.661 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 13-04-2024 07:23:56.160 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - Data is fetched for the roomType Single Bed
+[INFO ] 13-04-2024 07:23:57.286 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - Data is fetched for the roomType Single Bed
+[INFO ] 13-04-2024 07:23:57.546 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - Data is fetched for the roomType Single Bed
+[INFO ] 13-04-2024 07:24:23.788 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - Data is fetched for the roomType Single Bed
+[INFO ] 13-04-2024 07:24:29.997 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - Data is fetched for the roomType Double Bed
+[INFO ] 13-04-2024 07:28:34.501 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 13-04-2024 07:28:35.811 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 13-04-2024 07:29:00.355 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 13-04-2024 07:29:30.825 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 13-04-2024 07:31:54.294 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - Data is fetched for the roomType Single Bed
+[INFO ] 13-04-2024 07:32:02.005 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 13-04-2024 07:32:26.357 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - Data is fetched for the roomType Deluxe Room
+[INFO ] 13-04-2024 07:37:36.363 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 13-04-2024 07:38:09.106 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 13-04-2024 07:39:13.825 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 13-04-2024 07:43:33.621 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - Data is fetched for the roomType Single Bed
+[INFO ] 13-04-2024 08:00:06.931 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 10:12:20.410 am [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 10:14:48.862 am [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 10:20:52.781 am [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 10:21:50.661 am [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 10:21:55.838 am [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 10:22:01.484 am [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 10:22:06.769 am [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 10:23:55.953 am [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - Data is fetched for the roomType Single Bed
+[INFO ] 14-04-2024 10:24:10.668 am [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 10:24:16.684 am [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 10:24:30.543 am [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 10:27:38.978 am [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 14-04-2024 10:27:42.337 am [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 10:27:52.512 am [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 14-04-2024 10:27:54.886 am [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 10:28:33.929 am [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 10:28:42.592 am [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - Data is fetched for the roomType New One
+[INFO ] 14-04-2024 12:27:07.192 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 12:28:48.406 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 12:35:09.691 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 14-04-2024 12:37:18.799 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 12:37:18.810 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 14-04-2024 02:42:09.582 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 02:42:09.658 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 14-04-2024 02:46:08.892 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 02:46:08.911 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 14-04-2024 02:49:55.200 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 02:50:13.691 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - Data is fetched for the roomType Single Bed
+[INFO ] 14-04-2024 02:51:59.262 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 02:51:59.308 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 14-04-2024 02:52:28.769 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 02:52:28.780 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 14-04-2024 02:53:51.636 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 02:53:51.683 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 14-04-2024 02:54:45.868 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 02:54:45.880 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 14-04-2024 02:55:14.005 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 02:55:14.016 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 14-04-2024 04:31:14.730 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 04:32:20.543 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 04:32:39.434 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 04:33:08.731 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 04:33:19.717 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - Room with roomType New One deleted successfully!
+[INFO ] 14-04-2024 04:33:23.659 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 04:34:08.216 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 04:34:10.219 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - Room with roomType New Room deleted successfully!
+[INFO ] 14-04-2024 04:34:13.953 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 04:35:11.997 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 04:38:21.675 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - Data is fetched for the roomType Single Bed
+[INFO ] 14-04-2024 04:38:26.694 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - Data is fetched for the roomType Double Bed
+[INFO ] 14-04-2024 04:38:33.260 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 04:39:07.225 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 04:39:27.275 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 04:40:07.241 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 04:40:29.535 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - Data is fetched for the roomType Junior Suite
+[INFO ] 14-04-2024 04:42:29.177 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 14-04-2024 04:44:50.857 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 14-04-2024 04:44:53.535 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 05:42:13.858 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 05:57:43.704 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 05:57:58.437 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - Data is fetched for the roomType Presidential Suite
+[INFO ] 14-04-2024 06:08:44.167 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 14-04-2024 06:08:45.150 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 06:08:49.654 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - Room with roomType New Room Type deleted successfully!
+[INFO ] 14-04-2024 06:08:51.797 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 07:20:36.807 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 07:20:37.180 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 07:20:37.280 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 07:20:37.359 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 07:20:37.403 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 07:20:37.417 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 07:20:37.467 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 07:20:37.506 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 07:20:37.540 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 07:20:37.593 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 07:20:37.789 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 07:20:37.856 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 07:20:37.901 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 07:20:37.945 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 07:25:53.375 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 14-04-2024 07:25:53.571 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 14-04-2024 07:25:53.594 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 14-04-2024 07:25:53.655 pm [main] com.room.service.Room_ServiceImpl - Room with roomType New Type2 deleted successfully!
+[INFO ] 14-04-2024 07:25:53.711 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 14-04-2024 07:25:53.730 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the roomType abc
+[INFO ] 14-04-2024 07:25:53.742 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the roomType abc
+[INFO ] 14-04-2024 07:25:53.762 pm [main] com.room.service.Room_ServiceImpl - Room with roomType abc deleted successfully!
+[INFO ] 14-04-2024 07:25:53.811 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 07:25:53.826 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 07:25:53.872 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 14-04-2024 07:25:53.927 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 14-04-2024 07:25:53.958 pm [main] com.room.service.Room_ServiceImpl - Room with roomType New deleted successfully!
+[INFO ] 14-04-2024 07:25:54.049 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 14-04-2024 07:25:54.108 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 14-04-2024 07:25:54.189 pm [main] com.room.service.Room_ServiceImpl - Room with roomType abc deleted successfully!
+[INFO ] 14-04-2024 07:25:54.205 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 14-04-2024 07:25:54.258 pm [main] com.room.service.Room_ServiceImpl - Room with roomType abc deleted successfully!
+[INFO ] 14-04-2024 07:26:49.948 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 14-04-2024 07:26:50.143 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 14-04-2024 07:26:50.162 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 14-04-2024 07:26:50.212 pm [main] com.room.service.Room_ServiceImpl - Room with roomType New Type2 deleted successfully!
+[INFO ] 14-04-2024 07:26:50.263 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 14-04-2024 07:26:50.284 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the roomType abc
+[INFO ] 14-04-2024 07:26:50.295 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the roomType abc
+[INFO ] 14-04-2024 07:26:50.312 pm [main] com.room.service.Room_ServiceImpl - Room with roomType abc deleted successfully!
+[INFO ] 14-04-2024 07:26:50.364 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 07:26:50.377 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 07:26:50.426 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 14-04-2024 07:26:50.444 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 14-04-2024 07:26:50.463 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 14-04-2024 07:26:50.498 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 14-04-2024 07:26:50.527 pm [main] com.room.service.Room_ServiceImpl - Room with roomType New deleted successfully!
+[INFO ] 14-04-2024 07:26:50.610 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 14-04-2024 07:26:50.676 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 14-04-2024 07:26:50.705 pm [main] com.room.service.Room_ServiceImpl - Room with roomType abc deleted successfully!
+[INFO ] 14-04-2024 07:26:50.716 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 14-04-2024 07:26:50.745 pm [main] com.room.service.Room_ServiceImpl - Room with roomType abc deleted successfully!
+[INFO ] 14-04-2024 07:27:39.155 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 14-04-2024 07:27:39.330 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 14-04-2024 07:27:39.348 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 14-04-2024 07:27:39.394 pm [main] com.room.service.Room_ServiceImpl - Room with roomType New Type2 deleted successfully!
+[INFO ] 14-04-2024 07:27:39.443 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 14-04-2024 07:27:39.462 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the roomType abc
+[INFO ] 14-04-2024 07:27:39.471 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the roomType abc
+[INFO ] 14-04-2024 07:27:39.490 pm [main] com.room.service.Room_ServiceImpl - Room with roomType abc deleted successfully!
+[INFO ] 14-04-2024 07:27:39.531 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 07:27:39.544 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 14-04-2024 07:27:39.592 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 14-04-2024 07:27:39.610 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 14-04-2024 07:27:39.627 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 14-04-2024 07:27:39.656 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 14-04-2024 07:27:39.681 pm [main] com.room.service.Room_ServiceImpl - Room with roomType New deleted successfully!
+[INFO ] 14-04-2024 07:27:39.748 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 14-04-2024 07:27:39.769 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 14-04-2024 07:27:39.790 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 14-04-2024 07:27:39.818 pm [main] com.room.service.Room_ServiceImpl - Room with roomType aaa deleted successfully!
+[INFO ] 14-04-2024 07:27:39.856 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 14-04-2024 07:27:39.883 pm [main] com.room.service.Room_ServiceImpl - Room with roomType abc deleted successfully!
+[INFO ] 14-04-2024 07:27:39.894 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 14-04-2024 07:27:39.921 pm [main] com.room.service.Room_ServiceImpl - Room with roomType abc deleted successfully!
+[INFO ] 15-04-2024 07:00:22.749 am [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 07:00:23.159 am [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 07:00:23.301 am [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 07:00:23.395 am [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 07:00:23.449 am [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 07:00:23.490 am [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 07:00:23.529 am [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 07:00:23.567 am [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 07:00:23.794 am [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 07:00:23.881 am [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 07:00:23.934 am [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 07:00:23.971 am [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 11:46:38.916 am [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 11:46:39.085 am [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 15-04-2024 02:10:26.540 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 02:46:29.942 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 05:48:22.669 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 05:48:22.791 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 15-04-2024 05:52:24.591 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 05:53:42.033 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 05:54:03.694 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 05:54:31.919 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 05:55:24.350 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 05:55:34.488 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 05:56:12.889 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 05:57:43.142 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 05:58:04.787 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 05:58:17.881 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 05:58:29.644 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 05:58:29.663 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 15-04-2024 06:03:20.318 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 06:03:20.342 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 15-04-2024 06:03:28.069 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 06:03:28.739 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 06:04:37.140 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 06:04:37.158 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 15-04-2024 06:05:24.411 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 06:05:24.423 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 15-04-2024 06:05:58.469 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 06:05:58.480 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 15-04-2024 06:15:09.324 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 06:15:09.342 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 15-04-2024 06:15:43.187 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 06:15:43.198 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 15-04-2024 06:18:25.188 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 06:18:25.200 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 15-04-2024 06:45:11.199 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 06:45:11.218 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 15-04-2024 06:46:23.972 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 06:46:23.983 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 15-04-2024 06:49:40.292 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 06:49:40.303 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 15-04-2024 06:56:58.947 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 15-04-2024 06:57:02.899 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 07:03:16.872 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[ERROR] 15-04-2024 07:03:34.913 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[INFO ] 15-04-2024 07:03:43.919 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 15-04-2024 07:07:26.587 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 07:14:54.341 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 07:15:01.306 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - Room with roomType New deleted successfully!
+[INFO ] 15-04-2024 07:15:04.521 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 07:15:45.329 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 15-04-2024 07:15:48.632 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - Room with roomType New One deleted successfully!
+[INFO ] 15-04-2024 07:15:55.097 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[ERROR] 15-04-2024 07:17:13.836 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - No data is present for the roomType undefined
+[ERROR] 15-04-2024 07:18:16.534 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - No data is present for the roomType undefined
+[ERROR] 15-04-2024 07:18:29.033 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - No data is present for the roomType undefined
+[INFO ] 15-04-2024 07:18:39.825 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - Data is fetched for the roomType Single Bed
+[INFO ] 15-04-2024 07:22:32.703 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 15-04-2024 07:24:14.951 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 15-04-2024 10:03:37.133 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 16-04-2024 08:58:11.124 am [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 16-04-2024 08:58:29.793 am [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 16-04-2024 08:58:48.423 am [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - Data is fetched for the roomType Junior Suite
+[INFO ] 16-04-2024 08:58:57.563 am [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 16-04-2024 12:05:29.762 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 16-04-2024 12:05:30.111 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 16-04-2024 12:05:30.213 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 16-04-2024 12:05:30.281 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 16-04-2024 12:05:30.337 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 16-04-2024 12:05:30.409 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 16-04-2024 12:05:30.452 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 16-04-2024 12:05:30.507 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 16-04-2024 12:05:30.782 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 16-04-2024 12:05:30.870 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 16-04-2024 12:05:30.915 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 16-04-2024 12:05:30.950 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 16-04-2024 12:06:24.081 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 16-04-2024 12:06:24.303 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 16-04-2024 12:06:24.328 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 16-04-2024 12:06:24.379 pm [main] com.room.service.Room_ServiceImpl - Room with roomType New Type2 deleted successfully!
+[INFO ] 16-04-2024 12:06:24.439 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 16-04-2024 12:06:24.458 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the roomType abc
+[INFO ] 16-04-2024 12:06:24.470 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the roomType abc
+[INFO ] 16-04-2024 12:06:24.489 pm [main] com.room.service.Room_ServiceImpl - Room with roomType abc deleted successfully!
+[INFO ] 16-04-2024 12:06:24.546 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 16-04-2024 12:06:24.563 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 16-04-2024 12:06:24.612 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 16-04-2024 12:06:24.632 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 16-04-2024 12:06:24.657 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 16-04-2024 12:06:24.697 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 16-04-2024 12:06:24.726 pm [main] com.room.service.Room_ServiceImpl - Room with roomType New deleted successfully!
+[INFO ] 16-04-2024 12:06:24.807 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 16-04-2024 12:06:24.829 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 16-04-2024 12:06:24.850 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 16-04-2024 12:06:24.881 pm [main] com.room.service.Room_ServiceImpl - Room with roomType aaa deleted successfully!
+[INFO ] 16-04-2024 12:06:24.923 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 16-04-2024 12:06:24.960 pm [main] com.room.service.Room_ServiceImpl - Room with roomType abc deleted successfully!
+[INFO ] 16-04-2024 12:06:24.975 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 16-04-2024 12:06:25.005 pm [main] com.room.service.Room_ServiceImpl - Room with roomType abc deleted successfully!
+[INFO ] 18-04-2024 07:27:53.753 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 18-04-2024 07:27:53.843 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 18-04-2024 07:28:38.849 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 18-04-2024 07:28:38.859 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 18-04-2024 07:31:14.248 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 18-04-2024 07:31:16.865 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 18-04-2024 07:31:36.415 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - Data is fetched for the roomType Junior Suite
+[INFO ] 18-04-2024 07:32:07.993 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 18-04-2024 07:32:12.161 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 18-04-2024 07:32:47.084 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 18-04-2024 07:33:10.500 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 18-04-2024 07:33:24.807 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 18-04-2024 07:33:37.654 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 18-04-2024 07:33:48.889 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - Room with roomType New Room deleted successfully!
+[INFO ] 18-04-2024 07:33:51.211 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 18-04-2024 07:47:22.940 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 18-04-2024 07:47:22.956 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 18-04-2024 07:51:31.903 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 18-04-2024 07:51:32.195 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 18-04-2024 07:51:32.281 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 18-04-2024 07:51:32.350 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 18-04-2024 07:51:32.397 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 18-04-2024 07:51:32.435 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 18-04-2024 07:51:32.466 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 18-04-2024 07:51:32.499 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 18-04-2024 07:51:32.698 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 18-04-2024 07:51:32.783 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 18-04-2024 07:51:32.829 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 18-04-2024 07:51:32.871 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 18-04-2024 07:52:12.511 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 18-04-2024 07:52:12.705 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 18-04-2024 07:52:12.727 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 18-04-2024 07:52:12.793 pm [main] com.room.service.Room_ServiceImpl - Room with roomType New Type2 deleted successfully!
+[INFO ] 18-04-2024 07:52:12.845 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 18-04-2024 07:52:12.869 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the roomType abc
+[INFO ] 18-04-2024 07:52:12.881 pm [main] com.room.service.Room_ServiceImpl - Data is fetched for the roomType abc
+[INFO ] 18-04-2024 07:52:12.898 pm [main] com.room.service.Room_ServiceImpl - Room with roomType abc deleted successfully!
+[INFO ] 18-04-2024 07:52:12.964 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 18-04-2024 07:52:12.981 pm [main] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 18-04-2024 07:52:13.037 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 18-04-2024 07:52:13.066 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 18-04-2024 07:52:13.092 pm [main] com.room.service.Room_ServiceImpl - Room Charge updated successfully!!
+[INFO ] 18-04-2024 07:52:13.132 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 18-04-2024 07:52:13.169 pm [main] com.room.service.Room_ServiceImpl - Room with roomType New deleted successfully!
+[INFO ] 18-04-2024 07:52:13.268 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 18-04-2024 07:52:13.303 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 18-04-2024 07:52:13.329 pm [main] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 18-04-2024 07:52:13.365 pm [main] com.room.service.Room_ServiceImpl - Room with roomType aaa deleted successfully!
+[INFO ] 18-04-2024 07:52:13.420 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 18-04-2024 07:52:13.450 pm [main] com.room.service.Room_ServiceImpl - Room with roomType abc deleted successfully!
+[INFO ] 18-04-2024 07:52:13.464 pm [main] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 18-04-2024 07:52:13.555 pm [main] com.room.service.Room_ServiceImpl - Room with roomType abc deleted successfully!
+[INFO ] 18-04-2024 07:54:10.113 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 18-04-2024 07:54:52.429 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - Data is fetched for the roomType Single Bed
+[INFO ] 18-04-2024 07:57:04.613 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 19-04-2024 10:31:22.014 am [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 19-04-2024 01:39:25.279 pm [http-nio-8084-exec-7] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 19-04-2024 01:39:25.433 pm [http-nio-8084-exec-10] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 19-04-2024 01:40:33.611 pm [http-nio-8084-exec-1] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 19-04-2024 01:40:33.620 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!
+[INFO ] 19-04-2024 01:42:09.059 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 19-04-2024 01:42:30.418 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 19-04-2024 01:42:43.676 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - Room with roomType New One deleted successfully!
+[INFO ] 19-04-2024 01:42:46.478 pm [http-nio-8084-exec-3] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 19-04-2024 01:44:35.357 pm [http-nio-8084-exec-6] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 19-04-2024 01:46:04.679 pm [http-nio-8084-exec-5] com.room.service.Room_ServiceImpl - Room added successfully
+[ERROR] 19-04-2024 01:46:33.100 pm [http-nio-8084-exec-8] com.room.service.Room_ServiceImpl - Room with the given room type already exists
+[INFO ] 19-04-2024 01:46:57.450 pm [http-nio-8084-exec-4] com.room.service.Room_ServiceImpl - Room added successfully
+[INFO ] 19-04-2024 01:47:47.439 pm [http-nio-8084-exec-9] com.room.service.Room_ServiceImpl - List of room is fetched!!
+[INFO ] 19-04-2024 01:47:47.450 pm [http-nio-8084-exec-2] com.room.service.Room_ServiceImpl - No of rooms updated successfully!!

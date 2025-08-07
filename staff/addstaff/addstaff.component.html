@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Add Staff</title>
+</head>
+<body>
+  <div class="wrapper">
+    <form action="">
+      <h1>Add Staff</h1>
+      <div class="input-box">
+        <input type="text" placeholder="Name" name="Name" required [(ngModel)]="name">
+      </div>
+      <div class="input-box">
+        <input type="text" placeholder="Gender" name="Gender" required [(ngModel)]="gender">
+      </div>
+      <div class="input-box">
+        <input type="text" placeholder="Email" name="Email" required [(ngModel)]="email">
+      </div>
+      <div class="input-box">
+        <input type="text" placeholder="Address" name="Address" required [(ngModel)]="address">
+      </div>
+      <div class="input-box">
+        <input type="text" placeholder="Staff Post" name="post" required [(ngModel)]="post">
+      </div>
+      <div class="input-box">
+        <input type="number" placeholder="Salary" name="Salary" required [(ngModel)]="salary">
+      </div>      
+      <button type="submit" class="btn" (click)="addStaff()">Add Staff</button>
+    </form>
+  </div>
+  <!-- <footer class="footer">
+    <div class="container">
+        <div class="social-media">
+            <i class="fa-brands fa-facebook fa-4x"></i>
+            <i class="fa-brands fa-instagram fa-4x"></i>
+            <i class="fa-brands fa-twitter fa-4x"></i>
+        </div>
+        <p>Footer Section &copy; 2024, All Rights Reserved</p>
+    </div>
+</footer> -->
+</body>
+</html>

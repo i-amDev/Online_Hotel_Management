@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header class="header">
+        <nav class="navbar">
+            <div class="container">
+                <h1 class="logo medium-heading">VIEW STAFF</h1>
+                <ul class="nav-items">
+                    <!-- <li class="items"><a routerLink="/home">HOM3</a></li> -->
+                    <!-- <li class="items"><a routerLink="/home">HOME2</a></li> -->
+                    <li class="items temp"><a (click)="logout()">LOGOUT</a></li>
+                </ul>
+            </div>
+        </nav>
+        <div class="header-content">
+            <a class="btn btn-primary text-red temp" (click)="getAll()">View All Staff</a><br>
+            <a class="btn btn-primary text-red temp" (click)="showdiv2()">Get Staff By Email</a><br>
+            <a class="btn btn-primary text-red temp" (click)="showdiv3()">Update Name</a><br>
+            <a class="btn btn-primary text-red temp" (click)="showdiv4()">Update Salary</a><br>
+            <a class="btn btn-primary text-red temp" (click)="showdiv5()">Update Address</a><br>
+        </div>
+    </header>
+    <section class="showcase">
+        <div class="container row row1" *ngIf="show">
+            <div class="text-box">
+                <h2 class="medium-heading text-black head-mid">STAFF LIST</h2>
+                <table class="tbl">
+                    <tr>
+                        <th>Staff Name</th>
+                        <th>Staff Gender</th>
+                        <th>Staff Email</th>
+                        <th>Staff Address</th>
+                        <th>StaffPost</th>
+                        <th>Salary</th>
+                        <th>Delete</th>
+                    </tr>
+                    <tr *ngFor="let temp of staffArr">
+                        <td>{{temp.name}}</td>
+                        <td>{{temp.gender}}</td>
+                        <td>{{temp.email}}</td>
+                        <td>{{temp.address}}</td>
+                        <td>{{temp.staffPost}}</td>
+                        <td>{{temp.salary}}</td>
+                        <td><button class="btn btn-secondary text-red temp" (click)="deleteStaff(temp.email)">Delete</button></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div class="container row row1" *ngIf="showemail">
+            <div class="text-box">
+                <h2 class="medium-heading text-black head-mid">GET STAFF BY EMAIL</h2>
+                <!-- <label>Email</label> -->
+                <div class="input-box">
+                    <input type="email" placeholder="Email" name="search_email" id="search_email" required [(ngModel)]="search_email">
+                </div>
+                <a class="btn btn-secondary text-red temp" (click)="getByEmail(search_email)">Get Staff</a>
+                <table class="tbl" *ngIf="showemailtable">
+                    <tr>
+                        <th>Staff Name</th>
+                        <th>Staff Gender</th>
+                        <th>Staff Email</th>
+                        <th>Staff Address</th>
+                        <th>StaffPost</th>
+                        <th>Salary</th>
+                    </tr>
+                    <tr>
+                        <td>{{emailObj.name}}</td>
+                        <td>{{emailObj.gender}}</td>
+                        <td>{{emailObj.email}}</td>
+                        <td>{{emailObj.address}}</td>
+                        <td>{{emailObj.staffPost}}</td>
+                        <td>{{emailObj.salary}}</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div class="container row row1" *ngIf="showname">
+            <div class="text-box">
+                <h2 class="medium-heading text-black head-mid">UPDATE NAME</h2>
+                <!-- <label>Email</label> -->
+                <div class="input-box">
+                    <input type="email" placeholder="Email" name="name_email" id="name_email" required [(ngModel)]="name_email">
+                </div>
+                <!-- <label>Name</label> -->
+                <div class="input-box">
+                    <input type="text" placeholder="Name" name="updatename" id="updatename" required [(ngModel)]="updatename">
+                </div>
+                <a class="btn btn-secondary text-red temp" (click)="updateName(name_email,updatename)">Update Name</a>
+                <table class="tbl" *ngIf="shownametable">
+                    <tr>
+                        <th>Staff Name</th>
+                        <th>Staff Gender</th>
+                        <th>Staff Email</th>
+                        <th>Staff Address</th>
+                        <th>StaffPost</th>
+                        <th>Salary</th>
+                    </tr>
+                    <tr>
+                        <td>{{nameObj.name}}</td>
+                        <td>{{nameObj.gender}}</td>
+                        <td>{{nameObj.email}}</td>
+                        <td>{{nameObj.address}}</td>
+                        <td>{{nameObj.staffPost}}</td>
+                        <td>{{nameObj.salary}}</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div class="container row row1" *ngIf="showsalary">
+            <div class="text-box">
+                <h2 class="medium-heading text-black head-mid">UPDATE SALARY</h2>
+                <!-- <label>Email</label> -->
+                <div class="input-box">
+                    <input type="email" placeholder="Email" name="salary_email" id="salary_email" required [(ngModel)]="salary_email">
+                </div>
+                <!-- <label>Salary</label> -->
+                <div class="input-box">
+                    <input type="number" placeholder="Salary" name="new_salary" id="new_salary" required [(ngModel)]="new_salary">
+                </div>
+                <a class="btn btn-secondary text-red temp" (click)="updateSalary(salary_email,new_salary)">Update Salary</a>
+                <table class="tbl" *ngIf="showsalarytable">
+                    <tr>
+                        <th>Staff Name</th>
+                        <th>Staff Gender</th>
+                        <th>Staff Email</th>
+                        <th>Staff Address</th>
+                        <th>StaffPost</th>
+                        <th>Salary</th>
+                    </tr>
+                    <tr>
+                        <td>{{salaryObj.name}}</td>
+                        <td>{{salaryObj.gender}}</td>
+                        <td>{{salaryObj.email}}</td>
+                        <td>{{salaryObj.address}}</td>
+                        <td>{{salaryObj.staffPost}}</td>
+                        <td>{{salaryObj.salary}}</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div class="container row row1" *ngIf="showaddress">
+            <div class="text-box">
+                <h2 class="medium-heading text-black head-mid">UPDATE ADDRESS</h2>
+                <!-- <label>Email</label> -->
+                <div class="input-box">
+                    <input type="email" placeholder="Email" name="address_email" id="address_email" required [(ngModel)]="address_email">
+                </div>
+                <!-- <label>Address</label> -->
+                <div class="input-box">
+                    <input type="text" placeholder="Address" name="new_address" id="new_address" required [(ngModel)]="new_address">
+                </div>
+                <a class="btn btn-secondary text-red temp" (click)="updateAddress(address_email,new_address)">Update Address</a>
+                <table class="tbl" *ngIf="showaddresstable">
+                    <tr>
+                        <th>Staff Name</th>
+                        <th>Staff Gender</th>
+                        <th>Staff Email</th>
+                        <th>Staff Address</th>
+                        <th>StaffPost</th>
+                        <th>Salary</th>
+                    </tr>
+                    <tr>
+                        <td>{{addressObj.name}}</td>
+                        <td>{{addressObj.gender}}</td>
+                        <td>{{addressObj.email}}</td>
+                        <td>{{addressObj.address}}</td>
+                        <td>{{addressObj.staffPost}}</td>
+                        <td>{{addressObj.salary}}</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </section>
+    <footer class="footer">
+        <div class="container">
+            <div class="social-media">
+                <i class="fa-brands fa-facebook fa-4x"></i>
+                <i class="fa-brands fa-instagram fa-4x"></i>
+                <i class="fa-brands fa-twitter fa-4x"></i>
+            </div>
+            <p>Blissful Bay Resort &copy; 2024, All Rights Reserved</p>
+        </div>
+    </footer>
+</body>
+</html>

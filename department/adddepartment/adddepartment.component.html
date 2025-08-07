@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Add Department</title>
+</head>
+<body>
+  <div class="wrapper">
+    <form action="">
+      <h1>Add Department</h1>
+      <div class="input-box">
+        <input type="text" placeholder="Department Name" name="Department Name" required [(ngModel)]="name">
+      </div>
+      <div class="input-box">
+        <input type="text" placeholder="Department Description" name="Department Description" required [(ngModel)]="description">
+      </div>
+      <div class="input-box">
+        <input type="number" placeholder="No Of Employees" name="No Of Employees" required [(ngModel)]="noOfEmp">
+      </div>      
+      <button type="submit" class="btn" (click)="addDepartment()">Add Department</button>
+    </form>
+  </div>
+  <!-- <footer class="footer">
+    <div class="container">
+        <div class="social-media">
+            <i class="fa-brands fa-facebook fa-4x"></i>
+            <i class="fa-brands fa-instagram fa-4x"></i>
+            <i class="fa-brands fa-twitter fa-4x"></i>
+        </div>
+        <p>Footer Section &copy; 2024, All Rights Reserved</p>
+    </div>
+</footer> -->
+</body>
+</html>

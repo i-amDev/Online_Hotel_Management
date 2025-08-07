@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header class="header">
+        <nav class="navbar">
+            <div class="container">
+                <h1 class="logo medium-heading">VIEW DEPARTMENT</h1>
+                <ul class="nav-items">
+                    <!-- <li class="items"><a routerLink="/home">HOM3</a></li> -->
+                    <!-- <li class="items"><a routerLink="/home">HOME2</a></li> -->
+                    <li class="items temp"><a (click)="logout()">LOGOUT</a></li>
+                </ul>
+            </div>
+        </nav>
+        <div class="header-content">
+            <a class="btn btn-primary text-red temp" (click)="getAll()">View All Department</a><br>
+            <a class="btn btn-primary text-red temp" (click)="showdiv2()">Get Department By Department Name</a><br>
+            <a class="btn btn-primary text-red temp" (click)="showdiv3()">Update Description</a><br>
+            <a class="btn btn-primary text-red temp" (click)="showdiv4()">Update No Of Employees</a><br>
+        </div>
+    </header>
+    <section class="showcase">
+        <div class="container row row1" *ngIf="show">
+            <div class="text-box">
+                <h2 class="medium-heading text-black head-mid">DEPARTMENT LIST</h2>
+                <table class="tbl">
+                    <tr>
+                        <th>Department Name</th>
+                        <th>Department Description</th>
+                        <th>No Of Employees</th>
+                        <th>Delete</th>
+                    </tr>
+                    <tr *ngFor="let temp of departmentArr">
+                        <td>{{temp.departmentName}}</td>
+                        <td>{{temp.departmentDescription}}</td>
+                        <td>{{temp.noOfEmployees}}</td>
+                        <td><button class="btn btn-secondary text-red temp" (click)="deleteDepartment(temp.departmentName)">Delete</button></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div class="container row row1" *ngIf="showdepartment">
+            <div class="text-box">
+                <h2 class="medium-heading text-black head-mid">GET DEPARTMENT BY DEPARTMENT NAME</h2>
+                <!-- <label>Department Name</label> -->
+                <div class="input-box">
+                    <input type="text" placeholder="Department Name" name="name" id="name" [(ngModel)]="name">
+                </div>
+                <a class="btn btn-secondary text-red temp" (click)="getByDepartmentName(name)">Get Department</a>
+                <table *ngIf="showdepartmenttable" class="tbl">
+                    <tr>
+                        <th>Department Name</th>
+                        <th>Department Description</th>
+                        <th>No Of Employees</th>
+                    </tr>
+                    <tr>
+                        <td>{{departmentObj.departmentName}}</td>
+                        <td>{{departmentObj.departmentDescription}}</td>
+                        <td>{{departmentObj.noOfEmployees}}</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div class="container row row1" *ngIf="showdesc">
+            <div class="text-box">
+                <h2 class="medium-heading text-black head-mid">UPDATE DESCRIPTION</h2>
+                <!-- <label>Department Name</label> -->
+                <div class="input-box">
+                    <input type="text" placeholder="Department Name" name="desc_name" id="desc_name" [(ngModel)]="desc_name">
+                </div>
+                <!-- <label>Department Description</label> -->
+                <div class="input-box">
+                    <input type="text" placeholder="Department Description" name="desc" id="desc" [(ngModel)]="desc">
+                </div>
+                <a class="btn btn-secondary text-red temp" (click)="updateDescription(desc_name,desc)">Update Description</a>
+                <table *ngIf="showdesctable" class="tbl">
+                    <tr>
+                        <th>Department Name</th>
+                        <th>Department Description</th>
+                        <th>No Of Employees</th>
+                    </tr>
+                    <tr>
+                        <td>{{updateDescObj.departmentName}}</td>
+                        <td>{{updateDescObj.departmentDescription}}</td>
+                        <td>{{updateDescObj.noOfEmployees}}</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div class="container row row1" *ngIf="showno">
+            <div class="text-box">
+                <h2 class="medium-heading text-black head-mid">UPDATE NO OF EMPLOYEES</h2>
+                <!-- <label>Department Name</label> -->
+                <div class="input-box">
+                    <input type="text" placeholder="Department Name" name="no_name" id="no_name" [(ngModel)]="no_name">
+                </div>
+                <!-- <label>Number of Employees</label> -->
+                <div class="input-box">
+                    <input type="number" placeholder="Number of Employees" name="no" id="no" [(ngModel)]="no">
+                </div>
+                <a class="btn btn-secondary text-red temp" (click)="updateNoOfEmployees(no_name,no)">Update Description</a>
+                <table *ngIf="shownotable" class="tbl">
+                    <tr>
+                        <th>Department Name</th>
+                        <th>Department Description</th>
+                        <th>No Of Employees</th>
+                    </tr>
+                    <tr>
+                        <td>{{updateNoOfEmpObj.departmentName}}</td>
+                        <td>{{updateNoOfEmpObj.departmentDescription}}</td>
+                        <td>{{updateNoOfEmpObj.noOfEmployees}}</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </section>
+    <footer class="footer">
+        <div class="container">
+            <div class="social-media">
+                <i class="fa-brands fa-facebook fa-4x"></i>
+                <i class="fa-brands fa-instagram fa-4x"></i>
+                <i class="fa-brands fa-twitter fa-4x"></i>
+            </div>
+            <p>Blissful Bay Resort &copy; 2024, All Rights Reserved</p>
+        </div>
+    </footer>
+</body>
+</html>

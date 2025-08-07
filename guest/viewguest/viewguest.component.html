@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header class="header">
+        <nav class="navbar">
+            <div class="container">
+                <h1 class="logo medium-heading">VIEW GUEST</h1>
+                <ul class="nav-items">
+                    <!-- <li class="items"><a routerLink="/home">HOM3</a></li> -->
+                    <!-- <li class="items"><a routerLink="/home">HOME2</a></li> -->
+                    <li class="items temp"><a (click)="logout()">LOGOUT</a></li>
+                </ul>
+            </div>
+        </nav>
+        <div class="header-content">
+            <a class="btn btn-primary text-red temp" (click)="getAll()">View All Guest</a><br>
+            <a class="btn btn-primary text-red temp" (click)="showdiv2()">Get Guest By Phone Number</a><br>
+            <a class="btn btn-primary text-red temp" (click)="showdiv3()">Update Name</a><br>
+            <a class="btn btn-primary text-red temp" (click)="showdiv4()">Update Email</a><br>
+        </div>
+    </header>
+    <section class="showcase">
+        <div class="container row row1" *ngIf="show">
+            <div class="text-box">
+                <h2 class="medium-heading text-black head-mid">GUEST LIST</h2>
+                <table class="tbl">
+                    <tr>
+                        <th>Name</th>
+                        <th>Phone Number</th>
+                        <th>Email</th>
+                        <th>Gender</th>
+                        <th>Address</th>
+                        <th>Delete</th>
+                    </tr>
+                    <tr *ngFor="let temp of guestArr">
+                        <td>{{temp.name}}</td>
+                        <td>{{temp.phoneNumber}}</td>
+                        <td>{{temp.email}}</td>
+                        <td>{{temp.gender}}</td>
+                        <td>{{temp.address}}</td>
+                        <td><button class="btn btn-secondary text-red temp" (click)="deleteGuest(temp.phoneNumber)">Delete</button></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div class="container row row1" *ngIf="showguest">
+            <div class="text-box">
+                <h2 class="medium-heading text-black head-mid">GET GUEST BY PHONE NUMBER</h2>
+                <!-- <label>Phone Number</label> -->
+                <div class="input-box">
+                    <input type="tel" placeholder="Phone Number" name="phone" id="phone" [(ngModel)]="phone" required>
+                </div>
+                <a class="btn btn-secondary text-red temp" (click)="getByPhoneNumber(phone)">Get Guest</a>
+                <table *ngIf="showguesttable" class="tbl">
+                    <tr>
+                        <th>Name</th>
+                        <th>Phone Number</th>
+                        <th>Email</th>
+                        <th>Gender</th>
+                        <th>Address</th>
+                    </tr>
+                    <tr>
+                        <td>{{guestByPhoneObj.name}}</td>
+                        <td>{{guestByPhoneObj.phoneNumber}}</td>
+                        <td>{{guestByPhoneObj.email}}</td>
+                        <td>{{guestByPhoneObj.gender}}</td>
+                        <td>{{guestByPhoneObj.address}}</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div class="container row row1" *ngIf="showname">
+            <div class="text-box">
+                <h2 class="medium-heading text-black head-mid">UPDATE NAME</h2>
+                <!-- <label>Phone Number</label> -->
+                <div class="input-box">
+                    <input type="tel" placeholder="Phone Number" name="name_phone" id="name_phone" required [(ngModel)]="name_phone" >
+                </div>
+                <!-- <label>Name</label> -->
+                <div class="input-box">
+                    <input type="tel" placeholder="Name" name="name" id="name" required [(ngModel)]="name" >
+                </div>
+                <a class="btn btn-secondary text-red temp" (click)="updateName(name_phone,name)">Update Name</a>
+                <table *ngIf="shownametable" class="tbl">
+                    <tr>
+                        <th>Name</th>
+                        <th>Phone Number</th>
+                        <th>Email</th>
+                        <th>Gender</th>
+                        <th>Address</th>
+                    </tr>
+                    <tr>
+                        <td>{{updateNameObj.name}}</td>
+                        <td>{{updateNameObj.phoneNumber}}</td>
+                        <td>{{updateNameObj.email}}</td>
+                        <td>{{updateNameObj.gender}}</td>
+                        <td>{{updateNameObj.address}}</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div class="container row row1" *ngIf="showemail">
+            <div class="text-box">
+                <h2 class="medium-heading text-black head-mid">UPDATE EMAIL</h2>
+                <!-- <label>Phone Number</label> -->
+                <div class="input-box">
+                    <input type="tel" placeholder="Phone Number" name="email_phone" id="email_phone" [(ngModel)]="email_phone" required>
+                </div>
+                <!-- <label>Email</label> -->
+                <div class="input-box">
+                    <input type="email" placeholder="Email" name="email" id="email" [(ngModel)]="email" required>
+                </div>
+                <a class="btn btn-secondary text-red temp" (click)="updateEmail(email_phone,email)">Update Email</a>
+                <table *ngIf="showemailtable" class="tbl">
+                    <tr>
+                        <th>Name</th>
+                        <th>Phone Number</th>
+                        <th>Email</th>
+                        <th>Gender</th>
+                        <th>Address</th>
+                    </tr>
+                    <tr>
+                        <td>{{updateEmailObj.name}}</td>
+                        <td>{{updateEmailObj.phoneNumber}}</td>
+                        <td>{{updateEmailObj.email}}</td>
+                        <td>{{updateEmailObj.gender}}</td>
+                        <td>{{updateEmailObj.address}}</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </section>
+    <footer class="footer">
+        <div class="container">
+            <div class="social-media">
+                <i class="fa-brands fa-facebook fa-4x"></i>
+                <i class="fa-brands fa-instagram fa-4x"></i>
+                <i class="fa-brands fa-twitter fa-4x"></i>
+            </div>
+            <p>Blissful Bay Resort &copy; 2024, All Rights Reserved</p>
+        </div>
+    </footer>
+</body>
+</html>

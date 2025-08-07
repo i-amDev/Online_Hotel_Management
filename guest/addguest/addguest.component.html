@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Add Guest</title>
+</head>
+<body>
+  <div class="wrapper">
+    <form action="">
+      <h1>Add Guest</h1>
+      <div class="input-box">
+        <input type="text" placeholder="Name" name="Name" required [(ngModel)]="name">
+      </div>
+      <div class="input-box">
+        <input type="tel" placeholder="Phone Number" name="Phone Number" required [(ngModel)]="phone">
+      </div>      
+      <div class="input-box">
+        <input type="text" placeholder="Email" name="Email" required [(ngModel)]="email">
+      </div>
+      <div class="input-box">
+        <input type="text" placeholder="Gender" name="Gender" required [(ngModel)]="gender">
+      </div>
+      <div class="input-box">
+        <input type="text" placeholder="Address" name="Address" required [(ngModel)]="address">
+      </div>
+      <button type="submit" class="btn" (click)="addGuest()">Add Guest</button>
+    </form>
+  </div>
+  <!-- <footer class="footer">
+    <div class="container">
+        <div class="social-media">
+            <i class="fa-brands fa-facebook fa-4x"></i>
+            <i class="fa-brands fa-instagram fa-4x"></i>
+            <i class="fa-brands fa-twitter fa-4x"></i>
+        </div>
+        <p>Footer Section &copy; 2024, All Rights Reserved</p>
+    </div>
+</footer> -->
+</body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login Form</title>
+  <link href='https://unpkg.com/boxicons@2.1.4/css/oxicons.min.css' rel='stylesheet'>
+</head>
+
+<body>
+  <div class="wrapper">
+    <form action="">
+      <h1>Login</h1>
+      <div class="input-box">
+        <input type="text" placeholder="Username" name="username" required [(ngModel)]="auth.username">
+        <i class='bx bxs-user'></i>
+      </div>
+      <div class="input-box">
+        <input type="password" placeholder="Password" name="password" required [(ngModel)]="auth.password">
+        <i class='bx bxs-lock-alt'></i>
+      </div>
+      <button type="submit" class="btn" (click)="getToken()">Login</button>
+      <div class="register-link">
+        <p>Don't have an account? <a routerLink="/signup">Register</a></p>
+      </div>
+      <div class="register-link">
+        <p><a routerLink="/home">Home</a></p>
+        <p>{{message}}</p>
+      </div>
+    </form>
+  </div>
+</body>
+</html>
+<router-outlet></router-outlet>

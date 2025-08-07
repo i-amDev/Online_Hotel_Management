@@ -1,0 +1,52 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+::ng-deep *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-family: "Montserrat", sans-serif;
+    line-height: 1.7;
+} */
+
+/* ######################## UTILITY CLASSES ##################################### */
+
+/* .lg-heading{
+    font-size: 1.4rem;
+}
+
+.md-heading{
+    font-size: 2.2rem;
+}
+
+.text-red{
+    color: #e63946;
+}
+
+.text-light{
+    color: #f4f4f4;
+}
+
+.text-black{
+    color: #333333;
+}
+
+.text-gray{
+    color: #555555;
+}
+
+.container{
+    max-width: 1200px;
+    width: 90%;
+    margin: 0 auto;
+} */
+
+/* ######################## UTILITY CLASSES ##################################### */
+
+/* / */
